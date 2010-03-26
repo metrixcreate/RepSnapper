@@ -1,0 +1,323 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/example
+END
+find_root_example.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/example/find_root_example.cpp
+END
+students_t_single_sample.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/example/students_t_single_sample.cpp
+END
+find_mean_and_sd_normal.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/example/find_mean_and_sd_normal.cpp
+END
+neg_binomial_sample_sizes.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/example/neg_binomial_sample_sizes.cpp
+END
+find_scale_example.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/example/find_scale_example.cpp
+END
+laplace_example.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/example/laplace_example.cpp
+END
+binomial_quiz_example.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/example/binomial_quiz_example.cpp
+END
+error_policy_example.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/example/error_policy_example.cpp
+END
+f_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/example/f_test.cpp
+END
+policy_ref_snip10.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/example/policy_ref_snip10.cpp
+END
+policy_ref_snip11.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/example/policy_ref_snip11.cpp
+END
+policy_ref_snip12.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/example/policy_ref_snip12.cpp
+END
+binomial_confidence_limits.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/example/binomial_confidence_limits.cpp
+END
+policy_ref_snip13.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/example/policy_ref_snip13.cpp
+END
+policy_eg_1.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/example/policy_eg_1.cpp
+END
+binomial_example_nag.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/example/binomial_example_nag.cpp
+END
+policy_eg_2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/example/policy_eg_2.cpp
+END
+policy_eg_3.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/example/policy_eg_3.cpp
+END
+policy_eg_4.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/example/policy_eg_4.cpp
+END
+policy_eg_5.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/example/policy_eg_5.cpp
+END
+policy_eg_6.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/example/policy_eg_6.cpp
+END
+policy_eg_7.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/example/policy_eg_7.cpp
+END
+normal_misc_examples.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/example/normal_misc_examples.cpp
+END
+nc_chi_sq_example.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/example/nc_chi_sq_example.cpp
+END
+policy_eg_8.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/example/policy_eg_8.cpp
+END
+policy_eg_9.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/example/policy_eg_9.cpp
+END
+policy_ref_snip1.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/example/policy_ref_snip1.cpp
+END
+policy_ref_snip2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/example/policy_ref_snip2.cpp
+END
+policy_ref_snip3.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/example/policy_ref_snip3.cpp
+END
+negative_binomial_example1.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/example/negative_binomial_example1.cpp
+END
+binomial_sample_sizes.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/example/binomial_sample_sizes.cpp
+END
+error_handling_example.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/example/error_handling_example.cpp
+END
+policy_ref_snip4.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/example/policy_ref_snip4.cpp
+END
+negative_binomial_example2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/example/negative_binomial_example2.cpp
+END
+policy_ref_snip5.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/example/policy_ref_snip5.cpp
+END
+students_t_two_samples.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/example/students_t_two_samples.cpp
+END
+policy_eg_10.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/example/policy_eg_10.cpp
+END
+policy_ref_snip6.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/example/policy_ref_snip6.cpp
+END
+policy_ref_snip7.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/example/policy_ref_snip7.cpp
+END
+Jamfile.v2
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/example/Jamfile.v2
+END
+policy_ref_snip8.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/example/policy_ref_snip8.cpp
+END
+policy_ref_snip9.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/example/policy_ref_snip9.cpp
+END
+find_location_example.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/example/find_location_example.cpp
+END
+c_error_policy_example.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/example/c_error_policy_example.cpp
+END
+binomial_coinflip_example.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/example/binomial_coinflip_example.cpp
+END
+binomial_example3.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/example/binomial_example3.cpp
+END
+students_t_example1.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/example/students_t_example1.cpp
+END
+distribution_construction.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/example/distribution_construction.cpp
+END
+students_t_example2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/example/students_t_example2.cpp
+END
+chi_square_std_dev_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/example/chi_square_std_dev_test.cpp
+END
+students_t_example3.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/example/students_t_example3.cpp
+END
+neg_binom_confidence_limits.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/example/neg_binom_confidence_limits.cpp
+END
+error_policies_example.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/example/error_policies_example.cpp
+END

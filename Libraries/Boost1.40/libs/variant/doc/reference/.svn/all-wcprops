@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/variant/doc/reference
+END
+apply_visitor.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/variant/doc/reference/apply_visitor.xml
+END
+bad_visit.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/variant/doc/reference/bad_visit.xml
+END
+variant.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/variant/doc/reference/variant.xml
+END
+variant_fwd.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/variant/doc/reference/variant_fwd.xml
+END
+visitor_ptr.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/variant/doc/reference/visitor_ptr.xml
+END
+static_visitor.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/variant/doc/reference/static_visitor.xml
+END
+recursive_wrapper.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/variant/doc/reference/recursive_wrapper.xml
+END
+recursive_variant.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/variant/doc/reference/recursive_variant.xml
+END
+concepts.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/variant/doc/reference/concepts.xml
+END
+reference.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/variant/doc/reference/reference.xml
+END
+get.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/variant/doc/reference/get.xml
+END

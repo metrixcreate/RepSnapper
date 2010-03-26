@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/demos/skyfly
+END
+clouds.bw
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/demos/skyfly/clouds.bw
+END
+random.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/demos/skyfly/random.c
+END
+skyfly.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/demos/skyfly/skyfly.c
+END
+image.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/demos/skyfly/image.c
+END
+database.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/demos/skyfly/database.c
+END
+Imakefile
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/demos/skyfly/Imakefile
+END
+skyfly.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/demos/skyfly/skyfly.dsp
+END
+skyfly.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/demos/skyfly/skyfly.h
+END
+gm_main.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/demos/skyfly/gm_main.c
+END
+fly.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/demos/skyfly/fly.c
+END
+perfdraw.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/demos/skyfly/perfdraw.c
+END
+terrain.bw
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/demos/skyfly/terrain.bw
+END
+Makefile.sgi
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/demos/skyfly/Makefile.sgi
+END

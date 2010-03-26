@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/tools/build/v2/example/make
+END
+jamroot.jam
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/tools/build/v2/example/make/jamroot.jam
+END
+main_cpp.pro
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/tools/build/v2/example/make/main_cpp.pro
+END
+foo.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/tools/build/v2/example/make/foo.py
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/tools/build/v2/example/make/readme.txt
+END

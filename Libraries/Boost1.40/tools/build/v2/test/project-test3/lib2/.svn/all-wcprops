@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/tools/build/v2/test/project-test3/lib2
+END
+c.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/tools/build/v2/test/project-test3/lib2/c.cpp
+END
+d.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/tools/build/v2/test/project-test3/lib2/d.cpp
+END
+jamfile.jam
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/tools/build/v2/test/project-test3/lib2/jamfile.jam
+END

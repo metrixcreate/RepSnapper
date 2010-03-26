@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/disjoint_sets
+END
+disjoint_sets.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/disjoint_sets/disjoint_sets.html
+END
+module.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/disjoint_sets/module.cmake
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/disjoint_sets/Jamfile
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/disjoint_sets/index.html
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/disjoint_sets/CMakeLists.txt
+END
+bibliography.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/disjoint_sets/bibliography.html
+END
+disjoint_set_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/disjoint_sets/disjoint_set_test.cpp
+END

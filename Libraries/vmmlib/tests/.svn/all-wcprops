@@ -1,0 +1,299 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/RepSnapper/!svn/ver/1/Libraries/vmmlib/tests
+END
+SVDTest.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/RepSnapper/!svn/ver/1/Libraries/vmmlib/tests/SVDTest.h
+END
+vmmlib_lapack_main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/RepSnapper/!svn/ver/1/Libraries/vmmlib/tests/vmmlib_lapack_main.cpp
+END
+lapack_svd_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/RepSnapper/!svn/ver/1/Libraries/vmmlib/tests/lapack_svd_test.cpp
+END
+lapack_svd_test.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/RepSnapper/!svn/ver/1/Libraries/vmmlib/tests/lapack_svd_test.hpp
+END
+vmmlib_unit_tests_main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/RepSnapper/!svn/ver/1/Libraries/vmmlib/tests/vmmlib_unit_tests_main.cpp
+END
+qr_decomposition_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/RepSnapper/!svn/ver/1/Libraries/vmmlib/tests/qr_decomposition_test.cpp
+END
+svd_lapack_vs_old.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/RepSnapper/!svn/ver/1/Libraries/vmmlib/tests/svd_lapack_vs_old.cpp
+END
+make_stringtests.sh
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/RepSnapper/!svn/ver/1/Libraries/vmmlib/tests/make_stringtests.sh
+END
+lapack_linear_least_squares_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/RepSnapper/!svn/ver/1/Libraries/vmmlib/tests/lapack_linear_least_squares_test.cpp
+END
+timer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/RepSnapper/!svn/ver/1/Libraries/vmmlib/tests/timer.cpp
+END
+JacobiSolverTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/RepSnapper/!svn/ver/1/Libraries/vmmlib/tests/JacobiSolverTest.cpp
+END
+qr_decomposition_test.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/RepSnapper/!svn/ver/1/Libraries/vmmlib/tests/qr_decomposition_test.hpp
+END
+svd_lapack_vs_old.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/RepSnapper/!svn/ver/1/Libraries/vmmlib/tests/svd_lapack_vs_old.hpp
+END
+lapack_linear_least_squares_test.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/RepSnapper/!svn/ver/1/Libraries/vmmlib/tests/lapack_linear_least_squares_test.hpp
+END
+Test.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/RepSnapper/!svn/ver/1/Libraries/vmmlib/tests/Test.h
+END
+matrix_compare_perf_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/RepSnapper/!svn/ver/1/Libraries/vmmlib/tests/matrix_compare_perf_test.cpp
+END
+QuaternionTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/RepSnapper/!svn/ver/1/Libraries/vmmlib/tests/QuaternionTest.cpp
+END
+timer.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/RepSnapper/!svn/ver/1/Libraries/vmmlib/tests/timer.hpp
+END
+Vector2Test.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/RepSnapper/!svn/ver/1/Libraries/vmmlib/tests/Vector2Test.h
+END
+stringtests.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/RepSnapper/!svn/ver/1/Libraries/vmmlib/tests/stringtests.cpp
+END
+matrix_compare_perf_test.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/RepSnapper/!svn/ver/1/Libraries/vmmlib/tests/matrix_compare_perf_test.hpp
+END
+Vector3Test.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/RepSnapper/!svn/ver/1/Libraries/vmmlib/tests/Vector3Test.h
+END
+Vector4Test.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/RepSnapper/!svn/ver/1/Libraries/vmmlib/tests/Vector4Test.h
+END
+svd_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/RepSnapper/!svn/ver/1/Libraries/vmmlib/tests/svd_test.cpp
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/RepSnapper/!svn/ver/1/Libraries/vmmlib/tests/Makefile
+END
+Matrix3Test.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/RepSnapper/!svn/ver/1/Libraries/vmmlib/tests/Matrix3Test.h
+END
+SVDTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/RepSnapper/!svn/ver/1/Libraries/vmmlib/tests/SVDTest.cpp
+END
+Matrix4Test.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/RepSnapper/!svn/ver/1/Libraries/vmmlib/tests/Matrix4Test.h
+END
+performance_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/RepSnapper/!svn/ver/1/Libraries/vmmlib/tests/performance_test.cpp
+END
+svd_test.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/RepSnapper/!svn/ver/1/Libraries/vmmlib/tests/svd_test.hpp
+END
+vector_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/RepSnapper/!svn/ver/1/Libraries/vmmlib/tests/vector_test.cpp
+END
+matrix_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/RepSnapper/!svn/ver/1/Libraries/vmmlib/tests/matrix_test.cpp
+END
+performance_test.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/RepSnapper/!svn/ver/1/Libraries/vmmlib/tests/performance_test.hpp
+END
+vector_test.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/RepSnapper/!svn/ver/1/Libraries/vmmlib/tests/vector_test.hpp
+END
+matrix_test.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/RepSnapper/!svn/ver/1/Libraries/vmmlib/tests/matrix_test.hpp
+END
+unit_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/RepSnapper/!svn/ver/1/Libraries/vmmlib/tests/unit_test.cpp
+END
+main_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/RepSnapper/!svn/ver/1/Libraries/vmmlib/tests/main_test.cpp
+END
+unit_test.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/RepSnapper/!svn/ver/1/Libraries/vmmlib/tests/unit_test.hpp
+END
+Vector2Test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/RepSnapper/!svn/ver/1/Libraries/vmmlib/tests/Vector2Test.cpp
+END
+quaternion_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/RepSnapper/!svn/ver/1/Libraries/vmmlib/tests/quaternion_test.cpp
+END
+Vector3Test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/RepSnapper/!svn/ver/1/Libraries/vmmlib/tests/Vector3Test.cpp
+END
+Vector4Test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/RepSnapper/!svn/ver/1/Libraries/vmmlib/tests/Vector4Test.cpp
+END
+JacobiSolverTest.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/RepSnapper/!svn/ver/1/Libraries/vmmlib/tests/JacobiSolverTest.h
+END
+Matrix3Test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/RepSnapper/!svn/ver/1/Libraries/vmmlib/tests/Matrix3Test.cpp
+END
+Matrix4Test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/RepSnapper/!svn/ver/1/Libraries/vmmlib/tests/Matrix4Test.cpp
+END
+quaternion_test.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/RepSnapper/!svn/ver/1/Libraries/vmmlib/tests/quaternion_test.hpp
+END
+QuaternionTest.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/RepSnapper/!svn/ver/1/Libraries/vmmlib/tests/QuaternionTest.h
+END
+perf_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/RepSnapper/!svn/ver/1/Libraries/vmmlib/tests/perf_test.cpp
+END
+vmmlib_performance_tests_main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/RepSnapper/!svn/ver/1/Libraries/vmmlib/tests/vmmlib_performance_tests_main.cpp
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/signals/doc
+END
+signals.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/signals/doc/signals.xml
+END
+introduction.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/signals/doc/introduction.xml
+END
+tests.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/signals/doc/tests.xml
+END
+tutorial.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/signals/doc/tutorial.xml
+END
+faq.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/signals/doc/faq.xml
+END
+design.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/signals/doc/design.xml
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/signals/doc/index.html
+END
+Jamfile.v2
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/signals/doc/Jamfile.v2
+END
+rationale.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/signals/doc/rationale.xml
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/RepSnapper/!svn/ver/1/Libraries/gle-3.1.0/swig
+END
+gle_wrap.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/RepSnapper/!svn/ver/1/Libraries/gle-3.1.0/swig/gle_wrap.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/RepSnapper/!svn/ver/1/Libraries/gle-3.1.0/swig/Makefile.in
+END
+gle_wrap.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/RepSnapper/!svn/ver/1/Libraries/gle-3.1.0/swig/gle_wrap.html
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/RepSnapper/!svn/ver/1/Libraries/gle-3.1.0/swig/Makefile.am
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/RepSnapper/!svn/ver/1/Libraries/gle-3.1.0/swig/.cvsignore
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/RepSnapper/!svn/ver/1/Libraries/gle-3.1.0/swig/README
+END
+gle.i
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/RepSnapper/!svn/ver/1/Libraries/gle-3.1.0/swig/gle.i
+END
+gle.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/RepSnapper/!svn/ver/1/Libraries/gle-3.1.0/swig/gle.py
+END

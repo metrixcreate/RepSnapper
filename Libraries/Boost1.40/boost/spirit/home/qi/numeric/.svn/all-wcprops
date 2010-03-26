@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/spirit/home/qi/numeric
+END
+int.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/spirit/home/qi/numeric/int.hpp
+END
+real_policies.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/spirit/home/qi/numeric/real_policies.hpp
+END
+meta_grammar.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/spirit/home/qi/numeric/meta_grammar.hpp
+END
+uint.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/spirit/home/qi/numeric/uint.hpp
+END
+numeric_utils.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/spirit/home/qi/numeric/numeric_utils.hpp
+END
+real.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/spirit/home/qi/numeric/real.hpp
+END

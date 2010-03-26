@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/program_options/test
+END
+minitest.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/program_options/test/minitest.hpp
+END
+winmain.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/program_options/test/winmain.cpp
+END
+winmain.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/program_options/test/winmain.py
+END
+ucs2.txt
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/program_options/test/ucs2.txt
+END
+cmdline_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/program_options/test/cmdline_test.cpp
+END
+Jamfile.v2
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/program_options/test/Jamfile.v2
+END
+parsers_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/program_options/test/parsers_test.cpp
+END
+test_convert.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/program_options/test/test_convert.cpp
+END
+variable_map_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/program_options/test/variable_map_test.cpp
+END
+program_options_size_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/program_options/test/program_options_size_test.py
+END
+utf8.txt
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/program_options/test/utf8.txt
+END
+unicode_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/program_options/test/unicode_test.cpp
+END
+positional_options_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/program_options/test/positional_options_test.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/program_options/test/CMakeLists.txt
+END
+options_description_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/program_options/test/options_description_test.cpp
+END

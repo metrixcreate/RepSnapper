@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/gle
+END
+ex_cut_round.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/gle/ex_cut_round.c
+END
+rotate.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/gle/rotate.c
+END
+intersect.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/gle/intersect.c
+END
+segment.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/gle/segment.c
+END
+rot_prince.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/gle/rot_prince.c
+END
+intersect.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/gle/intersect.h
+END
+Imakefile
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/gle/Imakefile
+END
+gle_dll.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/gle/gle_dll.dsp
+END
+segment.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/gle/segment.h
+END
+rot.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/gle/rot.h
+END
+round_cap.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/gle/round_cap.c
+END
+view.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/gle/view.c
+END
+gle.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/gle/gle.dsp
+END
+qmesh.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/gle/qmesh.c
+END
+Makefile.sgi
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/gle/Makefile.sgi
+END
+tube_gc.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/gle/tube_gc.h
+END
+copy.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/gle/copy.h
+END
+extrude.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/gle/extrude.c
+END
+ex_angle.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/gle/ex_angle.c
+END
+urotate.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/gle/urotate.c
+END
+extrude.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/gle/extrude.h
+END
+ex_raw.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/gle/ex_raw.c
+END
+port.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/gle/port.h
+END
+gutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/gle/gutil.h
+END
+texgen.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/gle/texgen.c
+END
+ObjectType.mk
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/gle/ObjectType.mk
+END
+vvector.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/gle/vvector.h
+END

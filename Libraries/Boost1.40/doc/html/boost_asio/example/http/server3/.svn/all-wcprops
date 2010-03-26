@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/example/http/server3
+END
+connection.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/example/http/server3/connection.cpp
+END
+reply.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/example/http/server3/reply.hpp
+END
+win_main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/example/http/server3/win_main.cpp
+END
+request_parser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/example/http/server3/request_parser.cpp
+END
+connection.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/example/http/server3/connection.hpp
+END
+server.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/example/http/server3/server.cpp
+END
+posix_main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/example/http/server3/posix_main.cpp
+END
+request_parser.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/example/http/server3/request_parser.hpp
+END
+server.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/example/http/server3/server.hpp
+END
+mime_types.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/example/http/server3/mime_types.cpp
+END
+mime_types.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/example/http/server3/mime_types.hpp
+END
+request_handler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/example/http/server3/request_handler.cpp
+END
+request_handler.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/example/http/server3/request_handler.hpp
+END
+reply.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/example/http/server3/reply.cpp
+END
+request.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/example/http/server3/request.hpp
+END
+header.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/example/http/server3/header.hpp
+END

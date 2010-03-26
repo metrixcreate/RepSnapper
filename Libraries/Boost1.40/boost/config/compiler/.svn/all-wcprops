@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/config/compiler
+END
+sgi_mipspro.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/config/compiler/sgi_mipspro.hpp
+END
+sunpro_cc.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/config/compiler/sunpro_cc.hpp
+END
+greenhills.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/config/compiler/greenhills.hpp
+END
+gcc.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/config/compiler/gcc.hpp
+END
+digitalmars.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/config/compiler/digitalmars.hpp
+END
+metrowerks.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/config/compiler/metrowerks.hpp
+END
+compaq_cxx.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/config/compiler/compaq_cxx.hpp
+END
+mpw.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/config/compiler/mpw.hpp
+END
+kai.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/config/compiler/kai.hpp
+END
+visualc.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/config/compiler/visualc.hpp
+END
+common_edg.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/config/compiler/common_edg.hpp
+END
+comeau.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/config/compiler/comeau.hpp
+END
+codegear.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/config/compiler/codegear.hpp
+END
+vacpp.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/config/compiler/vacpp.hpp
+END
+intel.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/config/compiler/intel.hpp
+END
+gcc_xml.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/config/compiler/gcc_xml.hpp
+END
+hp_acc.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/config/compiler/hp_acc.hpp
+END
+pgi.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/config/compiler/pgi.hpp
+END
+borland.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/config/compiler/borland.hpp
+END

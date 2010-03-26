@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/test/doc/html/utf/usage-recomendations
+END
+generic.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/test/doc/html/utf/usage-recomendations/generic.html
+END
+dot-net-specific.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/test/doc/html/utf/usage-recomendations/dot-net-specific.html
+END
+command-line-specific.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/test/doc/html/utf/usage-recomendations/command-line-specific.html
+END

@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/texfont
+END
+showtxf.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/texfont/showtxf.c
+END
+default.txf
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/texfont/default.txf
+END
+rockfont.txf
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/texfont/rockfont.txf
+END
+Imakefile
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/texfont/Imakefile
+END
+showtxf.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/texfont/showtxf.dsp
+END
+txfdemo.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/texfont/txfdemo.c
+END
+sorority.txf
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/texfont/sorority.txf
+END
+txfdemo.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/texfont/txfdemo.dsp
+END
+simpletxf.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/texfont/simpletxf.c
+END
+curlfont.txf
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/texfont/curlfont.txf
+END
+_all.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/texfont/_all.dsp
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/texfont/README
+END
+Makefile.sgi
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/texfont/Makefile.sgi
+END
+djb.txf
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/texfont/djb.txf
+END
+abgr.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/texfont/abgr.dsp
+END
+simpletxf.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/texfont/simpletxf.dsp
+END
+gentexfont.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/texfont/gentexfont.c
+END
+gentexfont.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/texfont/gentexfont.dsp
+END
+texfont.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/texfont/texfont.c
+END
+haeberli.txf
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/texfont/haeberli.txf
+END
+TexFont.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/texfont/TexFont.h
+END

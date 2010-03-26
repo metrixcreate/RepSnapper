@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/test/lex
+END
+lexertl1.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/test/lex/lexertl1.cpp
+END
+test_parser.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/test/lex/test_parser.hpp
+END
+lexertl2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/test/lex/lexertl2.cpp
+END
+lexertl3.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/test/lex/lexertl3.cpp
+END
+lexertl4.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/test/lex/lexertl4.cpp
+END
+lexertl5.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/test/lex/lexertl5.cpp
+END
+test.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/test/lex/test.hpp
+END
+state_switcher_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/test/lex/state_switcher_test.cpp
+END

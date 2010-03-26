@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/regex
+END
+concepts.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/regex/concepts.hpp
+END
+user.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/regex/user.hpp
+END
+icu.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/regex/icu.hpp
+END
+regex_traits.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/regex/regex_traits.hpp
+END
+config.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/regex/config.hpp
+END
+mfc.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/regex/mfc.hpp
+END
+pattern_except.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/regex/pattern_except.hpp
+END

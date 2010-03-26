@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/tools/build/v2/test/project-test4
+END
+jamfile3.jam
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/tools/build/v2/test/project-test4/jamfile3.jam
+END
+a.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/tools/build/v2/test/project-test4/a.cpp
+END
+jamfile4.jam
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/tools/build/v2/test/project-test4/jamfile4.jam
+END
+jamroot.jam
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/tools/build/v2/test/project-test4/jamroot.jam
+END
+jamfile5.jam
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/tools/build/v2/test/project-test4/jamfile5.jam
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/tools/build/v2/test/project-test4/readme.txt
+END
+a_gcc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/tools/build/v2/test/project-test4/a_gcc.cpp
+END
+jamfile.jam
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/tools/build/v2/test/project-test4/jamfile.jam
+END

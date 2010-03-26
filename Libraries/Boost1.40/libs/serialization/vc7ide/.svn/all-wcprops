@@ -1,0 +1,551 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/vc7ide
+END
+test_class_info_load.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/vc7ide/test_class_info_load.vcproj
+END
+test_codecvt_null.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/vc7ide/test_codecvt_null.vcproj
+END
+test_derived.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/vc7ide/test_derived.vcproj
+END
+test_dll_simple.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/vc7ide/test_dll_simple.vcproj
+END
+test_not_serializable.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/vc7ide/test_not_serializable.vcproj
+END
+test_exported.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/vc7ide/test_exported.vcproj
+END
+polymorphic_derived2.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/vc7ide/polymorphic_derived2.vcproj
+END
+test_set.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/vc7ide/test_set.vcproj
+END
+test_derived_class_ptr.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/vc7ide/test_derived_class_ptr.vcproj
+END
+LibraryW.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/vc7ide/LibraryW.vcproj
+END
+test_traits_pass.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/vc7ide/test_traits_pass.vcproj
+END
+test_utf8_codecvt.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/vc7ide/test_utf8_codecvt.vcproj
+END
+demo_shared_ptr.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/vc7ide/demo_shared_ptr.vcproj
+END
+dll_derived2.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/vc7ide/dll_derived2.vcproj
+END
+test_smart_cast.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/vc7ide/test_smart_cast.vcproj
+END
+test_unregistered.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/vc7ide/test_unregistered.vcproj
+END
+test_delete_pointer.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/vc7ide/test_delete_pointer.vcproj
+END
+test_reset_object_addr.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/vc7ide/test_reset_object_addr.vcproj
+END
+test_singleton.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/vc7ide/test_singleton.vcproj
+END
+test_new_operator.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/vc7ide/test_new_operator.vcproj
+END
+test_private_base.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/vc7ide/test_private_base.vcproj
+END
+test_mult_archive_types.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/vc7ide/test_mult_archive_types.vcproj
+END
+test_complex.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/vc7ide/test_complex.vcproj
+END
+test_list.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/vc7ide/test_list.vcproj
+END
+test_const_pass.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/vc7ide/test_const_pass.vcproj
+END
+test_no_rtti.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/vc7ide/test_no_rtti.vcproj
+END
+test_simple_class.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/vc7ide/test_simple_class.vcproj
+END
+demo_dll.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/vc7ide/demo_dll.vcproj
+END
+test_contained_class.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/vc7ide/test_contained_class.vcproj
+END
+test_shared_ptr.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/vc7ide/test_shared_ptr.vcproj
+END
+test_strong_typedef.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/vc7ide/test_strong_typedef.vcproj
+END
+test_shared_ptr_multi_base.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/vc7ide/test_shared_ptr_multi_base.vcproj
+END
+test_private_ctor.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/vc7ide/test_private_ctor.vcproj
+END
+test_inclusion.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/vc7ide/test_inclusion.vcproj
+END
+BoostSerializationLibrary.sln
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/vc7ide/BoostSerializationLibrary.sln
+END
+test_variant.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/vc7ide/test_variant.vcproj
+END
+test_mi.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/vc7ide/test_mi.vcproj
+END
+demo_xml.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/vc7ide/demo_xml.vcproj
+END
+dll_base.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/vc7ide/dll_base.vcproj
+END
+test_recursion.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/vc7ide/test_recursion.vcproj
+END
+test_diamond.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/vc7ide/test_diamond.vcproj
+END
+dll_a.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/vc7ide/dll_a.vcproj
+END
+test_map.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/vc7ide/test_map.vcproj
+END
+demo_portable_archive.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/vc7ide/demo_portable_archive.vcproj
+END
+Manual.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/vc7ide/Manual.vcproj
+END
+test_array.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/vc7ide/test_array.vcproj
+END
+test_shared_ptr_132.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/vc7ide/test_shared_ptr_132.vcproj
+END
+test_valarray.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/vc7ide/test_valarray.vcproj
+END
+demo_xml_save.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/vc7ide/demo_xml_save.vcproj
+END
+test_optional.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/vc7ide/test_optional.vcproj
+END
+test_non_default_ctor.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/vc7ide/test_non_default_ctor.vcproj
+END
+test_dll_exported.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/vc7ide/test_dll_exported.vcproj
+END
+demo.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/vc7ide/demo.vcproj
+END
+test_recusion.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/vc7ide/test_recusion.vcproj
+END
+test_bitset.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/vc7ide/test_bitset.vcproj
+END
+test_null_ptr.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/vc7ide/test_null_ptr.vcproj
+END
+test_traits_fail.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/vc7ide/test_traits_fail.vcproj
+END
+demo_auto_ptr.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/vc7ide/demo_auto_ptr.vcproj
+END
+demo_exception.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/vc7ide/demo_exception.vcproj
+END
+test_simple_class_ptr.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/vc7ide/test_simple_class_ptr.vcproj
+END
+test_multiple_inheritance.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/vc7ide/test_multiple_inheritance.vcproj
+END
+demo_xml_load.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/vc7ide/demo_xml_load.vcproj
+END
+test_polymorphic.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/vc7ide/test_polymorphic.vcproj
+END
+test_object.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/vc7ide/test_object.vcproj
+END
+test_non_default_ctor2.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/vc7ide/test_non_default_ctor2.vcproj
+END
+test_derived_class.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/vc7ide/test_derived_class.vcproj
+END
+demo_polymorphic.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/vc7ide/demo_polymorphic.vcproj
+END
+test_iterators.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/vc7ide/test_iterators.vcproj
+END
+test_static_warning.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/vc7ide/test_static_warning.vcproj
+END
+test_cyclic_ptrs.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/vc7ide/test_cyclic_ptrs.vcproj
+END
+test_iterators_base64.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/vc7ide/test_iterators_base64.vcproj
+END
+test_const_fail.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/vc7ide/test_const_fail.vcproj
+END
+test_list_ptrs.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/vc7ide/test_list_ptrs.vcproj
+END
+test_binary.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/vc7ide/test_binary.vcproj
+END
+demo_pimpl.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/vc7ide/demo_pimpl.vcproj
+END
+test_const.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/vc7ide/test_const.vcproj
+END
+test_dll_plugin.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/vc7ide/test_dll_plugin.vcproj
+END
+test_split.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/vc7ide/test_split.vcproj
+END
+test_registered.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/vc7ide/test_registered.vcproj
+END
+test_class_info_save.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/vc7ide/test_class_info_save.vcproj
+END
+test_non_intrusive.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/vc7ide/test_non_intrusive.vcproj
+END
+test_tracking.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/vc7ide/test_tracking.vcproj
+END
+test_vector.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/vc7ide/test_vector.vcproj
+END
+test_nvp.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/vc7ide/test_nvp.vcproj
+END
+test_multiple_ptrs.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/vc7ide/test_multiple_ptrs.vcproj
+END
+test_deque.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/vc7ide/test_deque.vcproj
+END
+demo_fast_archive.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/vc7ide/demo_fast_archive.vcproj
+END
+Library.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/vc7ide/Library.vcproj
+END
+test_primitive.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/vc7ide/test_primitive.vcproj
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/vc7ide/readme.txt
+END
+test_void_cast.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/vc7ide/test_void_cast.vcproj
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/mpl/example
+END
+inherit_linearly.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/mpl/example/inherit_linearly.cpp
+END
+inherit_multiply.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/mpl/example/inherit_multiply.cpp
+END
+tuple_from_list.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/mpl/example/tuple_from_list.cpp
+END
+integer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/mpl/example/integer.cpp
+END

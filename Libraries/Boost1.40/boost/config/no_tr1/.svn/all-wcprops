@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/config/no_tr1
+END
+cmath.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/config/no_tr1/cmath.hpp
+END
+functional.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/config/no_tr1/functional.hpp
+END
+utility.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/config/no_tr1/utility.hpp
+END
+complex.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/config/no_tr1/complex.hpp
+END
+memory.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/config/no_tr1/memory.hpp
+END

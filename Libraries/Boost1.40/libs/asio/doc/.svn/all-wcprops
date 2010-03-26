@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/asio/doc
+END
+tutorial.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/asio/doc/tutorial.qbk
+END
+overview.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/asio/doc/overview.qbk
+END
+reference.dox
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/asio/doc/reference.dox
+END
+examples.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/asio/doc/examples.qbk
+END
+tutorial.dox
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/asio/doc/tutorial.dox
+END
+Jamfile.v2
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/asio/doc/Jamfile.v2
+END
+requirements.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/asio/doc/requirements.qbk
+END
+std_exception_dox.txt
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/asio/doc/std_exception_dox.txt
+END
+noncopyable_dox.txt
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/asio/doc/noncopyable_dox.txt
+END
+using.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/asio/doc/using.qbk
+END
+reference.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/asio/doc/reference.xsl
+END
+index.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/asio/doc/index.xml
+END
+asio.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/asio/doc/asio.qbk
+END
+tutorial.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/asio/doc/tutorial.xsl
+END
+quickref.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/asio/doc/quickref.xml
+END
+reference.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/asio/doc/reference.qbk
+END
+history.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/asio/doc/history.qbk
+END
+doxy2qbk.pl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/asio/doc/doxy2qbk.pl
+END

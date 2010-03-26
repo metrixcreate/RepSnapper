@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost/date_time/winapi
+END
+FILETIME.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost/date_time/winapi/FILETIME.html
+END
+SYSTEMTIME.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost/date_time/winapi/SYSTEMTIME.html
+END
+lpLocalFileTime.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost/date_time/winapi/lpLocalFileTime.html
+END
+file_time_to_microseconds.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost/date_time/winapi/file_time_to_microseconds.html
+END
+lpFileTime.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost/date_time/winapi/lpFileTime.html
+END

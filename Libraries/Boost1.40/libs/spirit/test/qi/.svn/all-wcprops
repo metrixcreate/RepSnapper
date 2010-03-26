@@ -1,0 +1,239 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/test/qi
+END
+char_class.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/test/qi/char_class.cpp
+END
+rule_fail.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/test/qi/rule_fail.cpp
+END
+permutation.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/test/qi/permutation.cpp
+END
+sequence.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/test/qi/sequence.cpp
+END
+list.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/test/qi/list.cpp
+END
+char.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/test/qi/char.cpp
+END
+lexeme.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/test/qi/lexeme.cpp
+END
+uint.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/test/qi/uint.cpp
+END
+match_manip.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/test/qi/match_manip.cpp
+END
+functor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/test/qi/functor.cpp
+END
+grammar_fail.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/test/qi/grammar_fail.cpp
+END
+plus.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/test/qi/plus.cpp
+END
+test.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/test/qi/test.hpp
+END
+grammar.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/test/qi/grammar.cpp
+END
+lit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/test/qi/lit.cpp
+END
+symbols.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/test/qi/symbols.cpp
+END
+raw.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/test/qi/raw.cpp
+END
+difference.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/test/qi/difference.cpp
+END
+none.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/test/qi/none.cpp
+END
+actions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/test/qi/actions.cpp
+END
+kleene.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/test/qi/kleene.cpp
+END
+end.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/test/qi/end.cpp
+END
+rule.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/test/qi/rule.cpp
+END
+no_case.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/test/qi/no_case.cpp
+END
+sequential_or.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/test/qi/sequential_or.cpp
+END
+tst.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/test/qi/tst.cpp
+END
+alternative.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/test/qi/alternative.cpp
+END
+lazy.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/test/qi/lazy.cpp
+END
+range_run.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/test/qi/range_run.cpp
+END
+not_predicate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/test/qi/not_predicate.cpp
+END
+and_predicate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/test/qi/and_predicate.cpp
+END
+real.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/test/qi/real.cpp
+END
+binary.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/test/qi/binary.cpp
+END
+optional.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/test/qi/optional.cpp
+END
+confix.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/test/qi/confix.cpp
+END
+debug.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/test/qi/debug.cpp
+END
+eps.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/test/qi/eps.cpp
+END
+expect.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/test/qi/expect.cpp
+END
+int.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/test/qi/int.cpp
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/tools/build/v2/example/customization
+END
+verbatim.jam
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/tools/build/v2/example/customization/verbatim.jam
+END
+jamroot.jam
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/tools/build/v2/example/customization/jamroot.jam
+END
+inline_file.py
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/tools/build/v2/example/customization/inline_file.py
+END
+codegen.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/tools/build/v2/example/customization/codegen.cpp
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/tools/build/v2/example/customization/readme.txt
+END
+t1.verbatim
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/tools/build/v2/example/customization/t1.verbatim
+END
+usage.verbatim
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/tools/build/v2/example/customization/usage.verbatim
+END
+class.verbatim
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/tools/build/v2/example/customization/class.verbatim
+END
+jamfile.jam
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/tools/build/v2/example/customization/jamfile.jam
+END
+t2.verbatim
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/tools/build/v2/example/customization/t2.verbatim
+END

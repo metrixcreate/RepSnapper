@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/example/posix_time
+END
+time_periods.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/example/posix_time/time_periods.cpp
+END
+time_math.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/example/posix_time/time_math.cpp
+END
+local_utc_conversion.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/example/posix_time/local_utc_conversion.cpp
+END
+Jamfile.v2
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/example/posix_time/Jamfile.v2
+END
+print_hours.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/example/posix_time/print_hours.cpp
+END

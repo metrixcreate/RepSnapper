@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/filesystem/example
+END
+mbpath.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/filesystem/example/mbpath.hpp
+END
+path_table.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/filesystem/example/path_table.cpp
+END
+simple_ls.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/filesystem/example/simple_ls.cpp
+END
+file_size.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/filesystem/example/file_size.cpp
+END
+mbcopy.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/filesystem/example/mbcopy.cpp
+END
+mbpath.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/filesystem/example/mbpath.cpp
+END
+Jamfile.v2
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/filesystem/example/Jamfile.v2
+END

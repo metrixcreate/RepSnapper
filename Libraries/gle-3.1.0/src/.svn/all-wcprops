@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/RepSnapper/!svn/ver/1/Libraries/gle-3.1.0/src
+END
+ex_cut_round.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/RepSnapper/!svn/ver/1/Libraries/gle-3.1.0/src/ex_cut_round.c
+END
+rotate.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/RepSnapper/!svn/ver/1/Libraries/gle-3.1.0/src/rotate.c
+END
+README.gutil
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/RepSnapper/!svn/ver/1/Libraries/gle-3.1.0/src/README.gutil
+END
+intersect.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/RepSnapper/!svn/ver/1/Libraries/gle-3.1.0/src/intersect.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/RepSnapper/!svn/ver/1/Libraries/gle-3.1.0/src/Makefile.in
+END
+segment.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/RepSnapper/!svn/ver/1/Libraries/gle-3.1.0/src/segment.c
+END
+rot_prince.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/RepSnapper/!svn/ver/1/Libraries/gle-3.1.0/src/rot_prince.c
+END
+intersect.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/RepSnapper/!svn/ver/1/Libraries/gle-3.1.0/src/intersect.h
+END
+segment.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/RepSnapper/!svn/ver/1/Libraries/gle-3.1.0/src/segment.h
+END
+rot.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/RepSnapper/!svn/ver/1/Libraries/gle-3.1.0/src/rot.h
+END
+round_cap.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/RepSnapper/!svn/ver/1/Libraries/gle-3.1.0/src/round_cap.c
+END
+view.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/RepSnapper/!svn/ver/1/Libraries/gle-3.1.0/src/view.c
+END
+gle.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/RepSnapper/!svn/ver/1/Libraries/gle-3.1.0/src/gle.h
+END
+COPYING.src
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/RepSnapper/!svn/ver/1/Libraries/gle-3.1.0/src/COPYING.src
+END
+qmesh.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/RepSnapper/!svn/ver/1/Libraries/gle-3.1.0/src/qmesh.c
+END
+tube_gc.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/RepSnapper/!svn/ver/1/Libraries/gle-3.1.0/src/tube_gc.h
+END
+copy.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/RepSnapper/!svn/ver/1/Libraries/gle-3.1.0/src/copy.h
+END
+extrude.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/RepSnapper/!svn/ver/1/Libraries/gle-3.1.0/src/extrude.c
+END
+ex_alpha.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/RepSnapper/!svn/ver/1/Libraries/gle-3.1.0/src/ex_alpha.c
+END
+ex_angle.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/RepSnapper/!svn/ver/1/Libraries/gle-3.1.0/src/ex_angle.c
+END
+urotate.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/RepSnapper/!svn/ver/1/Libraries/gle-3.1.0/src/urotate.c
+END
+extrude.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/RepSnapper/!svn/ver/1/Libraries/gle-3.1.0/src/extrude.h
+END
+ex_raw.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/RepSnapper/!svn/ver/1/Libraries/gle-3.1.0/src/ex_raw.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/RepSnapper/!svn/ver/1/Libraries/gle-3.1.0/src/Makefile.am
+END
+port.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/RepSnapper/!svn/ver/1/Libraries/gle-3.1.0/src/port.h
+END
+texgen.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/RepSnapper/!svn/ver/1/Libraries/gle-3.1.0/src/texgen.c
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/RepSnapper/!svn/ver/1/Libraries/gle-3.1.0/src/.cvsignore
+END
+vvector.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/RepSnapper/!svn/ver/1/Libraries/gle-3.1.0/src/vvector.h
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/special_functions
+END
+atanh_test.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/special_functions/atanh_test.hpp
+END
+output_more.txt
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/special_functions/output_more.txt
+END
+sinc_test.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/special_functions/sinc_test.hpp
+END
+acosh_test.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/special_functions/acosh_test.hpp
+END
+asinh_test.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/special_functions/asinh_test.hpp
+END
+special_functions_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/special_functions/special_functions_test.cpp
+END
+sinhc_test.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/special_functions/sinhc_test.hpp
+END
+output.txt
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/special_functions/output.txt
+END

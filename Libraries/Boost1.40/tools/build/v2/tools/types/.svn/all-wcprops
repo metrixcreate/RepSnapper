@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/tools/build/v2/tools/types
+END
+obj.jam
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/tools/build/v2/tools/types/obj.jam
+END
+objc.jam
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/tools/build/v2/tools/types/objc.jam
+END
+asm.jam
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/tools/build/v2/tools/types/asm.jam
+END
+exe.jam
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/tools/build/v2/tools/types/exe.jam
+END
+cpp.jam
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/tools/build/v2/tools/types/cpp.jam
+END
+html.jam
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/tools/build/v2/tools/types/html.jam
+END
+qt.jam
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/tools/build/v2/tools/types/qt.jam
+END
+register.jam
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/tools/build/v2/tools/types/register.jam
+END
+rsp.jam
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/tools/build/v2/tools/types/rsp.jam
+END
+lib.jam
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/tools/build/v2/tools/types/lib.jam
+END

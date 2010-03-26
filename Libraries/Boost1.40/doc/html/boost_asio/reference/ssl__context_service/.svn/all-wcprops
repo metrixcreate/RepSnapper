@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/ssl__context_service
+END
+set_verify_mode.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/ssl__context_service/set_verify_mode.html
+END
+get_io_service.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/ssl__context_service/get_io_service.html
+END
+use_tmp_dh_file.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/ssl__context_service/use_tmp_dh_file.html
+END
+io_service.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/ssl__context_service/io_service.html
+END
+add_verify_path.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/ssl__context_service/add_verify_path.html
+END
+set_password_callback.html
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/ssl__context_service/set_password_callback.html
+END
+destroy.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/ssl__context_service/destroy.html
+END
+shutdown_service.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/ssl__context_service/shutdown_service.html
+END
+id.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/ssl__context_service/id.html
+END
+use_certificate_file.html
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/ssl__context_service/use_certificate_file.html
+END
+use_private_key_file.html
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/ssl__context_service/use_private_key_file.html
+END
+use_certificate_chain_file.html
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/ssl__context_service/use_certificate_chain_file.html
+END
+load_verify_file.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/ssl__context_service/load_verify_file.html
+END
+impl_type.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/ssl__context_service/impl_type.html
+END
+use_rsa_private_key_file.html
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/ssl__context_service/use_rsa_private_key_file.html
+END
+create.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/ssl__context_service/create.html
+END
+context_service.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/ssl__context_service/context_service.html
+END
+set_options.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/ssl__context_service/set_options.html
+END
+null.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/ssl__context_service/null.html
+END

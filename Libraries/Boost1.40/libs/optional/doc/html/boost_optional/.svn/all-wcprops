@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/optional/doc/html/boost_optional
+END
+implementation_notes.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/optional/doc/html/boost_optional/implementation_notes.html
+END
+a_note_about_optional_bool_.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/optional/doc/html/boost_optional/a_note_about_optional_bool_.html
+END
+examples.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/optional/doc/html/boost_optional/examples.html
+END
+rebinding_semantics_for_assignment_of_optional_references.html
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/optional/doc/html/boost_optional/rebinding_semantics_for_assignment_of_optional_references.html
+END
+detailed_semantics.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/optional/doc/html/boost_optional/detailed_semantics.html
+END
+development.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/optional/doc/html/boost_optional/development.html
+END
+type_requirements.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/optional/doc/html/boost_optional/type_requirements.html
+END
+acknowledgments.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/optional/doc/html/boost_optional/acknowledgments.html
+END
+optional_references.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/optional/doc/html/boost_optional/optional_references.html
+END
+exception_safety_guarantees.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/optional/doc/html/boost_optional/exception_safety_guarantees.html
+END
+synopsis.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/optional/doc/html/boost_optional/synopsis.html
+END
+in_place_factories.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/optional/doc/html/boost_optional/in_place_factories.html
+END
+dependencies_and_portability.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/optional/doc/html/boost_optional/dependencies_and_portability.html
+END

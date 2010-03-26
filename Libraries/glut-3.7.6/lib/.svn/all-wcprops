@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/RepSnapper/!svn/ver/166/Libraries/glut-3.7.6/lib
+END
+lib.dsw
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/lib.dsw
+END
+Imakefile
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/Imakefile
+END
+dll.dsw
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/dll.dsw
+END
+_all.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/_all.dsp
+END
+Makefile.sgi
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/Makefile.sgi
+END

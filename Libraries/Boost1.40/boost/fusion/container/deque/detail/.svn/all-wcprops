@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/fusion/container/deque/detail
+END
+keyed_element.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/fusion/container/deque/detail/keyed_element.hpp
+END
+deque_forward_ctor.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/fusion/container/deque/detail/deque_forward_ctor.hpp
+END
+deque_keyed_values_call.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/fusion/container/deque/detail/deque_keyed_values_call.hpp
+END
+convert_impl.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/fusion/container/deque/detail/convert_impl.hpp
+END
+value_at_impl.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/fusion/container/deque/detail/value_at_impl.hpp
+END
+deque_keyed_values.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/fusion/container/deque/detail/deque_keyed_values.hpp
+END
+at_impl.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/fusion/container/deque/detail/at_impl.hpp
+END
+begin_impl.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/fusion/container/deque/detail/begin_impl.hpp
+END
+as_deque.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/fusion/container/deque/detail/as_deque.hpp
+END
+deque_initial_size.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/fusion/container/deque/detail/deque_initial_size.hpp
+END
+end_impl.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/fusion/container/deque/detail/end_impl.hpp
+END

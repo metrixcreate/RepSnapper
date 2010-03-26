@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/ssl__stream_service
+END
+write_some.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/ssl__stream_service/write_some.html
+END
+in_avail.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/ssl__stream_service/in_avail.html
+END
+async_handshake.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/ssl__stream_service/async_handshake.html
+END
+peek.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/ssl__stream_service/peek.html
+END
+handshake.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/ssl__stream_service/handshake.html
+END
+get_io_service.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/ssl__stream_service/get_io_service.html
+END
+io_service.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/ssl__stream_service/io_service.html
+END
+destroy.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/ssl__stream_service/destroy.html
+END
+async_read_some.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/ssl__stream_service/async_read_some.html
+END
+shutdown_service.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/ssl__stream_service/shutdown_service.html
+END
+id.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/ssl__stream_service/id.html
+END
+read_some.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/ssl__stream_service/read_some.html
+END
+impl_type.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/ssl__stream_service/impl_type.html
+END
+create.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/ssl__stream_service/create.html
+END
+async_shutdown.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/ssl__stream_service/async_shutdown.html
+END
+null.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/ssl__stream_service/null.html
+END
+async_write_some.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/ssl__stream_service/async_write_some.html
+END
+shutdown.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/ssl__stream_service/shutdown.html
+END
+stream_service.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/ssl__stream_service/stream_service.html
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/numeric/conversion/doc
+END
+requirements.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/numeric/conversion/doc/requirements.qbk
+END
+conversion.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/numeric/conversion/doc/conversion.qbk
+END
+converter.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/numeric/conversion/doc/converter.qbk
+END
+bounds.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/numeric/conversion/doc/bounds.qbk
+END
+conversion_traits.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/numeric/conversion/doc/conversion_traits.qbk
+END
+definitions.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/numeric/conversion/doc/definitions.qbk
+END
+numeric_cast.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/numeric/conversion/doc/numeric_cast.qbk
+END
+converter_policies.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/numeric/conversion/doc/converter_policies.qbk
+END
+Jamfile.v2
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/numeric/conversion/doc/Jamfile.v2
+END

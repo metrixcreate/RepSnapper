@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iostreams/test/detail
+END
+utf8_codecvt_facet.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iostreams/test/detail/utf8_codecvt_facet.cpp
+END
+constants.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iostreams/test/detail/constants.hpp
+END
+utf8_codecvt_facet.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iostreams/test/detail/utf8_codecvt_facet.hpp
+END
+null_padded_codecvt.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iostreams/test/detail/null_padded_codecvt.hpp
+END
+verification.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iostreams/test/detail/verification.hpp
+END
+closable.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iostreams/test/detail/closable.hpp
+END
+temp_file.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iostreams/test/detail/temp_file.hpp
+END
+filters.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iostreams/test/detail/filters.hpp
+END
+operation_sequence.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iostreams/test/detail/operation_sequence.hpp
+END
+sequence.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iostreams/test/detail/sequence.hpp
+END

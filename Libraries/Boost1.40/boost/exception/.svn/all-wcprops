@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/exception
+END
+diagnostic_information.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/exception/diagnostic_information.hpp
+END
+info.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/exception/info.hpp
+END
+exception.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/exception/exception.hpp
+END
+errinfo_at_line.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/exception/errinfo_at_line.hpp
+END
+errinfo_api_function.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/exception/errinfo_api_function.hpp
+END
+get_error_info.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/exception/get_error_info.hpp
+END
+errinfo_file_name.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/exception/errinfo_file_name.hpp
+END
+error_info.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/exception/error_info.hpp
+END
+info_tuple.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/exception/info_tuple.hpp
+END
+to_string_stub.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/exception/to_string_stub.hpp
+END
+enable_current_exception.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/exception/enable_current_exception.hpp
+END
+all.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/exception/all.hpp
+END
+to_string.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/exception/to_string.hpp
+END
+errinfo_errno.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/exception/errinfo_errno.hpp
+END
+enable_error_info.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/exception/enable_error_info.hpp
+END
+current_exception_cast.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/exception/current_exception_cast.hpp
+END
+errinfo_file_handle.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/exception/errinfo_file_handle.hpp
+END
+errinfo_type_info_name.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/exception/errinfo_type_info_name.hpp
+END
+errinfo_file_open_mode.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/exception/errinfo_file_open_mode.hpp
+END

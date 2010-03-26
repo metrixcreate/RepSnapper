@@ -1,0 +1,791 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook
+END
+sccolorlight.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook/sccolorlight.dsp
+END
+Imakefile
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook/Imakefile
+END
+depthcue.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook/depthcue.dsp
+END
+polys.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook/polys.c
+END
+drawf.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook/drawf.dsp
+END
+unproject.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook/unproject.c
+END
+texsub.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook/texsub.c
+END
+font.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook/font.dsp
+END
+_all.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook/_all.dsp
+END
+wrap.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook/wrap.dsp
+END
+select.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook/select.dsp
+END
+image.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook/image.dsp
+END
+planet.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook/planet.dsp
+END
+alpha.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook/alpha.dsp
+END
+anti.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook/anti.dsp
+END
+stencil.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook/stencil.c
+END
+bezmesh.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook/bezmesh.dsp
+END
+material.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook/material.dsp
+END
+aux2glut.sed
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook/aux2glut.sed
+END
+picksquare.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook/picksquare.c
+END
+trim.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook/trim.c
+END
+list.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook/list.c
+END
+lines.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook/lines.dsp
+END
+teapots.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook/teapots.c
+END
+scenebamb.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook/scenebamb.c
+END
+pickdepth.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook/pickdepth.dsp
+END
+feedback.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook/feedback.c
+END
+clip.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook/clip.c
+END
+feedback.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook/feedback.dsp
+END
+robot.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook/robot.dsp
+END
+tesswind.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook/tesswind.c
+END
+movelight.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook/movelight.dsp
+END
+drawf.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook/drawf.c
+END
+tesswind.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook/tesswind.dsp
+END
+sceneflat.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook/sceneflat.c
+END
+jitter.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook/jitter.h
+END
+sceneflat.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook/sceneflat.dsp
+END
+light.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook/light.dsp
+END
+unproject.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook/unproject.dsp
+END
+polyoff.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook/polyoff.c
+END
+cube.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook/cube.c
+END
+select.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook/select.c
+END
+planet.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook/planet.c
+END
+anti.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook/anti.c
+END
+model.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook/model.c
+END
+accanti.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook/accanti.c
+END
+model.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook/model.dsp
+END
+stencil.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook/stencil.dsp
+END
+texprox.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook/texprox.c
+END
+aaindex.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook/aaindex.c
+END
+double.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook/double.c
+END
+stroke.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook/stroke.dsp
+END
+pickdepth.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook/pickdepth.c
+END
+tess.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook/tess.dsp
+END
+scene.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook/scene.c
+END
+texgen.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook/texgen.dsp
+END
+font.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook/font.c
+END
+hello.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook/hello.dsp
+END
+light.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook/light.c
+END
+teaambient.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook/teaambient.c
+END
+polys.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook/polys.dsp
+END
+torus.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook/torus.c
+END
+texsub.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook/texsub.dsp
+END
+torus.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook/torus.dsp
+END
+image.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook/image.c
+END
+bezcurve.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook/bezcurve.c
+END
+mipmap.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook/mipmap.dsp
+END
+nurbs.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook/nurbs.c
+END
+texbind.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook/texbind.c
+END
+material.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook/material.c
+END
+texturesurf.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook/texturesurf.c
+END
+accpersp.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook/accpersp.c
+END
+plane.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook/plane.dsp
+END
+texturesurf.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook/texturesurf.dsp
+END
+checker.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook/checker.c
+END
+accpersp.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook/accpersp.dsp
+END
+stroke.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook/stroke.c
+END
+fogindex.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook/fogindex.dsp
+END
+checker.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook/checker.dsp
+END
+dof.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook/dof.c
+END
+smooth.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook/smooth.c
+END
+lines.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook/lines.c
+END
+dof.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook/dof.dsp
+END
+texprox.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook/texprox.dsp
+END
+aaindex.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook/aaindex.dsp
+END
+fog.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook/fog.dsp
+END
+aapoly.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook/aapoly.c
+END
+surface.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook/surface.c
+END
+surface.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook/surface.dsp
+END
+movelight.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook/movelight.c
+END
+scene.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook/scene.dsp
+END
+depthcue.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook/depthcue.c
+END
+hello.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook/hello.c
+END
+varray.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook/varray.c
+END
+varray.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook/varray.dsp
+END
+wrap.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook/wrap.c
+END
+aargb.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook/aargb.c
+END
+teaambient.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook/teaambient.dsp
+END
+aargb.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook/aargb.dsp
+END
+polyoff.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook/polyoff.dsp
+END
+cube.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook/cube.dsp
+END
+mipmap.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook/mipmap.c
+END
+alpha.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook/alpha.c
+END
+bezcurve.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook/bezcurve.dsp
+END
+nurbs.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook/nurbs.dsp
+END
+bezmesh.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook/bezmesh.c
+END
+plane.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook/plane.c
+END
+texbind.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook/texbind.dsp
+END
+fogindex.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook/fogindex.c
+END
+accanti.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook/accanti.dsp
+END
+picksquare.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook/picksquare.dsp
+END
+fog.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook/fog.c
+END
+alpha3D.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook/alpha3D.c
+END
+smooth.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook/smooth.dsp
+END
+Makefile.sgi
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook/Makefile.sgi
+END
+tess.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook/tess.c
+END
+double.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook/double.dsp
+END
+trim.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook/trim.dsp
+END
+list.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook/list.dsp
+END
+colormat.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook/colormat.c
+END
+alpha3D.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook/alpha3D.dsp
+END
+teapots.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook/teapots.dsp
+END
+scenebamb.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook/scenebamb.dsp
+END
+colormat.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook/colormat.dsp
+END
+robot.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook/robot.c
+END
+quadric.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook/quadric.c
+END
+aapoly.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook/aapoly.dsp
+END
+texgen.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook/texgen.c
+END
+clip.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook/clip.dsp
+END
+sccolorlight.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook/sccolorlight.c
+END
+quadric.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook/quadric.dsp
+END

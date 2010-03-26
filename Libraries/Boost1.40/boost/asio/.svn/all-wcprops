@@ -1,0 +1,287 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/asio
+END
+error.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/asio/error.hpp
+END
+basic_socket.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/asio/basic_socket.hpp
+END
+buffered_stream.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/asio/buffered_stream.hpp
+END
+basic_io_object.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/asio/basic_io_object.hpp
+END
+read_at.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/asio/read_at.hpp
+END
+basic_raw_socket.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/asio/basic_raw_socket.hpp
+END
+serial_port_service.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/asio/serial_port_service.hpp
+END
+basic_stream_socket.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/asio/basic_stream_socket.hpp
+END
+placeholders.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/asio/placeholders.hpp
+END
+basic_deadline_timer.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/asio/basic_deadline_timer.hpp
+END
+buffered_write_stream_fwd.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/asio/buffered_write_stream_fwd.hpp
+END
+is_read_buffered.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/asio/is_read_buffered.hpp
+END
+handler_invoke_hook.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/asio/handler_invoke_hook.hpp
+END
+datagram_socket_service.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/asio/datagram_socket_service.hpp
+END
+buffer.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/asio/buffer.hpp
+END
+basic_socket_acceptor.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/asio/basic_socket_acceptor.hpp
+END
+write_at.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/asio/write_at.hpp
+END
+completion_condition.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/asio/completion_condition.hpp
+END
+raw_socket_service.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/asio/raw_socket_service.hpp
+END
+socket_base.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/asio/socket_base.hpp
+END
+serial_port.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/asio/serial_port.hpp
+END
+basic_serial_port.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/asio/basic_serial_port.hpp
+END
+deadline_timer_service.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/asio/deadline_timer_service.hpp
+END
+version.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/asio/version.hpp
+END
+io_service.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/asio/io_service.hpp
+END
+buffered_read_stream.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/asio/buffered_read_stream.hpp
+END
+streambuf.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/asio/streambuf.hpp
+END
+basic_streambuf.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/asio/basic_streambuf.hpp
+END
+basic_datagram_socket.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/asio/basic_datagram_socket.hpp
+END
+write.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/asio/write.hpp
+END
+strand.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/asio/strand.hpp
+END
+basic_socket_iostream.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/asio/basic_socket_iostream.hpp
+END
+buffered_stream_fwd.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/asio/buffered_stream_fwd.hpp
+END
+basic_socket_streambuf.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/asio/basic_socket_streambuf.hpp
+END
+ssl.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/asio/ssl.hpp
+END
+deadline_timer.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/asio/deadline_timer.hpp
+END
+buffers_iterator.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/asio/buffers_iterator.hpp
+END
+handler_alloc_hook.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/asio/handler_alloc_hook.hpp
+END
+buffered_write_stream.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/asio/buffered_write_stream.hpp
+END
+read.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/asio/read.hpp
+END
+serial_port_base.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/asio/serial_port_base.hpp
+END
+stream_socket_service.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/asio/stream_socket_service.hpp
+END
+time_traits.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/asio/time_traits.hpp
+END
+read_until.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/asio/read_until.hpp
+END
+is_write_buffered.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/asio/is_write_buffered.hpp
+END
+buffered_read_stream_fwd.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/asio/buffered_read_stream_fwd.hpp
+END
+socket_acceptor_service.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/asio/socket_acceptor_service.hpp
+END

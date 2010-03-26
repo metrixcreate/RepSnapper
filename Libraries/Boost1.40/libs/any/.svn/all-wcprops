@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/any
+END
+module.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/any/module.cmake
+END
+test.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/any/test.hpp
+END
+any_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/any/any_test.cpp
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/any/index.html
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/any/CMakeLists.txt
+END

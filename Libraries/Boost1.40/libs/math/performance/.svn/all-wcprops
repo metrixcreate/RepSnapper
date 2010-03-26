@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/performance
+END
+test_gamma.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/performance/test_gamma.cpp
+END
+distributions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/performance/distributions.cpp
+END
+required_defines.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/performance/required_defines.hpp
+END
+test_polynomial.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/performance/test_polynomial.cpp
+END
+test_ibeta.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/performance/test_ibeta.cpp
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/performance/main.cpp
+END
+performance_measure.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/performance/performance_measure.hpp
+END
+test_igamma.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/performance/test_igamma.cpp
+END
+test_erf.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/performance/test_erf.cpp
+END
+Jamfile.v2
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/performance/Jamfile.v2
+END
+test_reference.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/performance/test_reference.cpp
+END

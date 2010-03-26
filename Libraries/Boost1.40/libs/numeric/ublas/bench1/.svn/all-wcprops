@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/numeric/ublas/bench1
+END
+bench1.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/numeric/ublas/bench1/bench1.cpp
+END
+bench11.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/numeric/ublas/bench1/bench11.cpp
+END
+bench12.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/numeric/ublas/bench1/bench12.cpp
+END
+bench13.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/numeric/ublas/bench1/bench13.cpp
+END
+bench1.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/numeric/ublas/bench1/bench1.hpp
+END
+Jamfile.v2
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/numeric/ublas/bench1/Jamfile.v2
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/spirit/home/qi/nonterminal
+END
+meta_grammar.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/spirit/home/qi/nonterminal/meta_grammar.hpp
+END
+nonterminal_director.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/spirit/home/qi/nonterminal/nonterminal_director.hpp
+END
+virtual_component_base.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/spirit/home/qi/nonterminal/virtual_component_base.hpp
+END
+error_handler_result.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/spirit/home/qi/nonterminal/error_handler_result.hpp
+END
+grammar.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/spirit/home/qi/nonterminal/grammar.hpp
+END
+grammar_fwd.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/spirit/home/qi/nonterminal/grammar_fwd.hpp
+END
+nonterminal.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/spirit/home/qi/nonterminal/nonterminal.hpp
+END
+rule.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/spirit/home/qi/nonterminal/rule.hpp
+END

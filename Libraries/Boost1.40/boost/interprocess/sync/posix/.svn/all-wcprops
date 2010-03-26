@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/interprocess/sync/posix
+END
+interprocess_recursive_mutex.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/interprocess/sync/posix/interprocess_recursive_mutex.hpp
+END
+pthread_helpers.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/interprocess/sync/posix/pthread_helpers.hpp
+END
+ptime_to_timespec.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/interprocess/sync/posix/ptime_to_timespec.hpp
+END
+interprocess_mutex.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/interprocess/sync/posix/interprocess_mutex.hpp
+END
+interprocess_semaphore.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/interprocess/sync/posix/interprocess_semaphore.hpp
+END
+semaphore_wrapper.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/interprocess/sync/posix/semaphore_wrapper.hpp
+END
+interprocess_barrier.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/interprocess/sync/posix/interprocess_barrier.hpp
+END
+interprocess_condition.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/interprocess/sync/posix/interprocess_condition.hpp
+END

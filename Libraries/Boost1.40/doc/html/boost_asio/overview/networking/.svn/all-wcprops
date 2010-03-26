@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/overview/networking
+END
+bsd_sockets.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/overview/networking/bsd_sockets.html
+END
+protocols.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/overview/networking/protocols.html
+END
+iostreams.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/overview/networking/iostreams.html
+END

@@ -1,0 +1,275 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/asio/doc/requirements
+END
+SyncWriteStream.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/asio/doc/requirements/SyncWriteStream.qbk
+END
+AsyncWriteStream.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/asio/doc/requirements/AsyncWriteStream.qbk
+END
+IoControlCommand.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/asio/doc/requirements/IoControlCommand.qbk
+END
+ReadHandler.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/asio/doc/requirements/ReadHandler.qbk
+END
+AsyncRandomAccessReadDevice.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/asio/doc/requirements/AsyncRandomAccessReadDevice.qbk
+END
+HandleService.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/asio/doc/requirements/HandleService.qbk
+END
+ResolveHandler.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/asio/doc/requirements/ResolveHandler.qbk
+END
+IoObjectService.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/asio/doc/requirements/IoObjectService.qbk
+END
+ResolverService.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/asio/doc/requirements/ResolverService.qbk
+END
+AsyncReadStream.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/asio/doc/requirements/AsyncReadStream.qbk
+END
+GettableSerialPortOption.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/asio/doc/requirements/GettableSerialPortOption.qbk
+END
+StreamSocketService.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/asio/doc/requirements/StreamSocketService.qbk
+END
+WriteHandler.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/asio/doc/requirements/WriteHandler.qbk
+END
+GettableSocketOption.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/asio/doc/requirements/GettableSocketOption.qbk
+END
+SocketAcceptorService.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/asio/doc/requirements/SocketAcceptorService.qbk
+END
+SyncRandomAccessWriteDevice.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/asio/doc/requirements/SyncRandomAccessWriteDevice.qbk
+END
+AsyncRandomAccessWriteDevice.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/asio/doc/requirements/AsyncRandomAccessWriteDevice.qbk
+END
+RandomAccessHandleService.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/asio/doc/requirements/RandomAccessHandleService.qbk
+END
+SettableSerialPortOption.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/asio/doc/requirements/SettableSerialPortOption.qbk
+END
+Protocol.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/asio/doc/requirements/Protocol.qbk
+END
+TimerService.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/asio/doc/requirements/TimerService.qbk
+END
+WaitHandler.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/asio/doc/requirements/WaitHandler.qbk
+END
+SettableSocketOption.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/asio/doc/requirements/SettableSocketOption.qbk
+END
+SerialPortService.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/asio/doc/requirements/SerialPortService.qbk
+END
+CompletionHandler.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/asio/doc/requirements/CompletionHandler.qbk
+END
+ConstBufferSequence.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/asio/doc/requirements/ConstBufferSequence.qbk
+END
+SocketService.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/asio/doc/requirements/SocketService.qbk
+END
+InternetProtocol.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/asio/doc/requirements/InternetProtocol.qbk
+END
+DatagramSocketService.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/asio/doc/requirements/DatagramSocketService.qbk
+END
+StreamDescriptorService.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/asio/doc/requirements/StreamDescriptorService.qbk
+END
+SyncRandomAccessReadDevice.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/asio/doc/requirements/SyncRandomAccessReadDevice.qbk
+END
+MutableBufferSequence.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/asio/doc/requirements/MutableBufferSequence.qbk
+END
+Handler.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/asio/doc/requirements/Handler.qbk
+END
+ConvertibleToConstBuffer.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/asio/doc/requirements/ConvertibleToConstBuffer.qbk
+END
+Endpoint.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/asio/doc/requirements/Endpoint.qbk
+END
+RawSocketService.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/asio/doc/requirements/RawSocketService.qbk
+END
+ConvertibleToMutableBuffer.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/asio/doc/requirements/ConvertibleToMutableBuffer.qbk
+END
+SyncReadStream.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/asio/doc/requirements/SyncReadStream.qbk
+END
+TimeTraits.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/asio/doc/requirements/TimeTraits.qbk
+END
+ConnectHandler.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/asio/doc/requirements/ConnectHandler.qbk
+END
+StreamHandleService.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/asio/doc/requirements/StreamHandleService.qbk
+END
+AcceptHandler.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/asio/doc/requirements/AcceptHandler.qbk
+END
+asynchronous_operations.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/asio/doc/requirements/asynchronous_operations.qbk
+END
+DescriptorService.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/asio/doc/requirements/DescriptorService.qbk
+END
+Service.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/asio/doc/requirements/Service.qbk
+END

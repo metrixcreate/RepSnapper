@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/tools/build/v2/kernel
+END
+errors.jam
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/tools/build/v2/kernel/errors.jam
+END
+bootstrap.jam
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/tools/build/v2/kernel/bootstrap.jam
+END
+boost-build.jam
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/tools/build/v2/kernel/boost-build.jam
+END
+class.jam
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/tools/build/v2/kernel/class.jam
+END
+modules.jam
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/tools/build/v2/kernel/modules.jam
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/phoenix/test/algorithm
+END
+iteration.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/phoenix/test/algorithm/iteration.cpp
+END
+querying.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/phoenix/test/algorithm/querying.cpp
+END
+querying2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/phoenix/test/algorithm/querying2.cpp
+END
+transformation1.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/phoenix/test/algorithm/transformation1.cpp
+END
+transformation2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/phoenix/test/algorithm/transformation2.cpp
+END
+transformation3.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/phoenix/test/algorithm/transformation3.cpp
+END
+transformation4.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/phoenix/test/algorithm/transformation4.cpp
+END

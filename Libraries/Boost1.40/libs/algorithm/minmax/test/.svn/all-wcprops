@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/algorithm/minmax/test
+END
+minmax_element_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/algorithm/minmax/test/minmax_element_test.cpp
+END
+minmax_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/algorithm/minmax/test/minmax_test.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/algorithm/minmax/test/CMakeLists.txt
+END
+Jamfile.v2
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/algorithm/minmax/test/Jamfile.v2
+END

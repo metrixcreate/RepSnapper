@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/spirit/home/karma/operator
+END
+list.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/spirit/home/karma/operator/list.hpp
+END
+meta_grammar.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/spirit/home/karma/operator/meta_grammar.hpp
+END
+alternative.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/spirit/home/karma/operator/alternative.hpp
+END
+kleene.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/spirit/home/karma/operator/kleene.hpp
+END
+plus.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/spirit/home/karma/operator/plus.hpp
+END
+optional.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/spirit/home/karma/operator/optional.hpp
+END
+sequence.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/spirit/home/karma/operator/sequence.hpp
+END

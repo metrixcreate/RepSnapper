@@ -1,0 +1,257 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/basic_socket_acceptor
+END
+bind.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/basic_socket_acceptor/bind.html
+END
+send_buffer_size.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/basic_socket_acceptor/send_buffer_size.html
+END
+linger.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/basic_socket_acceptor/linger.html
+END
+message_out_of_band.html
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/basic_socket_acceptor/message_out_of_band.html
+END
+assign.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/basic_socket_acceptor/assign.html
+END
+get_io_service.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/basic_socket_acceptor/get_io_service.html
+END
+native_type.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/basic_socket_acceptor/native_type.html
+END
+reuse_address.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/basic_socket_acceptor/reuse_address.html
+END
+local_endpoint.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/basic_socket_acceptor/local_endpoint.html
+END
+message_flags.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/basic_socket_acceptor/message_flags.html
+END
+service.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/basic_socket_acceptor/service.html
+END
+protocol_type.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/basic_socket_acceptor/protocol_type.html
+END
+keep_alive.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/basic_socket_acceptor/keep_alive.html
+END
+bytes_readable.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/basic_socket_acceptor/bytes_readable.html
+END
+get_option.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/basic_socket_acceptor/get_option.html
+END
+basic_socket_acceptor.html
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/basic_socket_acceptor/basic_socket_acceptor.html
+END
+shutdown_type.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/basic_socket_acceptor/shutdown_type.html
+END
+receive_low_watermark.html
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/basic_socket_acceptor/receive_low_watermark.html
+END
+endpoint_type.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/basic_socket_acceptor/endpoint_type.html
+END
+set_option.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/basic_socket_acceptor/set_option.html
+END
+implementation.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/basic_socket_acceptor/implementation.html
+END
+cancel.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/basic_socket_acceptor/cancel.html
+END
+native.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/basic_socket_acceptor/native.html
+END
+implementation_type.html
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/basic_socket_acceptor/implementation_type.html
+END
+debug.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/basic_socket_acceptor/debug.html
+END
+send_low_watermark.html
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/basic_socket_acceptor/send_low_watermark.html
+END
+max_connections.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/basic_socket_acceptor/max_connections.html
+END
+io_service.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/basic_socket_acceptor/io_service.html
+END
+message_peek.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/basic_socket_acceptor/message_peek.html
+END
+non_blocking_io.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/basic_socket_acceptor/non_blocking_io.html
+END
+async_accept.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/basic_socket_acceptor/async_accept.html
+END
+is_open.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/basic_socket_acceptor/is_open.html
+END
+listen.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/basic_socket_acceptor/listen.html
+END
+accept.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/basic_socket_acceptor/accept.html
+END
+do_not_route.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/basic_socket_acceptor/do_not_route.html
+END
+open.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/basic_socket_acceptor/open.html
+END
+service_type.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/basic_socket_acceptor/service_type.html
+END
+broadcast.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/basic_socket_acceptor/broadcast.html
+END
+message_do_not_route.html
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/basic_socket_acceptor/message_do_not_route.html
+END
+enable_connection_aborted.html
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/basic_socket_acceptor/enable_connection_aborted.html
+END
+close.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/basic_socket_acceptor/close.html
+END
+receive_buffer_size.html
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/basic_socket_acceptor/receive_buffer_size.html
+END

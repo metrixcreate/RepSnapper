@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/mesademos
+END
+trdemo.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/mesademos/trdemo.dsp
+END
+gears.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/mesademos/gears.c
+END
+Imakefile
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/mesademos/Imakefile
+END
+gears.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/mesademos/gears.dsp
+END
+spin.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/mesademos/spin.c
+END
+_all.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/mesademos/_all.dsp
+END
+bounce.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/mesademos/bounce.c
+END
+spin.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/mesademos/spin.dsp
+END
+bounce.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/mesademos/bounce.dsp
+END
+isosurf.dat
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/mesademos/isosurf.dat
+END
+gamma.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/mesademos/gamma.c
+END
+image.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/mesademos/image.c
+END
+offset.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/mesademos/offset.c
+END
+gamma.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/mesademos/gamma.dsp
+END
+image.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/mesademos/image.h
+END
+offset.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/mesademos/offset.dsp
+END
+isosurf.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/mesademos/isosurf.c
+END
+texobj.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/mesademos/texobj.c
+END
+isosurf.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/mesademos/isosurf.dsp
+END
+texobj.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/mesademos/texobj.dsp
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/mesademos/README
+END
+Makefile.sgi
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/mesademos/Makefile.sgi
+END
+winpos.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/mesademos/winpos.c
+END
+tess_demo.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/mesademos/tess_demo.c
+END
+brick.rgb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/mesademos/brick.rgb
+END
+winpos.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/mesademos/winpos.dsp
+END
+reflect.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/mesademos/reflect.c
+END
+tr.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/mesademos/tr.c
+END
+tess_demo.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/mesademos/tess_demo.dsp
+END
+reflect.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/mesademos/reflect.dsp
+END
+trdemo.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/mesademos/trdemo.c
+END
+tr.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/mesademos/tr.h
+END

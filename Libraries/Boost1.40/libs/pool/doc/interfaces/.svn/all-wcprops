@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/pool/doc/interfaces
+END
+user_allocator.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/pool/doc/interfaces/user_allocator.html
+END
+object_pool.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/pool/doc/interfaces/object_pool.html
+END
+pool_alloc.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/pool/doc/interfaces/pool_alloc.html
+END
+simple_segregated_storage.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/pool/doc/interfaces/simple_segregated_storage.html
+END
+pool.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/pool/doc/interfaces/pool.html
+END
+singleton_pool.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/pool/doc/interfaces/singleton_pool.html
+END

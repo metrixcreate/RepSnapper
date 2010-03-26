@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/fusion/example/extension
+END
+triple.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/fusion/example/extension/triple.cpp
+END
+example_struct.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/fusion/example/extension/example_struct.hpp
+END
+tag_of.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/fusion/example/extension/tag_of.hpp
+END
+example_struct_type.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/fusion/example/extension/example_struct_type.hpp
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/fusion/example/extension/Jamfile
+END
+test_example.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/fusion/example/extension/test_example.cpp
+END
+example_struct_iterator.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/fusion/example/extension/example_struct_iterator.hpp
+END

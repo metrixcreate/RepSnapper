@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/classic/example/techniques
+END
+nabialek.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/classic/example/techniques/nabialek.cpp
+END
+right_recursion.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/classic/example/techniques/right_recursion.cpp
+END
+typeof.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/classic/example/techniques/typeof.cpp
+END
+multiple_scanners.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/classic/example/techniques/multiple_scanners.cpp
+END
+epsilon.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/classic/example/techniques/epsilon.cpp
+END
+dynamic_rule.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/classic/example/techniques/dynamic_rule.cpp
+END

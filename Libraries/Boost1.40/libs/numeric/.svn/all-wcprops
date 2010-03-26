@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/numeric
+END
+sublibs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/numeric/sublibs
+END
+module.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/numeric/module.cmake
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/numeric/index.html
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/numeric/CMakeLists.txt
+END

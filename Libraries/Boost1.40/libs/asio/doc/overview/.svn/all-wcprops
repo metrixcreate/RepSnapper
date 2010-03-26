@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/asio/doc/overview
+END
+bsd_sockets.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/asio/doc/overview/bsd_sockets.qbk
+END
+async_op1.png
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/asio/doc/overview/async_op1.png
+END
+timers.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/asio/doc/overview/timers.qbk
+END
+basics.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/asio/doc/overview/basics.qbk
+END
+async_op2.png
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/asio/doc/overview/async_op2.png
+END
+async_op1.dot
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/asio/doc/overview/async_op1.dot
+END
+iostreams.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/asio/doc/overview/iostreams.qbk
+END
+async_op2.dot
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/asio/doc/overview/async_op2.dot
+END
+serial_ports.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/asio/doc/overview/serial_ports.qbk
+END
+async.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/asio/doc/overview/async.qbk
+END
+rationale.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/asio/doc/overview/rationale.qbk
+END
+strands.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/asio/doc/overview/strands.qbk
+END
+streams.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/asio/doc/overview/streams.qbk
+END
+sync_op.png
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/asio/doc/overview/sync_op.png
+END
+sync_op.dot
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/asio/doc/overview/sync_op.dot
+END
+protocols.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/asio/doc/overview/protocols.qbk
+END
+line_based.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/asio/doc/overview/line_based.qbk
+END
+implementation.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/asio/doc/overview/implementation.qbk
+END
+allocation.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/asio/doc/overview/allocation.qbk
+END
+threads.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/asio/doc/overview/threads.qbk
+END
+windows.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/asio/doc/overview/windows.qbk
+END
+buffers.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/asio/doc/overview/buffers.qbk
+END
+reactor.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/asio/doc/overview/reactor.qbk
+END
+proactor.png
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/asio/doc/overview/proactor.png
+END
+ssl.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/asio/doc/overview/ssl.qbk
+END
+proactor.dot
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/asio/doc/overview/proactor.dot
+END
+posix.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/asio/doc/overview/posix.qbk
+END

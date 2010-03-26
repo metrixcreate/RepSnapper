@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/demos/opengl_logo
+END
+def_logo.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/demos/opengl_logo/def_logo.c
+END
+opengl_logo.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/demos/opengl_logo/opengl_logo.c
+END
+Imakefile
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/demos/opengl_logo/Imakefile
+END
+opengl_logo.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/demos/opengl_logo/opengl_logo.dsp
+END
+Makefile.sgi
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/demos/opengl_logo/Makefile.sgi
+END

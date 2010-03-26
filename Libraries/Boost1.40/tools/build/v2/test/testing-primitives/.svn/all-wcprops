@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/tools/build/v2/test/testing-primitives
+END
+bootstrap.jam
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/tools/build/v2/test/testing-primitives/bootstrap.jam
+END
+boost-build.jam
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/tools/build/v2/test/testing-primitives/boost-build.jam
+END

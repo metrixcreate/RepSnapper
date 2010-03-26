@@ -1,0 +1,701 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/examples
+END
+scube.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/examples/scube.c
+END
+circlefit.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/examples/circlefit.c
+END
+molehill.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/examples/molehill.c
+END
+Imakefile
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/examples/Imakefile
+END
+stereo.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/examples/stereo.dsp
+END
+circlefit.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/examples/circlefit.dsp
+END
+sphere2.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/examples/sphere2.c
+END
+spots.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/examples/spots.c
+END
+highlight.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/examples/highlight.dsp
+END
+blender.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/examples/blender.c
+END
+_all.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/examples/_all.dsp
+END
+dinodraw.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/examples/dinodraw.dsp
+END
+sphere2.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/examples/sphere2.dsp
+END
+spots.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/examples/spots.dsp
+END
+dials2.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/examples/dials2.c
+END
+fontdemo.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/examples/fontdemo.dsp
+END
+dials2.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/examples/dials2.dsp
+END
+mjkimage.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/examples/mjkimage.c
+END
+surfgrid.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/examples/surfgrid.c
+END
+olight.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/examples/olight.c
+END
+lightlab.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/examples/lightlab.c
+END
+simple.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/examples/simple.c
+END
+olight.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/examples/olight.dsp
+END
+lightlab.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/examples/lightlab.dsp
+END
+evaltest.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/examples/evaltest.dsp
+END
+trippy.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/examples/trippy.dsp
+END
+gouraudtriangle.ps
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/examples/gouraudtriangle.ps
+END
+sb2db.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/examples/sb2db.c
+END
+glutplane.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/examples/glutplane.dsp
+END
+editgrid.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/examples/editgrid.dsp
+END
+sb2db.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/examples/sb2db.dsp
+END
+screendoor.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/examples/screendoor.c
+END
+splatlogo.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/examples/splatlogo.c
+END
+bitfont.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/examples/bitfont.c
+END
+resolution.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/examples/resolution.dsp
+END
+stroke.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/examples/stroke.c
+END
+splatlogo.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/examples/splatlogo.dsp
+END
+mjksift.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/examples/mjksift.dsp
+END
+abgr.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/examples/abgr.c
+END
+subwin.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/examples/subwin.dsp
+END
+texenv.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/examples/texenv.dsp
+END
+mjkwarp.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/examples/mjkwarp.dsp
+END
+halomagic.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/examples/halomagic.c
+END
+dinospin.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/examples/dinospin.dsp
+END
+origami.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/examples/origami.c
+END
+halomagic.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/examples/halomagic.dsp
+END
+glutdino.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/examples/glutdino.dsp
+END
+rendereps.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/examples/rendereps.dsp
+END
+dials.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/examples/dials.c
+END
+stars.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/examples/stars.c
+END
+movelight.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/examples/movelight.c
+END
+dinoshade.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/examples/dinoshade.c
+END
+dials.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/examples/dials.dsp
+END
+stars.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/examples/stars.dsp
+END
+scene.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/examples/scene.dsp
+END
+stereo.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/examples/stereo.c
+END
+movelight.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/examples/movelight.dsp
+END
+dinoshade.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/examples/dinoshade.dsp
+END
+scube.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/examples/scube.dsp
+END
+highlight.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/examples/highlight.c
+END
+dinodraw.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/examples/dinodraw.c
+END
+molehill.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/examples/molehill.dsp
+END
+ohidden.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/examples/ohidden.c
+END
+fontdemo.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/examples/fontdemo.c
+END
+olympic.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/examples/olympic.c
+END
+ohidden.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/examples/ohidden.dsp
+END
+cube.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/examples/cube.c
+END
+blender.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/examples/blender.dsp
+END
+olympic.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/examples/olympic.dsp
+END
+luminance16.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/examples/luminance16.c
+END
+cube.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/examples/cube.dsp
+END
+dinoball.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/examples/dinoball.c
+END
+luminance16.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/examples/luminance16.dsp
+END
+evaltest.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/examples/evaltest.c
+END
+trippy.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/examples/trippy.c
+END
+dinoball.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/examples/dinoball.dsp
+END
+surfgrid.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/examples/surfgrid.dsp
+END
+glutplane.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/examples/glutplane.c
+END
+editgrid.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/examples/editgrid.c
+END
+stenciltst.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/examples/stenciltst.c
+END
+simple.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/examples/simple.dsp
+END
+reflectdino.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/examples/reflectdino.c
+END
+triselect.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/examples/triselect.c
+END
+zoomdino.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/examples/zoomdino.c
+END
+trackball.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/examples/trackball.c
+END
+logo.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/examples/logo.c
+END
+stenciltst.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/examples/stenciltst.dsp
+END
+reflectdino.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/examples/reflectdino.dsp
+END
+triselect.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/examples/triselect.dsp
+END
+zoomdino.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/examples/zoomdino.dsp
+END
+resolution.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/examples/resolution.c
+END
+trackball.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/examples/trackball.h
+END
+oclip.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/examples/oclip.c
+END
+fogtst.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/examples/fogtst.c
+END
+mjksift.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/examples/mjksift.c
+END
+screendoor.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/examples/screendoor.dsp
+END
+subwin.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/examples/subwin.c
+END
+bitfont.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/examples/bitfont.dsp
+END
+texenv.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/examples/texenv.c
+END
+oclip.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/examples/oclip.dsp
+END
+fogtst.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/examples/fogtst.dsp
+END
+mjkwarp.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/examples/mjkwarp.c
+END
+stroke.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/examples/stroke.dsp
+END
+glpuzzle.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/examples/glpuzzle.c
+END
+Makefile.sgi
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/examples/Makefile.sgi
+END
+abgr.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/examples/abgr.dsp
+END
+glpuzzle.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/examples/glpuzzle.dsp
+END
+oversphere.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/examples/oversphere.c
+END
+dinospin.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/examples/dinospin.c
+END
+glutdino.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/examples/glutdino.c
+END
+oversphere.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/examples/oversphere.dsp
+END
+sphere.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/examples/sphere.c
+END
+rendereps.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/examples/rendereps.c
+END
+sphere.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/examples/sphere.dsp
+END
+origami.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/examples/origami.dsp
+END
+scene.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/examples/scene.c
+END

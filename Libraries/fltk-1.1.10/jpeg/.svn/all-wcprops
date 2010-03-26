@@ -1,0 +1,419 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/jpeg
+END
+filelist.doc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/jpeg/filelist.doc
+END
+jdatadst.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/jpeg/jdatadst.c
+END
+jdtrans.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/jpeg/jdtrans.c
+END
+jchuff.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/jpeg/jchuff.c
+END
+coderules.doc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/jpeg/coderules.doc
+END
+jchuff.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/jpeg/jchuff.h
+END
+makedepend
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/jpeg/makedepend
+END
+jcparam.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/jpeg/jcparam.c
+END
+jquant1.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/jpeg/jquant1.c
+END
+structure.doc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/jpeg/structure.doc
+END
+jcphuff.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/jpeg/jcphuff.c
+END
+jccolor.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/jpeg/jccolor.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/jpeg/Makefile
+END
+jmemmgr.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/jpeg/jmemmgr.c
+END
+jcmarker.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/jpeg/jcmarker.c
+END
+jcsample.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/jpeg/jcsample.c
+END
+jdsample.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/jpeg/jdsample.c
+END
+jdmarker.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/jpeg/jdmarker.c
+END
+jfdctflt.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/jpeg/jfdctflt.c
+END
+jmorecfg.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/jpeg/jmorecfg.h
+END
+jinclude.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/jpeg/jinclude.h
+END
+jconfig.doc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/jpeg/jconfig.doc
+END
+jidctflt.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/jpeg/jidctflt.c
+END
+jctrans.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/jpeg/jctrans.c
+END
+jpegint.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/jpeg/jpegint.h
+END
+jutils.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/jpeg/jutils.c
+END
+jcprepct.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/jpeg/jcprepct.c
+END
+jdinput.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/jpeg/jdinput.c
+END
+jpeglib.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/jpeg/jpeglib.h
+END
+wizard.doc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/jpeg/wizard.doc
+END
+jcmainct.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/jpeg/jcmainct.c
+END
+jdmainct.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/jpeg/jdmainct.c
+END
+jdpostct.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/jpeg/jdpostct.c
+END
+jcapimin.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/jpeg/jcapimin.c
+END
+jdapimin.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/jpeg/jdapimin.c
+END
+jmemsys.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/jpeg/jmemsys.h
+END
+jcdctmgr.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/jpeg/jcdctmgr.c
+END
+jddctmgr.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/jpeg/jddctmgr.c
+END
+jerror.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/jpeg/jerror.c
+END
+jdhuff.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/jpeg/jdhuff.c
+END
+jfdctfst.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/jpeg/jfdctfst.c
+END
+jerror.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/jpeg/jerror.h
+END
+jcmaster.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/jpeg/jcmaster.c
+END
+jdmaster.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/jpeg/jdmaster.c
+END
+jmemnobs.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/jpeg/jmemnobs.c
+END
+jidctfst.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/jpeg/jidctfst.c
+END
+jdhuff.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/jpeg/jdhuff.h
+END
+jcinit.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/jpeg/jcinit.c
+END
+jquant2.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/jpeg/jquant2.c
+END
+makefile.wat
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/jpeg/makefile.wat
+END
+usage.doc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/jpeg/usage.doc
+END
+jdct.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/jpeg/jdct.h
+END
+jdatasrc.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/jpeg/jdatasrc.c
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/jpeg/CMakeLists.txt
+END
+libjpeg.doc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/jpeg/libjpeg.doc
+END
+jcapistd.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/jpeg/jcapistd.c
+END
+jdapistd.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/jpeg/jdapistd.c
+END
+jversion.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/jpeg/jversion.h
+END
+jfdctint.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/jpeg/jfdctint.c
+END
+jidctint.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/jpeg/jidctint.c
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/jpeg/README
+END
+jdmerge.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/jpeg/jdmerge.c
+END
+jccoefct.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/jpeg/jccoefct.c
+END
+jdcoefct.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/jpeg/jdcoefct.c
+END
+jcomapi.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/jpeg/jcomapi.c
+END
+jconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/jpeg/jconfig.h
+END
+jdphuff.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/jpeg/jdphuff.c
+END
+jidctred.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/jpeg/jidctred.c
+END
+jdcolor.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/jpeg/jdcolor.c
+END

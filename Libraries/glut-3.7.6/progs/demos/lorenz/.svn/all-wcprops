@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/demos/lorenz
+END
+Imakefile
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/demos/lorenz/Imakefile
+END
+lorenz.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/demos/lorenz/lorenz.c
+END
+Makefile.sgi
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/demos/lorenz/Makefile.sgi
+END
+lorenz.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/demos/lorenz/lorenz.dsp
+END

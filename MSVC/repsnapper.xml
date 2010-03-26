@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<root>
+	<ProcessController RaftSize="6.610000" RaftBaseLayerCount="1" RaftMaterialPrDistanceRatio="1.000000" RaftRotation="0.000000" RaftBaseDistance="1.300000" RaftBaseThickness="1.000000" RaftBaseTemperature="190.000000" RaftInterfaceLayerCount="1" RaftInterfaceMaterialPrDistanceRatio="1.000000" RaftRotationPrLayer="90.000000" RaftInterfaceDistance="1.100000" RaftInterfaceThickness="1.000000" RaftInterfaceTemperature="190.000000" GCodeStartText="G21
+G90
+T0
+G28
+G92 E0
+M104 S72
+G1 X20 Y20 F500" GCodeLayerText="M106
+G1 F2000
+G1 X-250 F2000.0
+G92 X0
+G1 X1
+G1 X-3 F50.0
+G92 X0
+G1 F1500
+" GCodeEndText="M107
+G1 X0 Y0 E0 F2000
+M104 S0
+" GCodeDrawStart="0.000000" GCodeDrawEnd="1.000000" ShellOnly="0" ShellCount="1" MinPrintSpeedXY="2000.000000" MaxPrintSpeedXY="2000.000000" MinPrintSpeedZ="80.000000" MaxPrintSpeedZ="100.000000" accelerationSteps="2" distanceBetweenSpeedSteps="3.110000" UseFirmwareAcceleration="1" extrusionFactor="0.750000" EnableAcceleration="0" UseIncrementalEcode="1" m_fVolume.x="200.000000" m_fVolume.y="200.000000" m_fVolume.z="140.000000" PrintMargin.x="13.000000" PrintMargin.y="10.000000" ExtrudedMaterialWidth="2.200000" LayerThickness="0.300000" InfillDistance="0.100000" InfillRotation="45.000000" InfillRotationPrLayer="90.000000" Optimization="0.020000" CuttingPlaneValue="0.420000" Examine="0.500000" DisplayEndpoints="0" DisplayNormals="0" DisplayWireframe="1" DisplayWireframeShaded="1" DisplayPolygons="1" DisplayAllLayers="0" DisplayinFill="1" DisplayDebuginFill="0" DisplayDebug="0" DisplayCuttingPlane="1" DrawVertexNumbers="0" DrawLineNumbers="0" PolygonVal="0.500000" PolygonSat="1.000000" PolygonHue="0.540000" WireframeVal="1.000000" WireframeSat="1.000000" WireframeHue="0.080000" NormalsSat="1.000000" NormalsVal="1.000000" NormalsHue="0.230000" EndpointsSat="1.000000" EndpointsVal="1.000000" EndpointsHue="0.450000" GCodeExtrudeHue="0.180000" GCodeExtrudeSat="1.000000" GCodeExtrudeVal="1.000000" GCodeMoveHue="1.000000" GCodeMoveSat="0.950000" GCodeMoveVal="1.000000" Highlight="0.700000" NormalsLength="10.000000" EndPointSize="8.000000" DisplayGCode="1.000000" LuminanceShowsSpeed="1.000000" RaftEnable="0.000000" ApronEnable="0.000000" ApronPreview="1.000000" ApronSize="1.000000" ApronHeight="1.000000" ApronCoverageX="1.000000" ApronCoverageY="1.000000" ApronDistanceToObject="1.000000" ApronInfillDistance="1.000000" Notes="" PrintMargin.z="0.000000" m_sPortName="COM5" PolygonOpasity="0.500000" Use3DGcode="0" DistanceToReachFullSpeed="3.590000" ShrinkFast="1" ShrinkNice="0"/>
+</root>

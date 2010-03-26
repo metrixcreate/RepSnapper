@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/fusion/test/functional
+END
+make_fused_function_object.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/fusion/test/functional/make_fused_function_object.cpp
+END
+make_unfused_rvalue_args.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/fusion/test/functional/make_unfused_rvalue_args.cpp
+END
+fused_function_object.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/fusion/test/functional/fused_function_object.cpp
+END
+make_unfused_generic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/fusion/test/functional/make_unfused_generic.cpp
+END
+unfused_rvalue_args.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/fusion/test/functional/unfused_rvalue_args.cpp
+END
+make_fused.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/fusion/test/functional/make_fused.cpp
+END
+invoke_procedure.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/fusion/test/functional/invoke_procedure.cpp
+END
+unfused_generic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/fusion/test/functional/unfused_generic.cpp
+END
+fused.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/fusion/test/functional/fused.cpp
+END
+make_fused_procedure.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/fusion/test/functional/make_fused_procedure.cpp
+END
+unfused_typed.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/fusion/test/functional/unfused_typed.cpp
+END
+fused_procedure.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/fusion/test/functional/fused_procedure.cpp
+END
+invoke_function_object.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/fusion/test/functional/invoke_function_object.cpp
+END
+make_unfused_lvalue_args.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/fusion/test/functional/make_unfused_lvalue_args.cpp
+END
+invoke.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/fusion/test/functional/invoke.cpp
+END
+unfused_lvalue_args.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/fusion/test/functional/unfused_lvalue_args.cpp
+END

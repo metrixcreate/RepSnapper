@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/classic/example/intermediate
+END
+ipv4.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/classic/example/intermediate/ipv4.cpp
+END
+parameters.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/classic/example/intermediate/parameters.cpp
+END
+ipv4_opt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/classic/example/intermediate/ipv4_opt.cpp
+END
+regex_convert.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/classic/example/intermediate/regex_convert.cpp
+END
+lazy_parser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/classic/example/intermediate/lazy_parser.cpp
+END

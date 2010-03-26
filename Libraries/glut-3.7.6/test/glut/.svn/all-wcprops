@@ -1,0 +1,473 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/test/glut
+END
+shape_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/test/glut/shape_test.c
+END
+keyup_test.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/test/glut/keyup_test.dsp
+END
+bigtest.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/test/glut/bigtest.c
+END
+Imakefile
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/test/glut/Imakefile
+END
+menu_test.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/test/glut/menu_test.dsp
+END
+_all.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/test/glut/_all.dsp
+END
+timer_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/test/glut/timer_test.c
+END
+test21.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/test/glut/test21.c
+END
+test23.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/test/glut/test23.c
+END
+test20.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/test/glut/test20.dsp
+END
+test25.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/test/glut/test25.c
+END
+test21.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/test/glut/test21.dsp
+END
+test22.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/test/glut/test22.dsp
+END
+test27.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/test/glut/test27.c
+END
+test23.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/test/glut/test23.dsp
+END
+test24.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/test/glut/test24.dsp
+END
+test29.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/test/glut/test29.c
+END
+test25.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/test/glut/test25.dsp
+END
+test26.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/test/glut/test26.dsp
+END
+test27.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/test/glut/test27.dsp
+END
+test28.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/test/glut/test28.dsp
+END
+atexit_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/test/glut/atexit_test.c
+END
+test1.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/test/glut/test1.c
+END
+test3.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/test/glut/test3.c
+END
+test1.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/test/glut/test1.dsp
+END
+test5.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/test/glut/test5.c
+END
+test2.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/test/glut/test2.dsp
+END
+test3.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/test/glut/test3.dsp
+END
+test7.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/test/glut/test7.c
+END
+test4.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/test/glut/test4.dsp
+END
+test5.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/test/glut/test5.dsp
+END
+test9.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/test/glut/test9.c
+END
+test6.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/test/glut/test6.dsp
+END
+test7.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/test/glut/test7.dsp
+END
+test8.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/test/glut/test8.dsp
+END
+test9.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/test/glut/test9.dsp
+END
+test11.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/test/glut/test11.c
+END
+test13.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/test/glut/test13.c
+END
+test15.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/test/glut/test15.c
+END
+test17.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/test/glut/test17.c
+END
+test19.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/test/glut/test19.c
+END
+joy_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/test/glut/joy_test.c
+END
+menu_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/test/glut/menu_test.c
+END
+shape_test.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/test/glut/shape_test.dsp
+END
+joy_test.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/test/glut/joy_test.dsp
+END
+bigtest.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/test/glut/bigtest.dsp
+END
+over_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/test/glut/over_test.c
+END
+over_test.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/test/glut/over_test.dsp
+END
+test20.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/test/glut/test20.c
+END
+test22.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/test/glut/test22.c
+END
+timer_test.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/test/glut/timer_test.dsp
+END
+test24.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/test/glut/test24.c
+END
+test26.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/test/glut/test26.c
+END
+test28.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/test/glut/test28.c
+END
+test2.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/test/glut/test2.c
+END
+test4.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/test/glut/test4.c
+END
+test6.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/test/glut/test6.c
+END
+tests.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/test/glut/tests.dsp
+END
+test8.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/test/glut/test8.c
+END
+cursor_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/test/glut/cursor_test.c
+END
+Makefile.sgi
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/test/glut/Makefile.sgi
+END
+cursor_test.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/test/glut/cursor_test.dsp
+END
+test10.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/test/glut/test10.c
+END
+test12.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/test/glut/test12.c
+END
+test10.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/test/glut/test10.dsp
+END
+test14.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/test/glut/test14.c
+END
+test11.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/test/glut/test11.dsp
+END
+test16.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/test/glut/test16.c
+END
+test12.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/test/glut/test12.dsp
+END
+test13.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/test/glut/test13.dsp
+END
+test18.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/test/glut/test18.c
+END
+test14.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/test/glut/test14.dsp
+END
+test15.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/test/glut/test15.dsp
+END
+test16.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/test/glut/test16.dsp
+END
+test17.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/test/glut/test17.dsp
+END
+test18.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/test/glut/test18.dsp
+END
+keyup_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/test/glut/keyup_test.c
+END
+test19.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/test/glut/test19.dsp
+END

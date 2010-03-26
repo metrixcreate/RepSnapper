@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/bimap/test/compile_fail
+END
+test_bimap_mutable_1.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/bimap/test/compile_fail/test_bimap_mutable_1.cpp
+END
+test_bimap_mutable_2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/bimap/test/compile_fail/test_bimap_mutable_2.cpp
+END
+test_bimap_info_1.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/bimap/test/compile_fail/test_bimap_info_1.cpp
+END
+test_bimap_mutable_3.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/bimap/test/compile_fail/test_bimap_mutable_3.cpp
+END
+test_bimap_info_2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/bimap/test/compile_fail/test_bimap_info_2.cpp
+END
+test_bimap_info_3.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/bimap/test/compile_fail/test_bimap_info_3.cpp
+END

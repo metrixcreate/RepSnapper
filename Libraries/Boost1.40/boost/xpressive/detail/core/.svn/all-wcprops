@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/xpressive/detail/core
+END
+adaptor.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/xpressive/detail/core/adaptor.hpp
+END
+regex_impl.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/xpressive/detail/core/regex_impl.hpp
+END
+optimize.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/xpressive/detail/core/optimize.hpp
+END
+access.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/xpressive/detail/core/access.hpp
+END
+matchers.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/xpressive/detail/core/matchers.hpp
+END
+flow_control.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/xpressive/detail/core/flow_control.hpp
+END
+finder.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/xpressive/detail/core/finder.hpp
+END
+quant_style.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/xpressive/detail/core/quant_style.hpp
+END
+peeker.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/xpressive/detail/core/peeker.hpp
+END
+action.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/xpressive/detail/core/action.hpp
+END
+state.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/xpressive/detail/core/state.hpp
+END
+results_cache.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/xpressive/detail/core/results_cache.hpp
+END
+linker.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/xpressive/detail/core/linker.hpp
+END
+icase.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/xpressive/detail/core/icase.hpp
+END
+sub_match_impl.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/xpressive/detail/core/sub_match_impl.hpp
+END
+sub_match_vector.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/xpressive/detail/core/sub_match_vector.hpp
+END

@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "04_MoreUsefulMouseCode", "04_MoreUsefulMouseCode.vcproj", "{E75D25EF-FE14-4647-A91D-ED8E59166F56}"
+	ProjectSection(ProjectDependencies) = postProject
+		{EE21F517-45BF-445A-A329-C6992ECB7CF5} = {EE21F517-45BF-445A-A329-C6992ECB7CF5}
+		{377DF78C-291C-4B69-AA1A-AF4BA793B72A} = {377DF78C-291C-4B69-AA1A-AF4BA793B72A}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "glut32", "..\Libraries\glut-3.7.6\lib\glut\glut32.vcproj", "{EE21F517-45BF-445A-A329-C6992ECB7CF5}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "pbunit", "..\Libraries\PolyBoolean\pbunit.vcproj", "{377DF78C-291C-4B69-AA1A-AF4BA793B72A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E75D25EF-FE14-4647-A91D-ED8E59166F56}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E75D25EF-FE14-4647-A91D-ED8E59166F56}.Debug|Win32.Build.0 = Debug|Win32
+		{E75D25EF-FE14-4647-A91D-ED8E59166F56}.Release|Win32.ActiveCfg = Release|Win32
+		{E75D25EF-FE14-4647-A91D-ED8E59166F56}.Release|Win32.Build.0 = Release|Win32
+		{EE21F517-45BF-445A-A329-C6992ECB7CF5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{EE21F517-45BF-445A-A329-C6992ECB7CF5}.Debug|Win32.Build.0 = Debug|Win32
+		{EE21F517-45BF-445A-A329-C6992ECB7CF5}.Release|Win32.ActiveCfg = Release|Win32
+		{EE21F517-45BF-445A-A329-C6992ECB7CF5}.Release|Win32.Build.0 = Release|Win32
+		{377DF78C-291C-4B69-AA1A-AF4BA793B72A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{377DF78C-291C-4B69-AA1A-AF4BA793B72A}.Debug|Win32.Build.0 = Debug|Win32
+		{377DF78C-291C-4B69-AA1A-AF4BA793B72A}.Release|Win32.ActiveCfg = Release|Win32
+		{377DF78C-291C-4B69-AA1A-AF4BA793B72A}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

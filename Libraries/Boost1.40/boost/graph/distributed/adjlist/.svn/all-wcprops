@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/graph/distributed/adjlist
+END
+serialization.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/graph/distributed/adjlist/serialization.hpp
+END
+handlers.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/graph/distributed/adjlist/handlers.hpp
+END
+initialize.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/graph/distributed/adjlist/initialize.hpp
+END
+redistribute.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/graph/distributed/adjlist/redistribute.hpp
+END

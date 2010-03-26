@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/demos/smooth
+END
+gltx.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/demos/smooth/gltx.c
+END
+dirent32.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/demos/smooth/dirent32.h
+END
+glm.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/demos/smooth/glm.c
+END
+trackball.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/demos/smooth/trackball.c
+END
+gltx.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/demos/smooth/gltx.h
+END
+glm.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/demos/smooth/glm.h
+END
+trackball.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/demos/smooth/trackball.h
+END
+Imakefile
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/demos/smooth/Imakefile
+END
+gltb.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/demos/smooth/gltb.c
+END
+smooth.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/demos/smooth/smooth.c
+END
+Makefile.sgi
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/demos/smooth/Makefile.sgi
+END
+gltb.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/demos/smooth/gltb.h
+END
+smooth.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/demos/smooth/smooth.dsp
+END

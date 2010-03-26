@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/test/mui
+END
+Imakefile
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/test/mui/Imakefile
+END
+mui_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/test/mui/mui_test.c
+END
+multi_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/test/mui/multi_test.c
+END
+Makefile.sgi
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/test/mui/Makefile.sgi
+END
+mui_test.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/test/mui/mui_test.dsp
+END
+multi_test.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/test/mui/multi_test.dsp
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/spirit/core/primitives
+END
+primitives.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/spirit/core/primitives/primitives.hpp
+END
+numerics.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/spirit/core/primitives/numerics.hpp
+END
+numerics_fwd.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/spirit/core/primitives/numerics_fwd.hpp
+END

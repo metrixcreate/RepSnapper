@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/tools/boostbook
+END
+setup_boostbook.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/tools/boostbook/setup_boostbook.py
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/tools/boostbook/index.html
+END
+setup_boostbook.sh
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/tools/boostbook/setup_boostbook.sh
+END

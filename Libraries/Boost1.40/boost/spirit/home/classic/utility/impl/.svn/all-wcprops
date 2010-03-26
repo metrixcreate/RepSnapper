@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/spirit/home/classic/utility/impl
+END
+regex.ipp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/spirit/home/classic/utility/impl/regex.ipp
+END
+escape_char.ipp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/spirit/home/classic/utility/impl/escape_char.ipp
+END
+lists.ipp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/spirit/home/classic/utility/impl/lists.ipp
+END
+chset_operators.ipp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/spirit/home/classic/utility/impl/chset_operators.ipp
+END
+chset.ipp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/spirit/home/classic/utility/impl/chset.ipp
+END
+confix.ipp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/spirit/home/classic/utility/impl/confix.ipp
+END

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/ip__basic_resolver_query
+END
+host_name.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/ip__basic_resolver_query/host_name.html
+END
+numeric_host.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/ip__basic_resolver_query/numeric_host.html
+END
+v4_mapped.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/ip__basic_resolver_query/v4_mapped.html
+END
+service_name.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/ip__basic_resolver_query/service_name.html
+END
+all_matching.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/ip__basic_resolver_query/all_matching.html
+END
+numeric_service.html
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/ip__basic_resolver_query/numeric_service.html
+END
+protocol_type.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/ip__basic_resolver_query/protocol_type.html
+END
+hints.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/ip__basic_resolver_query/hints.html
+END
+basic_resolver_query.html
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/ip__basic_resolver_query/basic_resolver_query.html
+END
+canonical_name.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/ip__basic_resolver_query/canonical_name.html
+END
+address_configured.html
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/ip__basic_resolver_query/address_configured.html
+END
+passive.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/ip__basic_resolver_query/passive.html
+END

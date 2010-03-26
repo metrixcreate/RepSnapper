@@ -1,0 +1,221 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/datagram_socket_service
+END
+bind.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/datagram_socket_service/bind.html
+END
+available.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/datagram_socket_service/available.html
+END
+receive.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/datagram_socket_service/receive.html
+END
+assign.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/datagram_socket_service/assign.html
+END
+get_io_service.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/datagram_socket_service/get_io_service.html
+END
+async_connect.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/datagram_socket_service/async_connect.html
+END
+async_send.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/datagram_socket_service/async_send.html
+END
+native_type.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/datagram_socket_service/native_type.html
+END
+send.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/datagram_socket_service/send.html
+END
+destroy.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/datagram_socket_service/destroy.html
+END
+local_endpoint.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/datagram_socket_service/local_endpoint.html
+END
+send_to.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/datagram_socket_service/send_to.html
+END
+shutdown_service.html
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/datagram_socket_service/shutdown_service.html
+END
+id.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/datagram_socket_service/id.html
+END
+protocol_type.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/datagram_socket_service/protocol_type.html
+END
+get_option.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/datagram_socket_service/get_option.html
+END
+shutdown.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/datagram_socket_service/shutdown.html
+END
+at_mark.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/datagram_socket_service/at_mark.html
+END
+async_receive.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/datagram_socket_service/async_receive.html
+END
+endpoint_type.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/datagram_socket_service/endpoint_type.html
+END
+set_option.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/datagram_socket_service/set_option.html
+END
+construct.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/datagram_socket_service/construct.html
+END
+cancel.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/datagram_socket_service/cancel.html
+END
+native.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/datagram_socket_service/native.html
+END
+implementation_type.html
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/datagram_socket_service/implementation_type.html
+END
+io_service.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/datagram_socket_service/io_service.html
+END
+async_send_to.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/datagram_socket_service/async_send_to.html
+END
+connect.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/datagram_socket_service/connect.html
+END
+remote_endpoint.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/datagram_socket_service/remote_endpoint.html
+END
+is_open.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/datagram_socket_service/is_open.html
+END
+open.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/datagram_socket_service/open.html
+END
+async_receive_from.html
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/datagram_socket_service/async_receive_from.html
+END
+receive_from.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/datagram_socket_service/receive_from.html
+END
+close.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/datagram_socket_service/close.html
+END
+io_control.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/datagram_socket_service/io_control.html
+END
+datagram_socket_service.html
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/datagram_socket_service/datagram_socket_service.html
+END

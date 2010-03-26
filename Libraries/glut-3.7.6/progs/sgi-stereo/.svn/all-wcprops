@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/sgi-stereo
+END
+stereo-plane.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/sgi-stereo/stereo-plane.c
+END
+fullscreen_stereo.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/sgi-stereo/fullscreen_stereo.c
+END
+fullscreen_stereo.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/sgi-stereo/fullscreen_stereo.h
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/sgi-stereo/README
+END
+Makefile.sgi
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/sgi-stereo/Makefile.sgi
+END

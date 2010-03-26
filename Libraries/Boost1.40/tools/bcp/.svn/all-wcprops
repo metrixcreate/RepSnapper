@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/tools/bcp
+END
+path_operations.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/tools/bcp/path_operations.cpp
+END
+file_types.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/tools/bcp/file_types.cpp
+END
+add_path.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/tools/bcp/add_path.cpp
+END
+scan_licence.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/tools/bcp/scan_licence.cpp
+END
+bcp_imp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/tools/bcp/bcp_imp.cpp
+END
+bcp.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/tools/bcp/bcp.hpp
+END
+fileview.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/tools/bcp/fileview.cpp
+END
+scan_cvs_path.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/tools/bcp/scan_cvs_path.cpp
+END
+Jamfile.v2
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/tools/bcp/Jamfile.v2
+END
+licence_info.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/tools/bcp/licence_info.cpp
+END
+bcp_imp.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/tools/bcp/bcp_imp.hpp
+END
+fileview.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/tools/bcp/fileview.hpp
+END
+licence_info.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/tools/bcp/licence_info.hpp
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/tools/bcp/main.cpp
+END
+copy_path.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/tools/bcp/copy_path.cpp
+END
+bcp.html
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/tools/bcp/bcp.html
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/tools/bcp/index.html
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/tools/bcp/CMakeLists.txt
+END
+output_licence_info.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/tools/bcp/output_licence_info.cpp
+END

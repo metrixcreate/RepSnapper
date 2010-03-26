@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/asio/example/timeouts
+END
+connect_timeout.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/asio/example/timeouts/connect_timeout.cpp
+END
+stream_receive_timeout.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/asio/example/timeouts/stream_receive_timeout.cpp
+END
+accept_timeout.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/asio/example/timeouts/accept_timeout.cpp
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/asio/example/timeouts/Jamfile
+END
+datagram_receive_timeout.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/asio/example/timeouts/datagram_receive_timeout.cpp
+END
+Jamfile.v2
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/asio/example/timeouts/Jamfile.v2
+END

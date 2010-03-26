@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/compatibility
+END
+generate_cpp_c_headers.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/compatibility/generate_cpp_c_headers.py
+END
+module.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/compatibility/module.cmake
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/compatibility/index.html
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/compatibility/CMakeLists.txt
+END

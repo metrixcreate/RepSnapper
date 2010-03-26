@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/RepSnapper/!svn/ver/1/Libraries/gle-3.1.0/man
+END
+glePolyCylinder.man
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/RepSnapper/!svn/ver/1/Libraries/gle-3.1.0/man/glePolyCylinder.man
+END
+gle.man
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/RepSnapper/!svn/ver/1/Libraries/gle-3.1.0/man/gle.man
+END
+gleSuperExtrusion.man
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/RepSnapper/!svn/ver/1/Libraries/gle-3.1.0/man/gleSuperExtrusion.man
+END
+gleHelicoid.man
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/RepSnapper/!svn/ver/1/Libraries/gle-3.1.0/man/gleHelicoid.man
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/RepSnapper/!svn/ver/1/Libraries/gle-3.1.0/man/Makefile.in
+END
+gleScrew.man
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/RepSnapper/!svn/ver/1/Libraries/gle-3.1.0/man/gleScrew.man
+END
+glePolyCone.man
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/RepSnapper/!svn/ver/1/Libraries/gle-3.1.0/man/glePolyCone.man
+END
+gleSpiral.man
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/RepSnapper/!svn/ver/1/Libraries/gle-3.1.0/man/gleSpiral.man
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/RepSnapper/!svn/ver/1/Libraries/gle-3.1.0/man/README
+END
+gleTwistExtrusion.man
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/RepSnapper/!svn/ver/1/Libraries/gle-3.1.0/man/gleTwistExtrusion.man
+END
+gleSetJoinStyle.man
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/RepSnapper/!svn/ver/1/Libraries/gle-3.1.0/man/gleSetJoinStyle.man
+END
+Makefile.sgi
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/RepSnapper/!svn/ver/1/Libraries/gle-3.1.0/man/Makefile.sgi
+END
+gleLathe.man
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/RepSnapper/!svn/ver/1/Libraries/gle-3.1.0/man/gleLathe.man
+END
+gleExtrusion.man
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/RepSnapper/!svn/ver/1/Libraries/gle-3.1.0/man/gleExtrusion.man
+END
+gleToroid.man
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/RepSnapper/!svn/ver/1/Libraries/gle-3.1.0/man/gleToroid.man
+END
+gleSetNumSides.man
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/RepSnapper/!svn/ver/1/Libraries/gle-3.1.0/man/gleSetNumSides.man
+END
+gleTextureMode.man
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/RepSnapper/!svn/ver/1/Libraries/gle-3.1.0/man/gleTextureMode.man
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/RepSnapper/!svn/ver/1/Libraries/gle-3.1.0/man/COPYING
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/RepSnapper/!svn/ver/1/Libraries/gle-3.1.0/man/Makefile.am
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/RepSnapper/!svn/ver/1/Libraries/gle-3.1.0/man/.cvsignore
+END

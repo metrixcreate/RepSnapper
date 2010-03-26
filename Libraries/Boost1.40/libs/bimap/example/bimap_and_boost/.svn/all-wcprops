@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/bimap/example/bimap_and_boost
+END
+lambda.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/bimap/example/bimap_and_boost/lambda.cpp
+END
+property_map.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/bimap/example/bimap_and_boost/property_map.cpp
+END
+assign.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/bimap/example/bimap_and_boost/assign.cpp
+END
+typeof.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/bimap/example/bimap_and_boost/typeof.cpp
+END
+foreach.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/bimap/example/bimap_and_boost/foreach.cpp
+END
+xpressive.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/bimap/example/bimap_and_boost/xpressive.cpp
+END
+range.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/bimap/example/bimap_and_boost/range.cpp
+END
+serialization.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/bimap/example/bimap_and_boost/serialization.cpp
+END

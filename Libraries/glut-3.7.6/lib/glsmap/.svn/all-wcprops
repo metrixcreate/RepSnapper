@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/glsmap
+END
+smap_nearfar.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/glsmap/smap_nearfar.c
+END
+smap_get.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/glsmap/smap_get.c
+END
+smap_render.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/glsmap/smap_render.c
+END
+smap_buildsmap.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/glsmap/smap_buildsmap.c
+END
+glsmapint.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/glsmap/glsmapint.h
+END
+smap_context.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/glsmap/smap_context.c
+END
+Imakefile
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/glsmap/Imakefile
+END
+smap_origin.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/glsmap/smap_origin.c
+END
+smap_rvec2st.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/glsmap/smap_rvec2st.c
+END
+smap_destroy.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/glsmap/smap_destroy.c
+END
+smap_setvec.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/glsmap/smap_setvec.c
+END
+smap_gettexdim.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/glsmap/smap_gettexdim.c
+END
+smap_makemesh.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/glsmap/smap_makemesh.c
+END
+smap_texdim.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/glsmap/smap_texdim.c
+END
+smap_gettexobj.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/glsmap/smap_gettexobj.c
+END
+smap_getfunc.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/glsmap/smap_getfunc.c
+END
+smap_set.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/glsmap/smap_set.c
+END
+smap_texobj.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/glsmap/smap_texobj.c
+END
+Makefile.sgi
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/glsmap/Makefile.sgi
+END
+smap_create.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/glsmap/smap_create.c
+END
+glsmap.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/glsmap/glsmap.dsp
+END
+smap_setfunc.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/glsmap/smap_setfunc.c
+END
+smap_flag.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/glsmap/smap_flag.c
+END
+smap_drawmesh.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/glsmap/smap_drawmesh.c
+END
+smap_getvec.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/glsmap/smap_getvec.c
+END
+ObjectType.mk
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/glsmap/ObjectType.mk
+END

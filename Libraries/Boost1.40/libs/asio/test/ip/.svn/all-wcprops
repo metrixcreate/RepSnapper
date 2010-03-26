@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/asio/test/ip
+END
+address_v4.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/asio/test/ip/address_v4.cpp
+END
+address_v6.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/asio/test/ip/address_v6.cpp
+END
+basic_resolver.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/asio/test/ip/basic_resolver.cpp
+END
+multicast.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/asio/test/ip/multicast.cpp
+END
+unicast.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/asio/test/ip/unicast.cpp
+END
+basic_resolver_iterator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/asio/test/ip/basic_resolver_iterator.cpp
+END
+host_name.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/asio/test/ip/host_name.cpp
+END
+resolver_query_base.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/asio/test/ip/resolver_query_base.cpp
+END
+resolver_service.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/asio/test/ip/resolver_service.cpp
+END
+basic_endpoint.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/asio/test/ip/basic_endpoint.cpp
+END
+basic_resolver_entry.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/asio/test/ip/basic_resolver_entry.cpp
+END
+address.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/asio/test/ip/address.cpp
+END
+tcp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/asio/test/ip/tcp.cpp
+END
+basic_resolver_query.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/asio/test/ip/basic_resolver_query.cpp
+END
+udp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/asio/test/ip/udp.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/asio/test/ip/CMakeLists.txt
+END
+v6_only.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/asio/test/ip/v6_only.cpp
+END

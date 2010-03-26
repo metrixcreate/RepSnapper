@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/tiff
+END
+face.tif
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/tiff/face.tif
+END
+tiffsift.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/tiff/tiffsift.c
+END
+writetiff.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/tiff/writetiff.c
+END
+Imakefile
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/tiff/Imakefile
+END
+scalebias.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/tiff/scalebias.c
+END
+showtiff.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/tiff/showtiff.c
+END
+textiff.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/tiff/textiff.c
+END
+spiral.tif
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/tiff/spiral.tif
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/tiff/README
+END
+Makefile.sgi
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/tiff/Makefile.sgi
+END
+depthdof.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/tiff/depthdof.c
+END

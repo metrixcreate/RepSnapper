@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/RepSnapper/!svn/ver/123/Libraries/lua-5.1.4/test
+END
+fib.lua
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/RepSnapper/!svn/ver/123/Libraries/lua-5.1.4/test/fib.lua
+END
+printf.lua
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/RepSnapper/!svn/ver/123/Libraries/lua-5.1.4/test/printf.lua
+END
+hello.lua
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/RepSnapper/!svn/ver/123/Libraries/lua-5.1.4/test/hello.lua
+END
+factorial.lua
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/RepSnapper/!svn/ver/123/Libraries/lua-5.1.4/test/factorial.lua
+END
+fibfor.lua
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/RepSnapper/!svn/ver/123/Libraries/lua-5.1.4/test/fibfor.lua
+END
+bisect.lua
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/RepSnapper/!svn/ver/123/Libraries/lua-5.1.4/test/bisect.lua
+END
+sieve.lua
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/RepSnapper/!svn/ver/123/Libraries/lua-5.1.4/test/sieve.lua
+END
+xd.lua
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/RepSnapper/!svn/ver/123/Libraries/lua-5.1.4/test/xd.lua
+END
+readonly.lua
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/RepSnapper/!svn/ver/123/Libraries/lua-5.1.4/test/readonly.lua
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/RepSnapper/!svn/ver/123/Libraries/lua-5.1.4/test/README
+END
+echo.lua
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/RepSnapper/!svn/ver/123/Libraries/lua-5.1.4/test/echo.lua
+END
+life.lua
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/RepSnapper/!svn/ver/123/Libraries/lua-5.1.4/test/life.lua
+END
+trace-globals.lua
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/RepSnapper/!svn/ver/123/Libraries/lua-5.1.4/test/trace-globals.lua
+END
+globals.lua
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/RepSnapper/!svn/ver/123/Libraries/lua-5.1.4/test/globals.lua
+END
+luac.lua
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/RepSnapper/!svn/ver/123/Libraries/lua-5.1.4/test/luac.lua
+END
+sort.lua
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/RepSnapper/!svn/ver/123/Libraries/lua-5.1.4/test/sort.lua
+END
+table.lua
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/RepSnapper/!svn/ver/123/Libraries/lua-5.1.4/test/table.lua
+END
+env.lua
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/RepSnapper/!svn/ver/123/Libraries/lua-5.1.4/test/env.lua
+END
+cf.lua
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/RepSnapper/!svn/ver/123/Libraries/lua-5.1.4/test/cf.lua
+END
+trace-calls.lua
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/RepSnapper/!svn/ver/123/Libraries/lua-5.1.4/test/trace-calls.lua
+END

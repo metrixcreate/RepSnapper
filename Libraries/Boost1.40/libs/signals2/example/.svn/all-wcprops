@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/signals2/example
+END
+doc_view.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/signals2/example/doc_view.cpp
+END
+extended_slot.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/signals2/example/extended_slot.cpp
+END
+slot_arguments.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/signals2/example/slot_arguments.cpp
+END
+signal_return_value.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/signals2/example/signal_return_value.cpp
+END
+postconstructor_ex1.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/signals2/example/postconstructor_ex1.cpp
+END
+postconstructor_ex2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/signals2/example/postconstructor_ex2.cpp
+END
+hello_world_slot.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/signals2/example/hello_world_slot.cpp
+END
+custom_combiners.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/signals2/example/custom_combiners.cpp
+END
+doc_view_acm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/signals2/example/doc_view_acm.cpp
+END
+predestructor_example.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/signals2/example/predestructor_example.cpp
+END
+hello_world_multi_slot.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/signals2/example/hello_world_multi_slot.cpp
+END
+disconnect_and_block.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/signals2/example/disconnect_and_block.cpp
+END
+passing_slots.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/signals2/example/passing_slots.cpp
+END
+doc_view_acm_deconstruct.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/signals2/example/doc_view_acm_deconstruct.cpp
+END
+ordering_slots.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/signals2/example/ordering_slots.cpp
+END

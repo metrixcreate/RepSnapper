@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/interprocess
+END
+streams.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/interprocess/streams.html
+END
+sharedmemorybetweenprocesses.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/interprocess/sharedmemorybetweenprocesses.html
+END
+acknowledgements_notes.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/interprocess/acknowledgements_notes.html
+END
+architecture.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/interprocess/architecture.html
+END
+allocators_containers.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/interprocess/allocators_containers.html
+END
+synchronization_mechanisms.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/interprocess/synchronization_mechanisms.html
+END
+managed_memory_segments.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/interprocess/managed_memory_segments.html
+END
+quick_guide.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/interprocess/quick_guide.html
+END
+some_basic_explanations.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/interprocess/some_basic_explanations.html
+END
+customizing_interprocess.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/interprocess/customizing_interprocess.html
+END
+interprocess_smart_ptr.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/interprocess/interprocess_smart_ptr.html
+END
+offset_ptr.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/interprocess/offset_ptr.html
+END

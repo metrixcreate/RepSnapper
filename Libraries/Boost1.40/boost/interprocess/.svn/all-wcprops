@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/interprocess
+END
+file_mapping.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/interprocess/file_mapping.hpp
+END
+segment_manager.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/interprocess/segment_manager.hpp
+END
+anonymous_shared_memory.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/interprocess/anonymous_shared_memory.hpp
+END
+windows_shared_memory.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/interprocess/windows_shared_memory.hpp
+END
+mapped_region.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/interprocess/mapped_region.hpp
+END
+managed_shared_memory.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/interprocess/managed_shared_memory.hpp
+END
+offset_ptr.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/interprocess/offset_ptr.hpp
+END
+errors.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/interprocess/errors.hpp
+END
+interprocess_fwd.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/interprocess/interprocess_fwd.hpp
+END
+exceptions.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/interprocess/exceptions.hpp
+END
+managed_mapped_file.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/interprocess/managed_mapped_file.hpp
+END
+managed_heap_memory.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/interprocess/managed_heap_memory.hpp
+END
+creation_tags.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/interprocess/creation_tags.hpp
+END
+shared_memory_object.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/interprocess/shared_memory_object.hpp
+END
+managed_windows_shared_memory.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/interprocess/managed_windows_shared_memory.hpp
+END
+managed_external_buffer.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/interprocess/managed_external_buffer.hpp
+END

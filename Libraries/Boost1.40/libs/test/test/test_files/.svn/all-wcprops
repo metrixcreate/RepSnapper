@@ -1,0 +1,299 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/test/test/test_files
+END
+test_constructor.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/test/test/test_files/test_constructor.cfg
+END
+ifstream_line_iterator.tst1
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/test/test/test_files/ifstream_line_iterator.tst1
+END
+ifstream_line_iterator.tst2
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/test/test/test_files/ifstream_line_iterator.tst2
+END
+test_define.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/test/test/test_files/test_define.cfg
+END
+test_macro_def1.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/test/test/test_files/test_macro_def1.cfg
+END
+test_comments_and_blanks.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/test/test/test_files/test_comments_and_blanks.cfg
+END
+test_incomplete_broken_line.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/test/test/test_files/test_incomplete_broken_line.cfg
+END
+cfg_file_tst1.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/test/test/test_files/cfg_file_tst1.cfg
+END
+cfg_file_tst2.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/test/test/test_files/cfg_file_tst2.cfg
+END
+cfg_file_tst3.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/test/test/test_files/cfg_file_tst3.cfg
+END
+test_ifdef.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/test/test/test_files/test_ifdef.cfg
+END
+cfg_file_tst4.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/test/test/test_files/cfg_file_tst4.cfg
+END
+par_alias1.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/test/test/test_files/par_alias1.cfg
+END
+cfg_file_tst5.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/test/test/test_files/cfg_file_tst5.cfg
+END
+par_alias2.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/test/test/test_files/par_alias2.cfg
+END
+test_multipart_value10.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/test/test/test_files/test_multipart_value10.cfg
+END
+cfg_file_tst6.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/test/test/test_files/cfg_file_tst6.cfg
+END
+par_alias3.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/test/test/test_files/par_alias3.cfg
+END
+test_multipart_value11.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/test/test/test_files/test_multipart_value11.cfg
+END
+cfg_file_tst7.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/test/test/test_files/cfg_file_tst7.cfg
+END
+errors_handling_test.pattern2
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/test/test/test_files/errors_handling_test.pattern2
+END
+test_multipart_value12.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/test/test/test_files/test_multipart_value12.cfg
+END
+test_multipart_value13.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/test/test/test_files/test_multipart_value13.cfg
+END
+result_report_test.pattern
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/test/test/test_files/result_report_test.pattern
+END
+test_broken_line.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/test/test/test_files/test_broken_line.cfg
+END
+test_include1_include1.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/test/test/test_files/test_include1_include1.cfg
+END
+test_ifdef1.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/test/test/test_files/test_ifdef1.cfg
+END
+errors_handling_test.pattern
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/test/test/test_files/errors_handling_test.pattern
+END
+test_multipart_value1.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/test/test/test_files/test_multipart_value1.cfg
+END
+test_ifdef2.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/test/test/test_files/test_ifdef2.cfg
+END
+test_multipart_value2.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/test/test/test_files/test_multipart_value2.cfg
+END
+test_ifdef3.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/test/test/test_files/test_ifdef3.cfg
+END
+test_multipart_value3.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/test/test/test_files/test_multipart_value3.cfg
+END
+test_ifdef4.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/test/test/test_files/test_ifdef4.cfg
+END
+test_multipart_value4.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/test/test/test_files/test_multipart_value4.cfg
+END
+test_undef.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/test/test/test_files/test_undef.cfg
+END
+test_macro_subst1.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/test/test/test_files/test_macro_subst1.cfg
+END
+test_multipart_value5.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/test/test/test_files/test_multipart_value5.cfg
+END
+test_macro_subst2.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/test/test/test_files/test_macro_subst2.cfg
+END
+test_multipart_value6.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/test/test/test_files/test_multipart_value6.cfg
+END
+test_include1.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/test/test/test_files/test_include1.cfg
+END
+test_macro_subst3.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/test/test/test_files/test_macro_subst3.cfg
+END
+test_multipart_value7.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/test/test/test_files/test_multipart_value7.cfg
+END
+test_include2.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/test/test/test_files/test_include2.cfg
+END
+test_macro_subst4.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/test/test/test_files/test_macro_subst4.cfg
+END
+test_multipart_value8.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/test/test/test_files/test_multipart_value8.cfg
+END
+test_include3.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/test/test/test_files/test_include3.cfg
+END
+test_multipart_value9.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/test/test/test_files/test_multipart_value9.cfg
+END
+test_tools_test.pattern
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/test/test/test_files/test_tools_test.pattern
+END

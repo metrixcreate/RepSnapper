@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/tools/build/v2/build
+END
+targets.jam
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/tools/build/v2/build/targets.jam
+END
+generators.jam
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/tools/build/v2/build/generators.jam
+END
+virtual-target.jam
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/tools/build/v2/build/virtual-target.jam
+END
+property-set.jam
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/tools/build/v2/build/property-set.jam
+END
+type.jam
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/tools/build/v2/build/type.jam
+END
+modifiers.jam
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/tools/build/v2/build/modifiers.jam
+END
+property.jam
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/tools/build/v2/build/property.jam
+END
+version.jam
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/tools/build/v2/build/version.jam
+END
+build-request.jam
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/tools/build/v2/build/build-request.jam
+END
+toolset.jam
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/tools/build/v2/build/toolset.jam
+END
+scanner.jam
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/tools/build/v2/build/scanner.jam
+END
+alias.jam
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/tools/build/v2/build/alias.jam
+END
+feature.jam
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/tools/build/v2/build/feature.jam
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/tools/build/v2/build/readme.txt
+END
+project.jam
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/tools/build/v2/build/project.jam
+END

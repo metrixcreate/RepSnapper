@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/classic/example/fundamental
+END
+parser_context.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/classic/example/fundamental/parser_context.cpp
+END
+boiler_plate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/classic/example/fundamental/boiler_plate.cpp
+END
+refactoring.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/classic/example/fundamental/refactoring.cpp
+END
+subrule_calc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/classic/example/fundamental/subrule_calc.cpp
+END
+sum.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/classic/example/fundamental/sum.cpp
+END
+matching_tags.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/classic/example/fundamental/matching_tags.cpp
+END
+calc_debug.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/classic/example/fundamental/calc_debug.cpp
+END
+ast_calc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/classic/example/fundamental/ast_calc.cpp
+END
+stuff_vector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/classic/example/fundamental/stuff_vector.cpp
+END
+bind.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/classic/example/fundamental/bind.cpp
+END
+thousand_separated.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/classic/example/fundamental/thousand_separated.cpp
+END
+complex_number.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/classic/example/fundamental/complex_number.cpp
+END
+regular_expression.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/classic/example/fundamental/regular_expression.cpp
+END
+roman_numerals.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/classic/example/fundamental/roman_numerals.cpp
+END
+error_reporting.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/classic/example/fundamental/error_reporting.cpp
+END
+number_list.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/classic/example/fundamental/number_list.cpp
+END
+full_calc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/classic/example/fundamental/full_calc.cpp
+END
+comments.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/classic/example/fundamental/comments.cpp
+END
+calc_plain.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/classic/example/fundamental/calc_plain.cpp
+END
+list_parser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/classic/example/fundamental/list_parser.cpp
+END
+file_parser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/classic/example/fundamental/file_parser.cpp
+END
+stuff_vector2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/classic/example/fundamental/stuff_vector2.cpp
+END
+functor_parser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/classic/example/fundamental/functor_parser.cpp
+END
+no_actions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/classic/example/fundamental/no_actions.cpp
+END
+parse_tree_calc1.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/classic/example/fundamental/parse_tree_calc1.cpp
+END
+phoenix_calc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/classic/example/fundamental/phoenix_calc.cpp
+END
+tree_calc_grammar.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/classic/example/fundamental/tree_calc_grammar.hpp
+END
+error_handling.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/classic/example/fundamental/error_handling.cpp
+END

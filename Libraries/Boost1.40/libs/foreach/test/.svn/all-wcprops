@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/foreach/test
+END
+stl_byval.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/foreach/test/stl_byval.cpp
+END
+rvalue_nonconst_r.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/foreach/test/rvalue_nonconst_r.cpp
+END
+cstr_byref.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/foreach/test/cstr_byref.cpp
+END
+pair_byref_r.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/foreach/test/pair_byref_r.cpp
+END
+rvalue_const.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/foreach/test/rvalue_const.cpp
+END
+array_byref.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/foreach/test/array_byref.cpp
+END
+dependent_type.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/foreach/test/dependent_type.cpp
+END
+cstr_byval.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/foreach/test/cstr_byval.cpp
+END
+utility.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/foreach/test/utility.hpp
+END
+noncopyable.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/foreach/test/noncopyable.cpp
+END
+pair_byval_r.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/foreach/test/pair_byval_r.cpp
+END
+stl_byref_r.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/foreach/test/stl_byref_r.cpp
+END
+array_byval.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/foreach/test/array_byval.cpp
+END
+Jamfile.v2
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/foreach/test/Jamfile.v2
+END
+call_once.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/foreach/test/call_once.cpp
+END
+rvalue_nonconst.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/foreach/test/rvalue_nonconst.cpp
+END
+stl_byval_r.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/foreach/test/stl_byval_r.cpp
+END
+pair_byref.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/foreach/test/pair_byref.cpp
+END
+cstr_byref_r.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/foreach/test/cstr_byref_r.cpp
+END
+rvalue_const_r.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/foreach/test/rvalue_const_r.cpp
+END
+array_byref_r.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/foreach/test/array_byref_r.cpp
+END
+pair_byval.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/foreach/test/pair_byval.cpp
+END
+cstr_byval_r.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/foreach/test/cstr_byval_r.cpp
+END
+stl_byref.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/foreach/test/stl_byref.cpp
+END
+misc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/foreach/test/misc.cpp
+END
+array_byval_r.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/foreach/test/array_byval_r.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/foreach/test/CMakeLists.txt
+END
+user_defined.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/foreach/test/user_defined.cpp
+END

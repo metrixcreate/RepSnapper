@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/RepSnapper/!svn/ver/123/Libraries/luabind-0.9/examples/regexp
+END
+regex_wrap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/RepSnapper/!svn/ver/123/Libraries/luabind-0.9/examples/regexp/regex_wrap.cpp
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/RepSnapper/!svn/ver/123/Libraries/luabind-0.9/examples/regexp/Jamfile
+END
+regex.lua
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/RepSnapper/!svn/ver/123/Libraries/luabind-0.9/examples/regexp/regex.lua
+END

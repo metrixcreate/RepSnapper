@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/date_time/posix_time
+END
+posix_time_legacy_io.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/date_time/posix_time/posix_time_legacy_io.hpp
+END
+time_parsers.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/date_time/posix_time/time_parsers.hpp
+END
+time_period.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/date_time/posix_time/time_period.hpp
+END
+time_formatters.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/date_time/posix_time/time_formatters.hpp
+END
+posix_time_types.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/date_time/posix_time/posix_time_types.hpp
+END
+time_serialize.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/date_time/posix_time/time_serialize.hpp
+END
+posix_time_config.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/date_time/posix_time/posix_time_config.hpp
+END
+posix_time_io.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/date_time/posix_time/posix_time_io.hpp
+END
+time_formatters_limited.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/date_time/posix_time/time_formatters_limited.hpp
+END
+ptime.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/date_time/posix_time/ptime.hpp
+END
+posix_time.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/date_time/posix_time/posix_time.hpp
+END
+date_duration_operators.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/date_time/posix_time/date_duration_operators.hpp
+END
+posix_time_system.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/date_time/posix_time/posix_time_system.hpp
+END
+posix_time_duration.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/date_time/posix_time/posix_time_duration.hpp
+END
+conversion.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/date_time/posix_time/conversion.hpp
+END

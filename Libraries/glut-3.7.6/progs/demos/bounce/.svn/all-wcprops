@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/demos/bounce
+END
+bounce.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/demos/bounce/bounce.dsp
+END
+trackball.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/demos/bounce/trackball.c
+END
+glui.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/demos/bounce/glui.c
+END
+trackball.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/demos/bounce/trackball.h
+END
+Imakefile
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/demos/bounce/Imakefile
+END
+glui.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/demos/bounce/glui.h
+END
+tb.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/demos/bounce/tb.c
+END
+tb.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/demos/bounce/tb.h
+END
+bounce.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/demos/bounce/bounce.c
+END
+Makefile.sgi
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/demos/bounce/Makefile.sgi
+END

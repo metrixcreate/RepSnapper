@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/smart_ptr
+END
+intrusive_ptr.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/smart_ptr/intrusive_ptr.html
+END
+gccspeed.gif
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/smart_ptr/gccspeed.gif
+END
+shared_ptr.htm
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/smart_ptr/shared_ptr.htm
+END
+pointer_to_other.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/smart_ptr/pointer_to_other.html
+END
+scoped_ptr.htm
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/smart_ptr/scoped_ptr.htm
+END
+enable_shared_from_this.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/smart_ptr/enable_shared_from_this.html
+END
+shared_array.htm
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/smart_ptr/shared_array.htm
+END
+pointer_cast.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/smart_ptr/pointer_cast.html
+END
+msvcspeed.gif
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/smart_ptr/msvcspeed.gif
+END
+compatibility.htm
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/smart_ptr/compatibility.htm
+END
+smarttests.htm
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/smart_ptr/smarttests.htm
+END
+scoped_array.htm
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/smart_ptr/scoped_array.htm
+END
+smart_ptr.htm
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/smart_ptr/smart_ptr.htm
+END
+weak_ptr.htm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/smart_ptr/weak_ptr.htm
+END
+module.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/smart_ptr/module.cmake
+END
+make_shared.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/smart_ptr/make_shared.html
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/smart_ptr/index.html
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/smart_ptr/CMakeLists.txt
+END
+sp_techniques.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/smart_ptr/sp_techniques.html
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/assign
+END
+std.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/assign/std.hpp
+END
+ptr_list_inserter.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/assign/ptr_list_inserter.hpp
+END
+ptr_map_inserter.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/assign/ptr_map_inserter.hpp
+END
+list_of.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/assign/list_of.hpp
+END
+ptr_list_of.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/assign/ptr_list_of.hpp
+END
+assignment_exception.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/assign/assignment_exception.hpp
+END
+list_inserter.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/assign/list_inserter.hpp
+END

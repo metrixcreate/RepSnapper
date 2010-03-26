@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/test/local_time
+END
+testclocks.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/test/local_time/testclocks.cpp
+END
+poorly_formed_zonespec.csv
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/test/local_time/poorly_formed_zonespec.csv
+END
+README.poorly_formed_zonespec
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/test/local_time/README.poorly_formed_zonespec
+END
+testlocal_time_iterator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/test/local_time/testlocal_time_iterator.cpp
+END
+testtz_database.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/test/local_time/testtz_database.cpp
+END
+testwposix_time_zone.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/test/local_time/testwposix_time_zone.cpp
+END
+testcustom_time_zone.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/test/local_time/testcustom_time_zone.cpp
+END
+testdst_transition_day_rule.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/test/local_time/testdst_transition_day_rule.cpp
+END
+testlocal_time.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/test/local_time/testlocal_time.cpp
+END
+testlocal_time_input_facet.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/test/local_time/testlocal_time_input_facet.cpp
+END
+testlocal_time_facet.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/test/local_time/testlocal_time_facet.cpp
+END
+testlocal_time_period.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/test/local_time/testlocal_time_period.cpp
+END
+testwcustom_time_zone.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/test/local_time/testwcustom_time_zone.cpp
+END
+testposix_time_zone.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/test/local_time/testposix_time_zone.cpp
+END

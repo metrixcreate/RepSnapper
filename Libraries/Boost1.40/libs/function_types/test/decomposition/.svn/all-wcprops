@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/function_types/test/decomposition
+END
+parameter_types_fail.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/function_types/test/decomposition/parameter_types_fail.cpp
+END
+result_type.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/function_types/test/decomposition/result_type.cpp
+END
+class_type_transform.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/function_types/test/decomposition/class_type_transform.cpp
+END
+parameter_types.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/function_types/test/decomposition/parameter_types.cpp
+END
+components.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/function_types/test/decomposition/components.cpp
+END
+function_arity_fail.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/function_types/test/decomposition/function_arity_fail.cpp
+END
+result_type_fail.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/function_types/test/decomposition/result_type_fail.cpp
+END
+components_seq.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/function_types/test/decomposition/components_seq.cpp
+END
+function_arity.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/function_types/test/decomposition/function_arity.cpp
+END

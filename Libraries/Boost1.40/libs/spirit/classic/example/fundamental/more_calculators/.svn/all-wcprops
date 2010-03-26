@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/classic/example/fundamental/more_calculators
+END
+rpn_calc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/classic/example/fundamental/more_calculators/rpn_calc.cpp
+END
+calc_with_variables.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/classic/example/fundamental/more_calculators/calc_with_variables.cpp
+END
+primitive_calc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/classic/example/fundamental/more_calculators/primitive_calc.cpp
+END
+ast_calc2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/classic/example/fundamental/more_calculators/ast_calc2.cpp
+END
+vmachine_calc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/classic/example/fundamental/more_calculators/vmachine_calc.cpp
+END
+phoenix_subrule_calc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/classic/example/fundamental/more_calculators/phoenix_subrule_calc.cpp
+END

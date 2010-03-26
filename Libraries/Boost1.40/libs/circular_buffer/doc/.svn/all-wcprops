@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/circular_buffer/doc
+END
+circular_buffer.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/circular_buffer/doc/circular_buffer.html
+END
+circular_buffer.png
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/circular_buffer/doc/circular_buffer.png
+END
+space_optimized.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/circular_buffer/doc/space_optimized.html
+END
+space_optimized.png
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/circular_buffer/doc/space_optimized.png
+END
+Doxyfile
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/circular_buffer/doc/Doxyfile
+END
+copy.xslt
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/circular_buffer/doc/copy.xslt
+END
+circular_buffer.xslt
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/circular_buffer/doc/circular_buffer.xslt
+END
+space_optimized.xslt
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/circular_buffer/doc/space_optimized.xslt
+END
+update_srcdoc.sh
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/circular_buffer/doc/update_srcdoc.sh
+END
+update_srcdoc.xslt
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/circular_buffer/doc/update_srcdoc.xslt
+END
+HOWTO-srcdoc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/circular_buffer/doc/HOWTO-srcdoc
+END
+html2xhtml.xslt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/circular_buffer/doc/html2xhtml.xslt
+END
+Tidy.conf
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/circular_buffer/doc/Tidy.conf
+END
+doxygen2html.xslt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/circular_buffer/doc/doxygen2html.xslt
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/demos/atlantis
+END
+atlantis.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/demos/atlantis/atlantis.c
+END
+swim.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/demos/atlantis/swim.c
+END
+whale.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/demos/atlantis/whale.c
+END
+atlantis.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/demos/atlantis/atlantis.dsp
+END
+atlantis.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/demos/atlantis/atlantis.h
+END
+Imakefile
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/demos/atlantis/Imakefile
+END
+shark.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/demos/atlantis/shark.c
+END
+Makefile.sgi
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/demos/atlantis/Makefile.sgi
+END
+dolphin.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/demos/atlantis/dolphin.c
+END

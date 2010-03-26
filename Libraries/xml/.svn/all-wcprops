@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/RepSnapper/!svn/ver/101/Libraries/xml
+END
+license.txt
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/RepSnapper/!svn/ver/52/Libraries/xml/license.txt
+END
+XML.CPP
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/RepSnapper/!svn/ver/100/Libraries/xml/XML.CPP
+END
+XML.CHM
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/RepSnapper/!svn/ver/52/Libraries/xml/XML.CHM
+END
+XML.H
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/RepSnapper/!svn/ver/52/Libraries/xml/XML.H
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/RepSnapper/!svn/ver/101/Libraries/xml/Makefile
+END
+mime.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/RepSnapper/!svn/ver/52/Libraries/xml/mime.h
+END

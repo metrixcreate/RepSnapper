@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/numeric/conversion
+END
+bounds.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/numeric/conversion/bounds.hpp
+END
+cast.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/numeric/conversion/cast.hpp
+END
+conversion_traits.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/numeric/conversion/conversion_traits.hpp
+END
+int_float_mixture.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/numeric/conversion/int_float_mixture.hpp
+END
+sign_mixture.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/numeric/conversion/sign_mixture.hpp
+END
+converter_policies.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/numeric/conversion/converter_policies.hpp
+END
+udt_builtin_mixture.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/numeric/conversion/udt_builtin_mixture.hpp
+END
+int_float_mixture_enum.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/numeric/conversion/int_float_mixture_enum.hpp
+END
+sign_mixture_enum.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/numeric/conversion/sign_mixture_enum.hpp
+END
+udt_builtin_mixture_enum.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/numeric/conversion/udt_builtin_mixture_enum.hpp
+END
+is_subranged.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/numeric/conversion/is_subranged.hpp
+END
+converter.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/numeric/conversion/converter.hpp
+END

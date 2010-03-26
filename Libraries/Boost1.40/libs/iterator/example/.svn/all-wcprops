@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/example
+END
+transform_iterator_example.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/example/transform_iterator_example.cpp
+END
+reverse_iterator_example.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/example/reverse_iterator_example.cpp
+END
+permutation_iter_example.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/example/permutation_iter_example.cpp
+END
+func_output_iter_example.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/example/func_output_iter_example.cpp
+END
+filter_iterator_example.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/example/filter_iterator_example.cpp
+END
+counting_iterator_example.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/example/counting_iterator_example.cpp
+END
+node_iterator1.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/example/node_iterator1.cpp
+END
+node_iterator2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/example/node_iterator2.cpp
+END
+node_iterator3.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/example/node_iterator3.cpp
+END
+reverse_iterator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/example/reverse_iterator.cpp
+END
+node_iterator1.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/example/node_iterator1.hpp
+END
+node_iterator2.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/example/node_iterator2.hpp
+END
+indirect_iterator_example.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/example/indirect_iterator_example.cpp
+END
+node_iterator3.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/example/node_iterator3.hpp
+END
+node.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/example/node.hpp
+END

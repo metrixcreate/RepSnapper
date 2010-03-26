@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/timer/test
+END
+timer_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/timer/test/timer_test.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/timer/test/CMakeLists.txt
+END
+Jamfile.v2
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/timer/test/Jamfile.v2
+END

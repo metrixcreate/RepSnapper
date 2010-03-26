@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/assign/test
+END
+list_of.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/assign/test/list_of.cpp
+END
+email_example.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/assign/test/email_example.cpp
+END
+static_list_of.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/assign/test/static_list_of.cpp
+END
+tuple_list_of.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/assign/test/tuple_list_of.cpp
+END
+list_of_workaround.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/assign/test/list_of_workaround.cpp
+END
+ptr_list_inserter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/assign/test/ptr_list_inserter.cpp
+END
+Jamfile.v2
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/assign/test/Jamfile.v2
+END
+ptr_map_inserter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/assign/test/ptr_map_inserter.cpp
+END
+array.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/assign/test/array.cpp
+END
+basic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/assign/test/basic.cpp
+END
+my_vector_example.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/assign/test/my_vector_example.cpp
+END
+multi_index_container.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/assign/test/multi_index_container.cpp
+END
+ptr_list_of.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/assign/test/ptr_list_of.cpp
+END
+list_inserter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/assign/test/list_inserter.cpp
+END
+std.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/assign/test/std.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/assign/test/CMakeLists.txt
+END

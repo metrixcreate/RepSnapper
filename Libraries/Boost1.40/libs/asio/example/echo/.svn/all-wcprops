@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/asio/example/echo
+END
+blocking_tcp_echo_server.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/asio/example/echo/blocking_tcp_echo_server.cpp
+END
+blocking_udp_echo_server.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/asio/example/echo/blocking_udp_echo_server.cpp
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/asio/example/echo/Jamfile
+END
+async_tcp_echo_server.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/asio/example/echo/async_tcp_echo_server.cpp
+END
+async_udp_echo_server.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/asio/example/echo/async_udp_echo_server.cpp
+END
+blocking_tcp_echo_client.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/asio/example/echo/blocking_tcp_echo_client.cpp
+END
+Jamfile.v2
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/asio/example/echo/Jamfile.v2
+END
+blocking_udp_echo_client.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/asio/example/echo/blocking_udp_echo_client.cpp
+END

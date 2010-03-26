@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/test/posix_time
+END
+testtime.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/test/posix_time/testtime.cpp
+END
+testtime_facet.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/test/posix_time/testtime_facet.cpp
+END
+testtime_period.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/test/posix_time/testtime_period.cpp
+END
+testtime_wstream.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/test/posix_time/testtime_wstream.cpp
+END
+testtime_formatters.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/test/posix_time/testtime_formatters.cpp
+END
+testdst_rules.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/test/posix_time/testdst_rules.cpp
+END
+testlocal_adjustor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/test/posix_time/testlocal_adjustor.cpp
+END
+testtime_serialize.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/test/posix_time/testtime_serialize.cpp
+END
+testc_local_adjustor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/test/posix_time/testc_local_adjustor.cpp
+END
+teststreams.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/test/posix_time/teststreams.cpp
+END
+testtime_input_facet.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/test/posix_time/testtime_input_facet.cpp
+END
+testperiod.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/test/posix_time/testperiod.cpp
+END
+testduration.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/test/posix_time/testduration.cpp
+END
+testformatters.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/test/posix_time/testformatters.cpp
+END
+testfiletime_functions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/test/posix_time/testfiletime_functions.cpp
+END
+testgreg_duration_operators.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/test/posix_time/testgreg_duration_operators.cpp
+END
+testparse_time.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/test/posix_time/testparse_time.cpp
+END
+testiterator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/test/posix_time/testiterator.cpp
+END
+testclock.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/test/posix_time/testclock.cpp
+END
+testmicrosec_time_clock.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/test/posix_time/testmicrosec_time_clock.cpp
+END

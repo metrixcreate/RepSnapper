@@ -1,0 +1,449 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/RepSnapper/!svn/ver/166/Libraries/glut-3.7.6/lib/glut
+END
+glut32.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/RepSnapper/!svn/ver/166/Libraries/glut-3.7.6/lib/glut/glut32.vcproj
+END
+glut_stroke.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/glut/glut_stroke.c
+END
+glutwin32.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/glut/glutwin32.h
+END
+win32_winproc.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/glut/win32_winproc.c
+END
+Imakefile
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/glut/Imakefile
+END
+glut_tablet.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/glut/glut_tablet.c
+END
+glut_bitmap.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/glut/glut_bitmap.c
+END
+glut_cursor.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/glut/glut_cursor.c
+END
+glut_gamemode.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/glut/glut_gamemode.c
+END
+win32_glx.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/glut/win32_glx.c
+END
+glut_shapes.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/glut/glut_shapes.c
+END
+glut_mesa.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/glut/glut_mesa.c
+END
+glut_tr10.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/glut/glut_tr10.c
+END
+win32_glx.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/glut/win32_glx.h
+END
+mesa.patch2
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/glut/mesa.patch2
+END
+glut_8x13.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/glut/glut_8x13.c
+END
+glut_init.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/glut/glut_init.c
+END
+glut_vidresize.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/glut/glut_vidresize.c
+END
+glut_cindex.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/glut/glut_cindex.c
+END
+glut_roman.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/glut/glut_roman.c
+END
+glut_dstr.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/glut/glut_dstr.c
+END
+glutstroke.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/glut/glutstroke.h
+END
+glut_util.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/glut/glut_util.c
+END
+layerutil.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/glut/layerutil.c
+END
+glut_get.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/glut/glut_get.c
+END
+glut_event.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/glut/glut_event.c
+END
+stroke.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/glut/stroke.h
+END
+glutbitmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/glut/glutbitmap.h
+END
+layerutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/glut/layerutil.h
+END
+glut_fullscrn.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/glut/glut_fullscrn.c
+END
+glut.def
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/glut/glut.def
+END
+glut_dials.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/glut/glut_dials.c
+END
+glut_teapot.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/glut/glut_teapot.c
+END
+glut_win.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/glut/glut_win.c
+END
+glut_keyup.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/glut/glut_keyup.c
+END
+glut_modifier.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/glut/glut_modifier.c
+END
+win32_x11.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/glut/win32_x11.c
+END
+glut_joy.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/glut/glut_joy.c
+END
+glut_swidth.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/glut/glut_swidth.c
+END
+glut.rc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/glut/glut.rc
+END
+glut_menu.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/glut/glut_menu.c
+END
+win32_util.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/glut/win32_util.c
+END
+win32_x11.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/glut/win32_x11.h
+END
+glut_9x15.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/glut/glut_9x15.c
+END
+glut.ico
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/glut/glut.ico
+END
+glut_warp.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/glut/glut_warp.c
+END
+glut_keyctrl.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/glut/glut_keyctrl.c
+END
+glut_cmap.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/glut/glut_cmap.c
+END
+glut_bwidth.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/glut/glut_bwidth.c
+END
+capturexfont.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/glut/capturexfont.c
+END
+glut_mroman.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/glut/glut_mroman.c
+END
+glut32.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/glut/glut32.dsp
+END
+glut_fcb.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/glut/glut_fcb.c
+END
+win32_menu.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/glut/win32_menu.c
+END
+strokegen.y
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/glut/strokegen.y
+END
+strokelex.l
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/glut/strokelex.l
+END
+glut_input.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/glut/glut_input.c
+END
+MonoRoman.stroke
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/glut/MonoRoman.stroke
+END
+glutint.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/glut/glutint.h
+END
+glut_ext.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/glut/glut_ext.c
+END
+Roman.stroke
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/glut/Roman.stroke
+END
+glut_winmisc.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/glut/glut_winmisc.c
+END
+glut_hel10.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/glut/glut_hel10.c
+END
+glut_swap.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/glut/glut_swap.c
+END
+glut_glxext.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/glut/glut_glxext.c
+END
+glut_hel12.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/glut/glut_hel12.c
+END
+glut_overlay.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/glut/glut_overlay.c
+END
+glut_hel18.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/glut/glut_hel18.c
+END
+Makefile.sgi
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/glut/Makefile.sgi
+END
+glut_menu2.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/glut/glut_menu2.c
+END
+glut_key.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/glut/glut_key.c
+END
+glut_tr24.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/glut/glut_tr24.c
+END
+glut_space.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/glut/glut_space.c
+END
+ObjectType.mk
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/glut/ObjectType.mk
+END

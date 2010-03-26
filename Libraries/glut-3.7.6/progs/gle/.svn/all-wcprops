@@ -1,0 +1,287 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/gle
+END
+mainsimple.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/gle/mainsimple.c
+END
+texture.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/gle/texture.c
+END
+transport.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/gle/transport.dsp
+END
+mainjoin.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/gle/mainjoin.c
+END
+beam.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/gle/beam.c
+END
+maintex.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/gle/maintex.c
+END
+Imakefile
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/gle/Imakefile
+END
+texture.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/gle/texture.h
+END
+horn.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/gle/horn.c
+END
+twistoid.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/gle/twistoid.c
+END
+beam.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/gle/beam.dsp
+END
+horn.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/gle/horn.dsp
+END
+twistoid.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/gle/twistoid.dsp
+END
+_all.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/gle/_all.dsp
+END
+cone.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/gle/cone.c
+END
+cone.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/gle/cone.dsp
+END
+helixtex.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/gle/helixtex.c
+END
+helix2.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/gle/helix2.c
+END
+helix3.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/gle/helix3.c
+END
+helix4.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/gle/helix4.c
+END
+helixtex.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/gle/helixtex.dsp
+END
+helix2.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/gle/helix2.dsp
+END
+trackball.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/gle/trackball.c
+END
+helix3.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/gle/helix3.dsp
+END
+helix4.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/gle/helix4.dsp
+END
+martini.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/gle/martini.c
+END
+trackball.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/gle/trackball.h
+END
+joinoffset.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/gle/joinoffset.c
+END
+martini.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/gle/martini.dsp
+END
+cylinder.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/gle/cylinder.c
+END
+helix.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/gle/helix.c
+END
+joinoffset.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/gle/joinoffset.dsp
+END
+taper.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/gle/taper.c
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/gle/README
+END
+Makefile.sgi
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/gle/Makefile.sgi
+END
+cylinder.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/gle/cylinder.dsp
+END
+helix.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/gle/helix.dsp
+END
+taper.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/gle/taper.dsp
+END
+screw.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/gle/screw.c
+END
+candlestick.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/gle/candlestick.c
+END
+texas.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/gle/texas.c
+END
+twoid.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/gle/twoid.c
+END
+screw.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/gle/screw.dsp
+END
+candlestick.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/gle/candlestick.dsp
+END
+texas.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/gle/texas.dsp
+END
+twoid.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/gle/twoid.dsp
+END
+transport.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/gle/transport.c
+END

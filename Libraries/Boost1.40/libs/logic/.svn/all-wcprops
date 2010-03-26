@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/logic
+END
+module.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/logic/module.cmake
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/logic/CMakeLists.txt
+END

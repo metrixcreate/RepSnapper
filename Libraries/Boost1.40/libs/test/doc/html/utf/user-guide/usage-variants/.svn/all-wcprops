@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/test/doc/html/utf/user-guide/usage-variants
+END
+static-lib-variant.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/test/doc/html/utf/user-guide/usage-variants/static-lib-variant.html
+END
+extern-test-runner.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/test/doc/html/utf/user-guide/usage-variants/extern-test-runner.html
+END
+single-header-variant.html
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/test/doc/html/utf/user-guide/usage-variants/single-header-variant.html
+END
+dynamic-lib-variant.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/test/doc/html/utf/user-guide/usage-variants/dynamic-lib-variant.html
+END
+extern-test-runner-variant.html
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/test/doc/html/utf/user-guide/usage-variants/extern-test-runner-variant.html
+END

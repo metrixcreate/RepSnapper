@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/RepSnapper/!svn/ver/1/Libraries/gle-3.1.0/doc
+END
+gle-3.0.lsm
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/RepSnapper/!svn/ver/1/Libraries/gle-3.1.0/doc/gle-3.0.lsm
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/RepSnapper/!svn/ver/1/Libraries/gle-3.1.0/doc/Makefile.in
+END
+COPYING.artistic
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/RepSnapper/!svn/ver/1/Libraries/gle-3.1.0/doc/COPYING.artistic
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/RepSnapper/!svn/ver/1/Libraries/gle-3.1.0/doc/Makefile.am
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/RepSnapper/!svn/ver/1/Libraries/gle-3.1.0/doc/.cvsignore
+END

@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/posix__basic_descriptor
+END
+_basic_descriptor.html
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/posix__basic_descriptor/_basic_descriptor.html
+END
+basic_descriptor.html
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/posix__basic_descriptor/basic_descriptor.html
+END
+assign.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/posix__basic_descriptor/assign.html
+END
+implementation.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/posix__basic_descriptor/implementation.html
+END
+cancel.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/posix__basic_descriptor/cancel.html
+END
+implementation_type.html
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/posix__basic_descriptor/implementation_type.html
+END
+get_io_service.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/posix__basic_descriptor/get_io_service.html
+END
+native.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/posix__basic_descriptor/native.html
+END
+io_service.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/posix__basic_descriptor/io_service.html
+END
+native_type.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/posix__basic_descriptor/native_type.html
+END
+non_blocking_io.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/posix__basic_descriptor/non_blocking_io.html
+END
+is_open.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/posix__basic_descriptor/is_open.html
+END
+service.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/posix__basic_descriptor/service.html
+END
+service_type.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/posix__basic_descriptor/service_type.html
+END
+bytes_readable.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/posix__basic_descriptor/bytes_readable.html
+END
+close.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/posix__basic_descriptor/close.html
+END
+io_control.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/posix__basic_descriptor/io_control.html
+END
+lowest_layer.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/posix__basic_descriptor/lowest_layer.html
+END
+lowest_layer_type.html
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/reference/posix__basic_descriptor/lowest_layer_type.html
+END

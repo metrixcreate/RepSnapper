@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/example/iostreams
+END
+daytime_server.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/example/iostreams/daytime_server.cpp
+END
+daytime_client.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/example/iostreams/daytime_client.cpp
+END

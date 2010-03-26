@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/thread/doc
+END
+thread_ref.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/thread/doc/thread_ref.qbk
+END
+overview.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/thread/doc/overview.qbk
+END
+thread.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/thread/doc/thread.qbk
+END
+changes.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/thread/doc/changes.qbk
+END
+tss.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/thread/doc/tss.qbk
+END
+condition_variables.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/thread/doc/condition_variables.qbk
+END
+Jamfile.v2
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/thread/doc/Jamfile.v2
+END
+shared_mutex_ref.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/thread/doc/shared_mutex_ref.qbk
+END
+once.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/thread/doc/once.qbk
+END
+barrier.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/thread/doc/barrier.qbk
+END
+mutexes.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/thread/doc/mutexes.qbk
+END
+acknowledgements.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/thread/doc/acknowledgements.qbk
+END
+time.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/thread/doc/time.qbk
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/thread/doc/index.html
+END
+mutex_concepts.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/thread/doc/mutex_concepts.qbk
+END

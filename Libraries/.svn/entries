@@ -1,0 +1,58 @@
+9
+
+dir
+173
+http://www.kulitorum.com/RepSnapper/Libraries
+http://www.kulitorum.com/RepSnapper
+
+
+
+2010-02-17T11:29:16.596999Z
+166
+repsnapper
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+686d4eb6-aa70-4f30-b8fa-ee57029aed71
+
+Serial
+dir
+
+xml
+dir
+
+luabind-0.9
+dir
+
+gle-3.1.0
+dir
+
+glut-3.7.6
+dir
+
+lua-5.1.4
+dir
+
+vmmlib
+dir
+
+Boost1.40
+dir
+
+ann_1.1.1
+dir
+
+fltk-1.1.10
+dir
+

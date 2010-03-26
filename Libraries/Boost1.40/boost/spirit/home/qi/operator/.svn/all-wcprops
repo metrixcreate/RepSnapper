@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/spirit/home/qi/operator
+END
+difference.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/spirit/home/qi/operator/difference.hpp
+END
+sequential_or.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/spirit/home/qi/operator/sequential_or.hpp
+END
+list.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/spirit/home/qi/operator/list.hpp
+END
+meta_grammar.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/spirit/home/qi/operator/meta_grammar.hpp
+END
+alternative.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/spirit/home/qi/operator/alternative.hpp
+END
+not_predicate.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/spirit/home/qi/operator/not_predicate.hpp
+END
+and_predicate.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/spirit/home/qi/operator/and_predicate.hpp
+END
+sequence_base.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/spirit/home/qi/operator/sequence_base.hpp
+END
+kleene.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/spirit/home/qi/operator/kleene.hpp
+END
+plus.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/spirit/home/qi/operator/plus.hpp
+END
+optional.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/spirit/home/qi/operator/optional.hpp
+END
+permutation.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/spirit/home/qi/operator/permutation.hpp
+END
+expect.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/spirit/home/qi/operator/expect.hpp
+END
+sequence.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/spirit/home/qi/operator/sequence.hpp
+END

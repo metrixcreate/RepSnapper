@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/example
+END
+demo_output.txt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/example/demo_output.txt
+END
+demo_exception.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/example/demo_exception.cpp
+END
+demo_gps.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/example/demo_gps.hpp
+END
+demo_portable_archive.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/example/demo_portable_archive.cpp
+END
+portable_binary_archive.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/example/portable_binary_archive.hpp
+END
+demo_dll_a.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/example/demo_dll_a.hpp
+END
+demo_dll_a.ipp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/example/demo_dll_a.ipp
+END
+demo_dll_b.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/example/demo_dll_b.hpp
+END
+portable_binary_iarchive.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/example/portable_binary_iarchive.cpp
+END
+demo_dll_b.ipp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/example/demo_dll_b.ipp
+END
+portable_binary_iarchive.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/example/portable_binary_iarchive.hpp
+END
+portable_binary_oarchive.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/example/portable_binary_oarchive.cpp
+END
+demo_shared_ptr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/example/demo_shared_ptr.cpp
+END
+demo_auto_ptr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/example/demo_auto_ptr.cpp
+END
+portable_binary_oarchive.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/example/portable_binary_oarchive.hpp
+END
+demo_fast_archive.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/example/demo_fast_archive.cpp
+END
+demo_xml_load.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/example/demo_xml_load.cpp
+END
+demo_xml.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/example/demo_xml.cpp
+END
+demo_xml.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/example/demo_xml.hpp
+END
+demo_polymorphic_A.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/example/demo_polymorphic_A.cpp
+END
+demo_polymorphic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/example/demo_polymorphic.cpp
+END
+polymorphic_portable_binary_iarchive.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/example/polymorphic_portable_binary_iarchive.cpp
+END
+Jamfile.v2
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/example/Jamfile.v2
+END
+demo_polymorphic_A.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/example/demo_polymorphic_A.hpp
+END
+demo_dll.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/example/demo_dll.cpp
+END
+polymorphic_portable_binary_iarchive.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/example/polymorphic_portable_binary_iarchive.hpp
+END
+demo_save.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/example/demo_save.xml
+END
+polymorphic_portable_binary_oarchive.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/example/polymorphic_portable_binary_oarchive.cpp
+END
+demofile.txt
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/example/demofile.txt
+END
+demo_xml_save.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/example/demo_xml_save.cpp
+END
+demo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/example/demo.cpp
+END
+demo_pimpl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/example/demo_pimpl.cpp
+END
+demo_pimpl_A.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/example/demo_pimpl_A.cpp
+END
+polymorphic_portable_binary_oarchive.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/example/polymorphic_portable_binary_oarchive.hpp
+END
+demo_pimpl_A.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/example/demo_pimpl_A.hpp
+END

@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/signals2/doc/reference
+END
+slot.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/signals2/doc/reference/slot.xml
+END
+signal_header.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/signals2/doc/reference/signal_header.xml
+END
+trackable.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/signals2/doc/reference/trackable.xml
+END
+deconstruct.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/signals2/doc/reference/deconstruct.xml
+END
+reference.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/signals2/doc/reference/reference.xml
+END
+shared_connection_block.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/signals2/doc/reference/shared_connection_block.xml
+END
+last_value.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/signals2/doc/reference/last_value.xml
+END
+connection.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/signals2/doc/reference/connection.xml
+END
+mutex.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/signals2/doc/reference/mutex.xml
+END
+optional_last_value.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/signals2/doc/reference/optional_last_value.xml
+END
+signal_base.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/signals2/doc/reference/signal_base.xml
+END
+slot_base.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/signals2/doc/reference/slot_base.xml
+END
+dummy_mutex.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/signals2/doc/reference/dummy_mutex.xml
+END
+visit_each.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/signals2/doc/reference/visit_each.xml
+END
+signal_type.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/signals2/doc/reference/signal_type.xml
+END

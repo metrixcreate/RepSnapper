@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/regex/example/snippets
+END
+regex_iterator_example.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/regex/example/snippets/regex_iterator_example.cpp
+END
+regex_match_example.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/regex/example/snippets/regex_match_example.cpp
+END
+captures_example.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/regex/example/snippets/captures_example.cpp
+END
+partial_regex_match.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/regex/example/snippets/partial_regex_match.cpp
+END
+partial_regex_iterate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/regex/example/snippets/partial_regex_iterate.cpp
+END
+partial_regex_grep.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/regex/example/snippets/partial_regex_grep.cpp
+END
+regex_merge_example.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/regex/example/snippets/regex_merge_example.cpp
+END
+regex_search_example.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/regex/example/snippets/regex_search_example.cpp
+END
+credit_card_example.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/regex/example/snippets/credit_card_example.cpp
+END
+regex_token_iterator_eg_1.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/regex/example/snippets/regex_token_iterator_eg_1.cpp
+END
+regex_token_iterator_eg_2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/regex/example/snippets/regex_token_iterator_eg_2.cpp
+END
+regex_replace_example.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/regex/example/snippets/regex_replace_example.cpp
+END
+mfc_example.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/regex/example/snippets/mfc_example.cpp
+END
+regex_split_example_1.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/regex/example/snippets/regex_split_example_1.cpp
+END
+regex_split_example_2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/regex/example/snippets/regex_split_example_2.cpp
+END
+regex_grep_example_1.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/regex/example/snippets/regex_grep_example_1.cpp
+END
+regex_grep_example_2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/regex/example/snippets/regex_grep_example_2.cpp
+END
+regex_grep_example_3.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/regex/example/snippets/regex_grep_example_3.cpp
+END
+regex_grep_example_4.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/regex/example/snippets/regex_grep_example_4.cpp
+END
+icu_example.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/regex/example/snippets/icu_example.cpp
+END

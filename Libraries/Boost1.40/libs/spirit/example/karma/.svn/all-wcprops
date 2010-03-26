@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/example/karma
+END
+actions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/example/karma/actions.cpp
+END
+calc2_ast.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/example/karma/calc2_ast.hpp
+END
+calc2_ast_dump.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/example/karma/calc2_ast_dump.cpp
+END
+calc2_ast_vm.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/example/karma/calc2_ast_vm.hpp
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/example/karma/Jamfile
+END
+mini_xml_karma.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/example/karma/mini_xml_karma.cpp
+END
+calc2_ast_rpn.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/example/karma/calc2_ast_rpn.cpp
+END
+quick_start1.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/example/karma/quick_start1.cpp
+END
+functor_facilities.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/example/karma/functor_facilities.cpp
+END
+basic_facilities.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/example/karma/basic_facilities.cpp
+END
+calc2_ast_vm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/example/karma/calc2_ast_vm.cpp
+END

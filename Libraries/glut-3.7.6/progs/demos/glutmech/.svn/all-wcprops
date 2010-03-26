@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/demos/glutmech
+END
+Imakefile
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/demos/glutmech/Imakefile
+END
+glutmech.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/demos/glutmech/glutmech.c
+END
+glutmech.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/demos/glutmech/glutmech.dsp
+END
+Makefile.sgi
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/demos/glutmech/Makefile.sgi
+END

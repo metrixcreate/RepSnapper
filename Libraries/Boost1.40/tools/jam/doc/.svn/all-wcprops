@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/tools/jam/doc
+END
+bjam.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/tools/jam/doc/bjam.qbk
+END
+build.jam
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/tools/jam/doc/build.jam
+END
+history.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/tools/jam/doc/history.qbk
+END

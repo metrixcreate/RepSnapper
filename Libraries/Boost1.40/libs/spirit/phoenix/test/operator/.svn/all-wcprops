@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/phoenix/test/operator
+END
+unary_tests.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/phoenix/test/operator/unary_tests.cpp
+END
+misc_binary_tests.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/phoenix/test/operator/misc_binary_tests.cpp
+END
+member.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/phoenix/test/operator/member.cpp
+END
+bitwise_tests.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/phoenix/test/operator/bitwise_tests.cpp
+END
+if_else_tests.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/phoenix/test/operator/if_else_tests.cpp
+END
+io_tests.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/phoenix/test/operator/io_tests.cpp
+END
+arithmetic_tests.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/phoenix/test/operator/arithmetic_tests.cpp
+END
+self_tests.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/phoenix/test/operator/self_tests.cpp
+END
+comparison_tests.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/phoenix/test/operator/comparison_tests.cpp
+END
+logical_tests.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/phoenix/test/operator/logical_tests.cpp
+END

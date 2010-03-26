@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/example/local
+END
+iostream_client.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/example/local/iostream_client.cpp
+END
+stream_server.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/example/local/stream_server.cpp
+END
+connect_pair.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/example/local/connect_pair.cpp
+END
+stream_client.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/example/local/stream_client.cpp
+END

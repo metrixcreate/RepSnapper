@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/RepSnapper/!svn/ver/123/Libraries/luabind-0.9/examples/cln
+END
+cln_test.lua
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/RepSnapper/!svn/ver/123/Libraries/luabind-0.9/examples/cln/cln_test.lua
+END
+cln_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/RepSnapper/!svn/ver/123/Libraries/luabind-0.9/examples/cln/cln_test.cpp
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/RepSnapper/!svn/ver/123/Libraries/luabind-0.9/examples/cln/README
+END

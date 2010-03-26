@@ -1,0 +1,521 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/man/glut
+END
+glutSolidDodecahedron.man
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/man/glut/glutSolidDodecahedron.man
+END
+glutBitmapWidth.man
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/man/glut/glutBitmapWidth.man
+END
+glutEnterGameMode.man
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/man/glut/glutEnterGameMode.man
+END
+glutMainLoop.man
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/man/glut/glutMainLoop.man
+END
+glutGetColor.man
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/man/glut/glutGetColor.man
+END
+glut.man
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/man/glut/glut.man
+END
+glutGet.man
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/man/glut/glutGet.man
+END
+glutSetMenu.man
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/man/glut/glutSetMenu.man
+END
+Imakefile
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/man/glut/Imakefile
+END
+glutMotionFunc.man
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/man/glut/glutMotionFunc.man
+END
+glutSolidOctahedron.man
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/man/glut/glutSolidOctahedron.man
+END
+glutSetWindow.man
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/man/glut/glutSetWindow.man
+END
+glutStrokeCharacter.man
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/man/glut/glutStrokeCharacter.man
+END
+glutChangeToSubMenu.man
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/man/glut/glutChangeToSubMenu.man
+END
+glutAttachMenu.man
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/man/glut/glutAttachMenu.man
+END
+glutSetColor.man
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/man/glut/glutSetColor.man
+END
+glutTimerFunc.man
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/man/glut/glutTimerFunc.man
+END
+glutIgnoreKeyRepeat.man
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/man/glut/glutIgnoreKeyRepeat.man
+END
+glutRemoveOverlay.man
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/man/glut/glutRemoveOverlay.man
+END
+glutAddMenuEntry.man
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/man/glut/glutAddMenuEntry.man
+END
+glutRemoveMenuItem.man
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/man/glut/glutRemoveMenuItem.man
+END
+glutInit.man
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/man/glut/glutInit.man
+END
+glutVisibilityFunc.man
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/man/glut/glutVisibilityFunc.man
+END
+glutPostOverlayRedisplay.man
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/man/glut/glutPostOverlayRedisplay.man
+END
+glutMouseFunc.man
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/man/glut/glutMouseFunc.man
+END
+glutStrokeWidth.man
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/man/glut/glutStrokeWidth.man
+END
+glutReportErrors.man
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/man/glut/glutReportErrors.man
+END
+glutWarpPointer.man
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/man/glut/glutWarpPointer.man
+END
+glutLayerGet.man
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/man/glut/glutLayerGet.man
+END
+glutKeyboardFunc.man
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/man/glut/glutKeyboardFunc.man
+END
+glutReshapeWindow.man
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/man/glut/glutReshapeWindow.man
+END
+glutInitWindowPosition.man
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/man/glut/glutInitWindowPosition.man
+END
+glutSpaceballRotateFunc.man
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/man/glut/glutSpaceballRotateFunc.man
+END
+glutTabletButtonFunc.man
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/man/glut/glutTabletButtonFunc.man
+END
+glutAddSubMenu.man
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/man/glut/glutAddSubMenu.man
+END
+glutSolidTeapot.man
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/man/glut/glutSolidTeapot.man
+END
+glutIdleFunc.man
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/man/glut/glutIdleFunc.man
+END
+glutSolidIcosahedron.man
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/man/glut/glutSolidIcosahedron.man
+END
+glutUseLayer.man
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/man/glut/glutUseLayer.man
+END
+glutDeviceGet.man
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/man/glut/glutDeviceGet.man
+END
+glutFullScreen.man
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/man/glut/glutFullScreen.man
+END
+glutCopyColormap.man
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/man/glut/glutCopyColormap.man
+END
+glutTabletMotionFunc.man
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/man/glut/glutTabletMotionFunc.man
+END
+glutGameModeGet.man
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/man/glut/glutGameModeGet.man
+END
+glutInitDisplayString.man
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/man/glut/glutInitDisplayString.man
+END
+glutKeyboardUpFunc.man
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/man/glut/glutKeyboardUpFunc.man
+END
+glutGetModifiers.man
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/man/glut/glutGetModifiers.man
+END
+glutSolidSphere.man
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/man/glut/glutSolidSphere.man
+END
+glutShowOverlay.man
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/man/glut/glutShowOverlay.man
+END
+glutExtensionSupported.man
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/man/glut/glutExtensionSupported.man
+END
+glutPopWindow.man
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/man/glut/glutPopWindow.man
+END
+glutCreateMenu.man
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/man/glut/glutCreateMenu.man
+END
+glutSetCursor.man
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/man/glut/glutSetCursor.man
+END
+glutForceJoystickFunc.man
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/man/glut/glutForceJoystickFunc.man
+END
+glutCreateWindow.man
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/man/glut/glutCreateWindow.man
+END
+glutPositionWindow.man
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/man/glut/glutPositionWindow.man
+END
+glutSpecialFunc.man
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/man/glut/glutSpecialFunc.man
+END
+glutInitDisplayMode.man
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/man/glut/glutInitDisplayMode.man
+END
+glutSpaceballButtonFunc.man
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/man/glut/glutSpaceballButtonFunc.man
+END
+glutPostRedisplay.man
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/man/glut/glutPostRedisplay.man
+END
+glutSetKeyRepeat.man
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/man/glut/glutSetKeyRepeat.man
+END
+glutCreateSubWindow.man
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/man/glut/glutCreateSubWindow.man
+END
+glutShowWindow.man
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/man/glut/glutShowWindow.man
+END
+glutDialsFunc.man
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/man/glut/glutDialsFunc.man
+END
+glutSolidCube.man
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/man/glut/glutSolidCube.man
+END
+glutSolidTetrahedron.man
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/man/glut/glutSolidTetrahedron.man
+END
+glutJoystickFunc.man
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/man/glut/glutJoystickFunc.man
+END
+glutEntryFunc.man
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/man/glut/glutEntryFunc.man
+END
+glutDestroyMenu.man
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/man/glut/glutDestroyMenu.man
+END
+glutSolidCone.man
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/man/glut/glutSolidCone.man
+END
+glutEstablishOverlay.man
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/man/glut/glutEstablishOverlay.man
+END
+glutDestroyWindow.man
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/man/glut/glutDestroyWindow.man
+END
+glutDisplayFunc.man
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/man/glut/glutDisplayFunc.man
+END
+glutOverlayDisplayFunc.man
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/man/glut/glutOverlayDisplayFunc.man
+END
+glutMenuStatusFunc.man
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/man/glut/glutMenuStatusFunc.man
+END
+glutSetWindowTitle.man
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/man/glut/glutSetWindowTitle.man
+END
+glutSwapBuffers.man
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/man/glut/glutSwapBuffers.man
+END
+Makefile.sgi
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/man/glut/Makefile.sgi
+END
+glutSpaceballMotionFunc.man
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/man/glut/glutSpaceballMotionFunc.man
+END
+glutBitmapCharacter.man
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/man/glut/glutBitmapCharacter.man
+END
+glutChangeToMenuEntry.man
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/man/glut/glutChangeToMenuEntry.man
+END
+glutButtonBoxFunc.man
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/man/glut/glutButtonBoxFunc.man
+END
+glutSpecialUpFunc.man
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/man/glut/glutSpecialUpFunc.man
+END
+glutReshapeFunc.man
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/man/glut/glutReshapeFunc.man
+END
+glutGameModeString.man
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/man/glut/glutGameModeString.man
+END
+glutSolidTorus.man
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/man/glut/glutSolidTorus.man
+END

@@ -1,0 +1,689 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/interprocess/proj/vc7ide
+END
+doc_intrusive.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/interprocess/proj/vc7ide/doc_intrusive.vcproj
+END
+private_node_allocator_test.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/interprocess/proj/vc7ide/private_node_allocator_test.vcproj
+END
+doc_file_mapping.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/interprocess/proj/vc7ide/doc_file_mapping.vcproj
+END
+doc_unique_ptr.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/interprocess/proj/vc7ide/doc_unique_ptr.vcproj
+END
+doc_anonymous_semaphoreA.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/interprocess/proj/vc7ide/doc_anonymous_semaphoreA.vcproj
+END
+doc_managed_allocation_command.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/interprocess/proj/vc7ide/doc_managed_allocation_command.vcproj
+END
+doc_anonymous_conditionA.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/interprocess/proj/vc7ide/doc_anonymous_conditionA.vcproj
+END
+node_allocator_test.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/interprocess/proj/vc7ide/node_allocator_test.vcproj
+END
+adaptive_pool_test.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/interprocess/proj/vc7ide/adaptive_pool_test.vcproj
+END
+file_lock_test.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/interprocess/proj/vc7ide/file_lock_test.vcproj
+END
+named_semaphore_test.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/interprocess/proj/vc7ide/named_semaphore_test.vcproj
+END
+intersegment_ptr_test.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/interprocess/proj/vc7ide/intersegment_ptr_test.vcproj
+END
+doc_complex_map.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/interprocess/proj/vc7ide/doc_complex_map.vcproj
+END
+named_condition_test.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/interprocess/proj/vc7ide/named_condition_test.vcproj
+END
+unique_ptr_test.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/interprocess/proj/vc7ide/unique_ptr_test.vcproj
+END
+doc_anonymous_shared_memory.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/interprocess/proj/vc7ide/doc_anonymous_shared_memory.vcproj
+END
+stable_vector_test.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/interprocess/proj/vc7ide/stable_vector_test.vcproj
+END
+named_upgradable_mutex.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/interprocess/proj/vc7ide/named_upgradable_mutex.vcproj
+END
+slist_test.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/interprocess/proj/vc7ide/slist_test.vcproj
+END
+tree_test.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/interprocess/proj/vc7ide/tree_test.vcproj
+END
+doc_managed_raw_allocation.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/interprocess/proj/vc7ide/doc_managed_raw_allocation.vcproj
+END
+doc_offset_ptr.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/interprocess/proj/vc7ide/doc_offset_ptr.vcproj
+END
+doc_anonymous_mutexB.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/interprocess/proj/vc7ide/doc_anonymous_mutexB.vcproj
+END
+vector_test.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/interprocess/proj/vc7ide/vector_test.vcproj
+END
+deque_test.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/interprocess/proj/vc7ide/deque_test.vcproj
+END
+doc_multi_index.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/interprocess/proj/vc7ide/doc_multi_index.vcproj
+END
+doc_managed_mapped_file.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/interprocess/proj/vc7ide/doc_managed_mapped_file.vcproj
+END
+user_buffer_test.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/interprocess/proj/vc7ide/user_buffer_test.vcproj
+END
+data_test.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/interprocess/proj/vc7ide/data_test.vcproj
+END
+map_index_allocation_test.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/interprocess/proj/vc7ide/map_index_allocation_test.vcproj
+END
+doc_unordered_map.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/interprocess/proj/vc7ide/doc_unordered_map.vcproj
+END
+Interprocess.sln
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/interprocess/proj/vc7ide/Interprocess.sln
+END
+managed_shared_memory.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/interprocess/proj/vc7ide/managed_shared_memory.vcproj
+END
+offset_ptr_test.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/interprocess/proj/vc7ide/offset_ptr_test.vcproj
+END
+cached_node_allocator_test.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/interprocess/proj/vc7ide/cached_node_allocator_test.vcproj
+END
+intrusive_ptr_test.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/interprocess/proj/vc7ide/intrusive_ptr_test.vcproj
+END
+memory_algorithm_test.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/interprocess/proj/vc7ide/memory_algorithm_test.vcproj
+END
+doc_message_queueB.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/interprocess/proj/vc7ide/doc_message_queueB.vcproj
+END
+doc_managed_copy_on_write.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/interprocess/proj/vc7ide/doc_managed_copy_on_write.vcproj
+END
+doc_named_alloc.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/interprocess/proj/vc7ide/doc_named_alloc.vcproj
+END
+message_queue.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/interprocess/proj/vc7ide/message_queue.vcproj
+END
+file_mapping_test.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/interprocess/proj/vc7ide/file_mapping_test.vcproj
+END
+named_recursive_mutex_test.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/interprocess/proj/vc7ide/named_recursive_mutex_test.vcproj
+END
+doc_windows_shared_memory.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/interprocess/proj/vc7ide/doc_windows_shared_memory.vcproj
+END
+doc_spawn_vector.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/interprocess/proj/vc7ide/doc_spawn_vector.vcproj
+END
+doc_anonymous_mutexA.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/interprocess/proj/vc7ide/doc_anonymous_mutexA.vcproj
+END
+doc_managed_multiple_allocation.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/interprocess/proj/vc7ide/doc_managed_multiple_allocation.vcproj
+END
+doc_map.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/interprocess/proj/vc7ide/doc_map.vcproj
+END
+doc_cached_adaptive_pool.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/interprocess/proj/vc7ide/doc_cached_adaptive_pool.vcproj
+END
+doc_where_allocate.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/interprocess/proj/vc7ide/doc_where_allocate.vcproj
+END
+doc_vectorstream.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/interprocess/proj/vc7ide/doc_vectorstream.vcproj
+END
+named_mutex_test.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/interprocess/proj/vc7ide/named_mutex_test.vcproj
+END
+doc_node_allocator.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/interprocess/proj/vc7ide/doc_node_allocator.vcproj
+END
+cached_adaptive_pool_test.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/interprocess/proj/vc7ide/cached_adaptive_pool_test.vcproj
+END
+doc_message_queueA.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/interprocess/proj/vc7ide/doc_message_queueA.vcproj
+END
+doc_managed_grow.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/interprocess/proj/vc7ide/doc_managed_grow.vcproj
+END
+private_adaptive_pool_test.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/interprocess/proj/vc7ide/private_adaptive_pool_test.vcproj
+END
+managed_mapped_file_test.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/interprocess/proj/vc7ide/managed_mapped_file_test.vcproj
+END
+multi_index_test.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/interprocess/proj/vc7ide/multi_index_test.vcproj
+END
+doc_shared_ptr_explicit.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/interprocess/proj/vc7ide/doc_shared_ptr_explicit.vcproj
+END
+doc_named_conditionB.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/interprocess/proj/vc7ide/doc_named_conditionB.vcproj
+END
+semaphore_test.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/interprocess/proj/vc7ide/semaphore_test.vcproj
+END
+windows_shared_memory_mapping_test.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/interprocess/proj/vc7ide/windows_shared_memory_mapping_test.vcproj
+END
+condition_test.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/interprocess/proj/vc7ide/condition_test.vcproj
+END
+enable_shared_from_this_test.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/interprocess/proj/vc7ide/enable_shared_from_this_test.vcproj
+END
+unordered_test.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/interprocess/proj/vc7ide/unordered_test.vcproj
+END
+doc_scoped_ptr.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/interprocess/proj/vc7ide/doc_scoped_ptr.vcproj
+END
+doc_anonymous_upgradable_mutexB.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/interprocess/proj/vc7ide/doc_anonymous_upgradable_mutexB.vcproj
+END
+named_construct_test.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/interprocess/proj/vc7ide/named_construct_test.vcproj
+END
+doc_cont.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/interprocess/proj/vc7ide/doc_cont.vcproj
+END
+upgradable_mutex.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/interprocess/proj/vc7ide/upgradable_mutex.vcproj
+END
+iset_index_allocation_test.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/interprocess/proj/vc7ide/iset_index_allocation_test.vcproj
+END
+doc_cached_node_allocator.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/interprocess/proj/vc7ide/doc_cached_node_allocator.vcproj
+END
+doc_ipc_message.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/interprocess/proj/vc7ide/doc_ipc_message.vcproj
+END
+flat_tree_test.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/interprocess/proj/vc7ide/flat_tree_test.vcproj
+END
+mapped_file_test.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/interprocess/proj/vc7ide/mapped_file_test.vcproj
+END
+doc_allocator.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/interprocess/proj/vc7ide/doc_allocator.vcproj
+END
+anonymous_shared_memory_test.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/interprocess/proj/vc7ide/anonymous_shared_memory_test.vcproj
+END
+doc_managed_construction_info.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/interprocess/proj/vc7ide/doc_managed_construction_info.vcproj
+END
+interprocesslib.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/interprocess/proj/vc7ide/interprocesslib.vcproj
+END
+list_ex.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/interprocess/proj/vc7ide/list_ex.vcproj
+END
+doc_bufferstream.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/interprocess/proj/vc7ide/doc_bufferstream.vcproj
+END
+node_pool_test.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/interprocess/proj/vc7ide/node_pool_test.vcproj
+END
+vectorstream_test.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/interprocess/proj/vc7ide/vectorstream_test.vcproj
+END
+flat_map_index_allocation_test.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/interprocess/proj/vc7ide/flat_map_index_allocation_test.vcproj
+END
+doc_windows_shared_memory2.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/interprocess/proj/vc7ide/doc_windows_shared_memory2.vcproj
+END
+doc_shared_ptr.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/interprocess/proj/vc7ide/doc_shared_ptr.vcproj
+END
+doc_named_conditionA.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/interprocess/proj/vc7ide/doc_named_conditionA.vcproj
+END
+doc_move_containers.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/interprocess/proj/vc7ide/doc_move_containers.vcproj
+END
+doc_anonymous_semaphoreB.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/interprocess/proj/vc7ide/doc_anonymous_semaphoreB.vcproj
+END
+doc_shared_memory.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/interprocess/proj/vc7ide/doc_shared_memory.vcproj
+END
+bufferstream_test.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/interprocess/proj/vc7ide/bufferstream_test.vcproj
+END
+managed_windows_shared_memory.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/interprocess/proj/vc7ide/managed_windows_shared_memory.vcproj
+END
+doc_anonymous_conditionB.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/interprocess/proj/vc7ide/doc_anonymous_conditionB.vcproj
+END
+barrier_test.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/interprocess/proj/vc7ide/barrier_test.vcproj
+END
+doc_anonymous_upgradable_mutexA.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/interprocess/proj/vc7ide/doc_anonymous_upgradable_mutexA.vcproj
+END
+recursive_mutex_test.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/interprocess/proj/vc7ide/recursive_mutex_test.vcproj
+END
+adaptive_node_pool_test.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/interprocess/proj/vc7ide/adaptive_node_pool_test.vcproj
+END
+doc_contB.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/interprocess/proj/vc7ide/doc_contB.vcproj
+END
+shared_ptr_test.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/interprocess/proj/vc7ide/shared_ptr_test.vcproj
+END
+doc_named_mutex.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/interprocess/proj/vc7ide/doc_named_mutex.vcproj
+END
+shared_memory_test.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/interprocess/proj/vc7ide/shared_memory_test.vcproj
+END
+shared_memory_mappable_test.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/interprocess/proj/vc7ide/shared_memory_mappable_test.vcproj
+END
+null_index_test.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/interprocess/proj/vc7ide/null_index_test.vcproj
+END
+mutex_test.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/interprocess/proj/vc7ide/mutex_test.vcproj
+END
+allocexcept_test.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/interprocess/proj/vc7ide/allocexcept_test.vcproj
+END
+doc_private_node_allocator.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/interprocess/proj/vc7ide/doc_private_node_allocator.vcproj
+END
+doc_private_adaptive_pool.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/interprocess/proj/vc7ide/doc_private_adaptive_pool.vcproj
+END
+string_test.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/interprocess/proj/vc7ide/string_test.vcproj
+END
+doc_managed_heap_memory.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/interprocess/proj/vc7ide/doc_managed_heap_memory.vcproj
+END
+iunordered_set_index_allocation_test.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/interprocess/proj/vc7ide/iunordered_set_index_allocation_test.vcproj
+END
+windows_shared_memory_test.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/interprocess/proj/vc7ide/windows_shared_memory_test.vcproj
+END
+doc_managed_aligned_allocation.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/interprocess/proj/vc7ide/doc_managed_aligned_allocation.vcproj
+END
+doc_adaptive_pool.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/interprocess/proj/vc7ide/doc_adaptive_pool.vcproj
+END

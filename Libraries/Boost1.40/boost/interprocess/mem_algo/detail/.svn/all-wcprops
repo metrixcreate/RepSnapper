@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/interprocess/mem_algo/detail
+END
+multi_simple_seq_fit.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/interprocess/mem_algo/detail/multi_simple_seq_fit.hpp
+END
+multi_simple_seq_fit_impl.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/interprocess/mem_algo/detail/multi_simple_seq_fit_impl.hpp
+END
+simple_seq_fit_impl.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/interprocess/mem_algo/detail/simple_seq_fit_impl.hpp
+END
+mem_algo_common.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/interprocess/mem_algo/detail/mem_algo_common.hpp
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/wave/src/cpplexer/re2clex
+END
+strict_cpp.re
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/wave/src/cpplexer/re2clex/strict_cpp.re
+END
+cpp_re.inc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/wave/src/cpplexer/re2clex/cpp_re.inc
+END
+aq.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/wave/src/cpplexer/re2clex/aq.cpp
+END
+cpp.re
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/wave/src/cpplexer/re2clex/cpp.re
+END
+strict_cpp_re.inc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/wave/src/cpplexer/re2clex/strict_cpp_re.inc
+END
+cpp_re.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/wave/src/cpplexer/re2clex/cpp_re.cpp
+END

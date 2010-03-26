@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/ptr_container/detail
+END
+reversible_ptr_container.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/ptr_container/detail/reversible_ptr_container.hpp
+END
+serialize_ptr_map_adapter.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/ptr_container/detail/serialize_ptr_map_adapter.hpp
+END
+serialize_xml_names.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/ptr_container/detail/serialize_xml_names.hpp
+END
+serialize_reversible_cont.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/ptr_container/detail/serialize_reversible_cont.hpp
+END
+meta_functions.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/ptr_container/detail/meta_functions.hpp
+END
+void_ptr_iterator.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/ptr_container/detail/void_ptr_iterator.hpp
+END
+associative_ptr_container.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/ptr_container/detail/associative_ptr_container.hpp
+END
+scoped_deleter.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/ptr_container/detail/scoped_deleter.hpp
+END
+throw_exception.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/ptr_container/detail/throw_exception.hpp
+END
+static_move_ptr.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/ptr_container/detail/static_move_ptr.hpp
+END
+map_iterator.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/ptr_container/detail/map_iterator.hpp
+END
+move.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/ptr_container/detail/move.hpp
+END
+is_convertible.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/ptr_container/detail/is_convertible.hpp
+END
+default_deleter.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/ptr_container/detail/default_deleter.hpp
+END

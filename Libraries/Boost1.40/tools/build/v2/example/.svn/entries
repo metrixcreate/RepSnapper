@@ -1,0 +1,101 @@
+9
+
+dir
+173
+http://www.kulitorum.com/RepSnapper/Libraries/Boost1.40/tools/build/v2/example
+http://www.kulitorum.com/RepSnapper
+
+
+
+2010-01-25T14:30:52.188453Z
+124
+repsnapper
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+686d4eb6-aa70-4f30-b8fa-ee57029aed71
+
+hello
+dir
+
+gettext
+dir
+
+qt
+dir
+
+variant
+dir
+
+generator
+dir
+
+customization
+dir
+
+python_modules
+dir
+
+boost-build.jam
+file
+
+
+
+
+2010-03-15T17:16:16.000000Z
+052267338640cb2df59a5a6e9a53f75f
+2010-01-25T14:30:52.188453Z
+124
+repsnapper
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+215
+
+generate
+dir
+
+pch
+dir
+
+built_tool
+dir
+
+libraries
+dir
+
+make
+dir
+
+versioned
+dir
+

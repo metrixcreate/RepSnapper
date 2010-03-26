@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/doc/reference/lex
+END
+lexer_class.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/doc/reference/lex/lexer_class.qbk
+END
+tokendef_class.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/doc/reference/lex/tokendef_class.qbk
+END
+token_class.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/doc/reference/lex/token_class.qbk
+END
+tokenset.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/doc/reference/lex/tokenset.qbk
+END
+lexer.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/doc/reference/lex/lexer.qbk
+END
+tokendef.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/doc/reference/lex/tokendef.qbk
+END
+token.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/doc/reference/lex/token.qbk
+END
+tokenset_class.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/doc/reference/lex/tokenset_class.qbk
+END

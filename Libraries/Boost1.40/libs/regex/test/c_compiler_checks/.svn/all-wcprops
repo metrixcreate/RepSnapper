@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/regex/test/c_compiler_checks
+END
+wide_posix_api_check.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/regex/test/c_compiler_checks/wide_posix_api_check.c
+END
+wide_posix_api_check.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/regex/test/c_compiler_checks/wide_posix_api_check.cpp
+END
+posix_api_check.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/regex/test/c_compiler_checks/posix_api_check.c
+END
+posix_api_check.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/regex/test/c_compiler_checks/posix_api_check.cpp
+END

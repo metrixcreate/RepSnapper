@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/wave/samples/waveidl/idllexer
+END
+idl_lex_iterator.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/wave/samples/waveidl/idllexer/idl_lex_iterator.hpp
+END
+idl_re.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/wave/samples/waveidl/idllexer/idl_re.cpp
+END
+idl_re.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/wave/samples/waveidl/idllexer/idl_re.hpp
+END
+idl_lex_interface.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/wave/samples/waveidl/idllexer/idl_lex_interface.hpp
+END
+idl_re2c_lexer.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/wave/samples/waveidl/idllexer/idl_re2c_lexer.hpp
+END
+idl.re
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/wave/samples/waveidl/idllexer/idl.re
+END

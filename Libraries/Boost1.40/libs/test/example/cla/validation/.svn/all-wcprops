@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/test/example/cla/validation
+END
+optional_plus_multiplicable.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/test/example/cla/validation/optional_plus_multiplicable.cpp
+END
+access_unknown.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/test/example/cla/validation/access_unknown.cpp
+END
+unexpected_input.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/test/example/cla/validation/unexpected_input.cpp
+END
+multiple_generators.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/test/example/cla/validation/multiple_generators.cpp
+END
+invalid_short_name.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/test/example/cla/validation/invalid_short_name.cpp
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/test/example/cla/validation/Jamfile
+END
+unexpected_repetition.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/test/example/cla/validation/unexpected_repetition.cpp
+END
+multiple_value_handlers.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/test/example/cla/validation/multiple_value_handlers.cpp
+END
+definition_conflict.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/test/example/cla/validation/definition_conflict.cpp
+END
+required_missing.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/test/example/cla/validation/required_missing.cpp
+END
+ambiguous_input.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/test/example/cla/validation/ambiguous_input.cpp
+END
+ambiguous_access.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/test/example/cla/validation/ambiguous_access.cpp
+END
+opt_with_default_value.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/test/example/cla/validation/opt_with_default_value.cpp
+END

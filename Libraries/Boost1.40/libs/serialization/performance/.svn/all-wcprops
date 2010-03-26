@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/performance
+END
+performance_simple_class.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/performance/performance_simple_class.cpp
+END
+performance_no_rtti.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/performance/performance_no_rtti.cpp
+END
+performance_iterators_base64.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/performance/performance_iterators_base64.cpp
+END
+performance_codecvt_null.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/performance/performance_codecvt_null.cpp
+END
+performance_binary.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/performance/performance_binary.cpp
+END
+polymorphic_text_warchive.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/performance/polymorphic_text_warchive.hpp
+END
+xml_archive.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/performance/xml_archive.hpp
+END
+Jamfile.v2
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/performance/Jamfile.v2
+END
+polymorphic_array_binary_archive.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/performance/polymorphic_array_binary_archive.hpp
+END
+peformance_array.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/performance/peformance_array.cpp
+END
+performance_utf8_codecvt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/performance/performance_utf8_codecvt.cpp
+END
+polymorphic_text_archive.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/performance/polymorphic_text_archive.hpp
+END
+polymorphic_binary_archive.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/performance/polymorphic_binary_archive.hpp
+END
+binary_warchive.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/performance/binary_warchive.hpp
+END
+text_warchive.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/performance/text_warchive.hpp
+END
+polymorphic_xml_warchive.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/performance/polymorphic_xml_warchive.hpp
+END
+portable_binary_archive.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/performance/portable_binary_archive.hpp
+END
+performance_vector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/performance/performance_vector.cpp
+END
+performance_polymorphic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/performance/performance_polymorphic.cpp
+END
+profile.sh
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/performance/profile.sh
+END
+binary_archive.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/performance/binary_archive.hpp
+END
+text_archive.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/performance/text_archive.hpp
+END
+polymorphic_xml_archive.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/performance/polymorphic_xml_archive.hpp
+END
+performance_iterators.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/performance/performance_iterators.cpp
+END
+xml_warchive.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/serialization/performance/xml_warchive.hpp
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/smart_ptr/example
+END
+scoped_ptr_example.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/smart_ptr/example/scoped_ptr_example.hpp
+END
+shared_ptr_example.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/smart_ptr/example/shared_ptr_example.cpp
+END
+shared_ptr_example2_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/smart_ptr/example/shared_ptr_example2_test.cpp
+END
+shared_ptr_example2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/smart_ptr/example/shared_ptr_example2.cpp
+END
+scoped_ptr_example_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/smart_ptr/example/scoped_ptr_example_test.cpp
+END
+scoped_ptr_example.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/smart_ptr/example/scoped_ptr_example.cpp
+END
+shared_ptr_example2.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/smart_ptr/example/shared_ptr_example2.hpp
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/tuple
+END
+tuple.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/tuple/tuple.hpp
+END
+tuple_io.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/tuple/tuple_io.hpp
+END
+tuple_comparison.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/tuple/tuple_comparison.hpp
+END

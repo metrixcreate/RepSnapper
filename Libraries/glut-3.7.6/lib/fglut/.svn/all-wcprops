@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/fglut
+END
+fglut.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/fglut/fglut.c
+END
+fglut_hel18.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/fglut/fglut_hel18.c
+END
+fglut_8x13.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/fglut/fglut_8x13.c
+END
+fglut_9x15.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/fglut/fglut_9x15.c
+END
+fglut_tr10.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/fglut/fglut_tr10.c
+END
+fglut_hel10.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/fglut/fglut_hel10.c
+END
+fglut_mroman.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/fglut/fglut_mroman.c
+END
+fglut_hel12.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/fglut/fglut_hel12.c
+END
+fglut_tr24.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/fglut/fglut_tr24.c
+END
+Makefile.sgi
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/fglut/Makefile.sgi
+END
+ObjectType.mk
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/fglut/ObjectType.mk
+END
+fglut_roman.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/fglut/fglut_roman.c
+END

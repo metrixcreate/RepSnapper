@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/wave/samples/real_positions
+END
+instantiate_re2c_lexer_str.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/wave/samples/real_positions/instantiate_re2c_lexer_str.cpp
+END
+instantiate_defined_grammar.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/wave/samples/real_positions/instantiate_defined_grammar.cpp
+END
+instantiate_cpp_exprgrammar.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/wave/samples/real_positions/instantiate_cpp_exprgrammar.cpp
+END
+real_positions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/wave/samples/real_positions/real_positions.cpp
+END
+instantiate_cpp_grammar.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/wave/samples/real_positions/instantiate_cpp_grammar.cpp
+END
+real_position_token.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/wave/samples/real_positions/real_position_token.hpp
+END
+correct_token_positions.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/wave/samples/real_positions/correct_token_positions.hpp
+END
+instantiate_cpp_literalgrs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/wave/samples/real_positions/instantiate_cpp_literalgrs.cpp
+END
+instantiate_re2c_lexer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/wave/samples/real_positions/instantiate_re2c_lexer.cpp
+END

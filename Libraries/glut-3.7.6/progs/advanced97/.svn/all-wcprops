@@ -1,0 +1,665 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/advanced97
+END
+texgen.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/advanced97/texgen.dsp
+END
+bubble.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/advanced97/bubble.dsp
+END
+explode.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/advanced97/explode.c
+END
+texmovie.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/advanced97/texmovie.c
+END
+interp.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/advanced97/interp.c
+END
+sbias.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/advanced97/sbias.c
+END
+usespheremap.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/advanced97/usespheremap.c
+END
+explode.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/advanced97/explode.dsp
+END
+texmovie.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/advanced97/texmovie.dsp
+END
+Imakefile
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/advanced97/Imakefile
+END
+cloud.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/advanced97/cloud.c
+END
+softshadow2.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/advanced97/softshadow2.dsp
+END
+volume.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/advanced97/volume.c
+END
+cloud.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/advanced97/cloud.dsp
+END
+highlight.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/advanced97/highlight.dsp
+END
+_all.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/advanced97/_all.dsp
+END
+spectral.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/advanced97/spectral.c
+END
+genspheremap.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/advanced97/genspheremap.c
+END
+paint.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/advanced97/paint.dsp
+END
+sm.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/advanced97/sm.c
+END
+genspheremap.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/advanced97/genspheremap.dsp
+END
+sm.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/advanced97/sm.h
+END
+complexity.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/advanced97/complexity.c
+END
+multispheremap.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/advanced97/multispheremap.dsp
+END
+bump.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/advanced97/bump.c
+END
+alphablendnosort.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/advanced97/alphablendnosort.dsp
+END
+screendoor.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/advanced97/screendoor.c
+END
+multiaccumaa.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/advanced97/multiaccumaa.c
+END
+lightmap.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/advanced97/lightmap.c
+END
+multialphablend.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/advanced97/multialphablend.dsp
+END
+warp.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/advanced97/warp.c
+END
+multialphablendnosort.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/advanced97/multialphablendnosort.c
+END
+noise.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/advanced97/noise.c
+END
+multiscreendoor.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/advanced97/multiscreendoor.c
+END
+multialphablendnosort.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/advanced97/multialphablendnosort.dsp
+END
+smoke.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/advanced97/smoke.c
+END
+multiscreendoor.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/advanced97/multiscreendoor.dsp
+END
+smoke.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/advanced97/smoke.dsp
+END
+water.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/advanced97/water.c
+END
+d.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/advanced97/d.c
+END
+fire.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/advanced97/fire.c
+END
+water.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/advanced97/water.dsp
+END
+vapor.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/advanced97/vapor.c
+END
+multimirror.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/advanced97/multimirror.dsp
+END
+billboard.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/advanced97/billboard.c
+END
+accumaa.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/advanced97/accumaa.c
+END
+line.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/advanced97/line.dsp
+END
+lightp.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/advanced97/lightp.dsp
+END
+bubble.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/advanced97/bubble.c
+END
+billboard.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/advanced97/billboard.dsp
+END
+accumaa.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/advanced97/accumaa.dsp
+END
+nthsurfdemo.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/advanced97/nthsurfdemo.c
+END
+projtex.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/advanced97/projtex.dsp
+END
+texture.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/advanced97/texture.c
+END
+texpage.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/advanced97/texpage.dsp
+END
+accconvolve.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/advanced97/accconvolve.c
+END
+chromakey_fancy.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/advanced97/chromakey_fancy.c
+END
+nthsurfdemo.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/advanced97/nthsurfdemo.dsp
+END
+softshadow2.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/advanced97/softshadow2.c
+END
+texture.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/advanced97/texture.dsp
+END
+interp.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/advanced97/interp.dsp
+END
+sbias.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/advanced97/sbias.dsp
+END
+texture.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/advanced97/texture.h
+END
+usespheremap.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/advanced97/usespheremap.dsp
+END
+accconvolve.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/advanced97/accconvolve.dsp
+END
+chromakey_fancy.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/advanced97/chromakey_fancy.dsp
+END
+highlight.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/advanced97/highlight.c
+END
+decal.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/advanced97/decal.c
+END
+paint.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/advanced97/paint.c
+END
+volume.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/advanced97/volume.dsp
+END
+decal.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/advanced97/decal.dsp
+END
+spectral.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/advanced97/spectral.dsp
+END
+cloudl.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/advanced97/cloudl.c
+END
+cloudl.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/advanced97/cloudl.dsp
+END
+alphablend.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/advanced97/alphablend.c
+END
+zcomposite.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/advanced97/zcomposite.c
+END
+alphablend.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/advanced97/alphablend.dsp
+END
+multispheremap.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/advanced97/multispheremap.c
+END
+alphablendnosort.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/advanced97/alphablendnosort.c
+END
+zcomposite.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/advanced97/zcomposite.dsp
+END
+complexity.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/advanced97/complexity.dsp
+END
+multialphablend.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/advanced97/multialphablend.c
+END
+bump.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/advanced97/bump.dsp
+END
+screendoor.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/advanced97/screendoor.dsp
+END
+multiaccumaa.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/advanced97/multiaccumaa.dsp
+END
+lightmap.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/advanced97/lightmap.dsp
+END
+csg.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/advanced97/csg.c
+END
+Makefile.sgi
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/advanced97/Makefile.sgi
+END
+warp.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/advanced97/warp.dsp
+END
+tess.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/advanced97/tess.c
+END
+textile.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/advanced97/textile.c
+END
+csg.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/advanced97/csg.dsp
+END
+underwater.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/advanced97/underwater.c
+END
+noise.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/advanced97/noise.dsp
+END
+chromakey.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/advanced97/chromakey.c
+END
+tess.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/advanced97/tess.dsp
+END
+textile.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/advanced97/textile.dsp
+END
+underwater.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/advanced97/underwater.dsp
+END
+multimirror.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/advanced97/multimirror.c
+END
+chromakey.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/advanced97/chromakey.dsp
+END
+sphere.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/advanced97/sphere.c
+END
+line.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/advanced97/line.c
+END
+lightp.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/advanced97/lightp.c
+END
+dissolve.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/advanced97/dissolve.c
+END
+fire.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/advanced97/fire.dsp
+END
+texgen.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/advanced97/texgen.c
+END
+projtex.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/advanced97/projtex.c
+END
+vapor.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/advanced97/vapor.dsp
+END
+dissolve.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/advanced97/dissolve.dsp
+END
+texpage.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/advanced97/texpage.c
+END

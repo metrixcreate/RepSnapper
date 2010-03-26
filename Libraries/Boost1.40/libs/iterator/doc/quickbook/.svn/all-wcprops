@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/quickbook
+END
+facade.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/quickbook/facade.qbk
+END
+traits.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/quickbook/traits.qbk
+END
+archetypes.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/quickbook/archetypes.qbk
+END
+indirect_iterator.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/quickbook/indirect_iterator.qbk
+END
+utilities.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/quickbook/utilities.qbk
+END
+zip_iterator.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/quickbook/zip_iterator.qbk
+END
+function_output_iterator.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/quickbook/function_output_iterator.qbk
+END
+concepts.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/quickbook/concepts.qbk
+END
+permutation_iterator.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/quickbook/permutation_iterator.qbk
+END
+shared_container_iterator.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/quickbook/shared_container_iterator.qbk
+END
+reverse_iterator.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/quickbook/reverse_iterator.qbk
+END
+transform_iterator.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/quickbook/transform_iterator.qbk
+END
+facade_tutorial.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/quickbook/facade_tutorial.qbk
+END
+concept_checking.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/quickbook/concept_checking.qbk
+END
+specialized_adaptors.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/quickbook/specialized_adaptors.qbk
+END
+iterator.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/quickbook/iterator.qbk
+END
+adaptor.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/quickbook/adaptor.qbk
+END
+filter_iterator.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/quickbook/filter_iterator.qbk
+END
+counting_iterator.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/quickbook/counting_iterator.qbk
+END

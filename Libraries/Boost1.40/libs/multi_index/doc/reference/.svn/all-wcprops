@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/multi_index/doc/reference
+END
+indices.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/multi_index/doc/reference/indices.html
+END
+hash_indices.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/multi_index/doc/reference/hash_indices.html
+END
+rnd_indices.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/multi_index/doc/reference/rnd_indices.html
+END
+ord_indices.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/multi_index/doc/reference/ord_indices.html
+END
+multi_index_container.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/multi_index/doc/reference/multi_index_container.html
+END
+seq_indices.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/multi_index/doc/reference/seq_indices.html
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/multi_index/doc/reference/index.html
+END
+key_extraction.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/multi_index/doc/reference/key_extraction.html
+END

@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/asio/ip
+END
+v6_only.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/asio/ip/v6_only.hpp
+END
+address_v4.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/asio/ip/address_v4.hpp
+END
+address_v6.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/asio/ip/address_v6.hpp
+END
+basic_resolver.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/asio/ip/basic_resolver.hpp
+END
+multicast.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/asio/ip/multicast.hpp
+END
+unicast.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/asio/ip/unicast.hpp
+END
+basic_resolver_iterator.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/asio/ip/basic_resolver_iterator.hpp
+END
+host_name.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/asio/ip/host_name.hpp
+END
+resolver_query_base.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/asio/ip/resolver_query_base.hpp
+END
+resolver_service.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/asio/ip/resolver_service.hpp
+END
+basic_endpoint.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/asio/ip/basic_endpoint.hpp
+END
+basic_resolver_entry.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/asio/ip/basic_resolver_entry.hpp
+END
+address.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/asio/ip/address.hpp
+END
+tcp.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/asio/ip/tcp.hpp
+END
+basic_resolver_query.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/asio/ip/basic_resolver_query.hpp
+END
+udp.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/asio/ip/udp.hpp
+END
+icmp.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/asio/ip/icmp.hpp
+END

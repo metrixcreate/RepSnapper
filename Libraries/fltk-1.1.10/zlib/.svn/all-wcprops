@@ -1,0 +1,191 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/zlib
+END
+inffixed.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/zlib/inffixed.h
+END
+deflate.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/zlib/deflate.c
+END
+zutil.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/zlib/zutil.c
+END
+gzio.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/zlib/gzio.c
+END
+deflate.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/zlib/deflate.h
+END
+zutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/zlib/zutil.h
+END
+makedepend
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/zlib/makedepend
+END
+crc32.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/zlib/crc32.c
+END
+crc32.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/zlib/crc32.h
+END
+trees.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/zlib/trees.c
+END
+algorithm.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/zlib/algorithm.txt
+END
+zconf.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/zlib/zconf.h
+END
+makefile.wat
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/zlib/makefile.wat
+END
+INDEX
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/zlib/INDEX
+END
+trees.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/zlib/trees.h
+END
+inffast.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/zlib/inffast.c
+END
+compress.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/zlib/compress.c
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/zlib/CMakeLists.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/zlib/Makefile
+END
+inffast.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/zlib/inffast.h
+END
+zlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/zlib/zlib.h
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/zlib/ChangeLog
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/zlib/README
+END
+inftrees.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/zlib/inftrees.c
+END
+zlib.3
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/zlib/zlib.3
+END
+inflate.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/zlib/inflate.c
+END
+uncompr.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/zlib/uncompr.c
+END
+inftrees.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/zlib/inftrees.h
+END
+FAQ
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/zlib/FAQ
+END
+inflate.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/zlib/inflate.h
+END
+adler32.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/zlib/adler32.c
+END

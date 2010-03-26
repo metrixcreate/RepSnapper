@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/iostreams/detail/streambuf
+END
+indirect_streambuf.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/iostreams/detail/streambuf/indirect_streambuf.hpp
+END
+linked_streambuf.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/iostreams/detail/streambuf/linked_streambuf.hpp
+END
+chainbuf.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/iostreams/detail/streambuf/chainbuf.hpp
+END
+direct_streambuf.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/iostreams/detail/streambuf/direct_streambuf.hpp
+END

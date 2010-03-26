@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/test/doc/html/utf/user-guide/test-organization
+END
+auto-test-suite.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/test/doc/html/utf/user-guide/test-organization/auto-test-suite.html
+END
+manual-test-case-template.html
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/test/doc/html/utf/user-guide/test-organization/manual-test-case-template.html
+END
+nullary-test-case.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/test/doc/html/utf/user-guide/test-organization/nullary-test-case.html
+END
+master-test-suite.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/test/doc/html/utf/user-guide/test-organization/master-test-suite.html
+END
+manual-test-suite.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/test/doc/html/utf/user-guide/test-organization/manual-test-suite.html
+END
+test-case-template.html
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/test/doc/html/utf/user-guide/test-organization/test-case-template.html
+END
+auto-nullary-test-case.html
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/test/doc/html/utf/user-guide/test-organization/auto-nullary-test-case.html
+END
+unary-test-case.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/test/doc/html/utf/user-guide/test-organization/unary-test-case.html
+END
+test-suite.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/test/doc/html/utf/user-guide/test-organization/test-suite.html
+END
+auto-test-case-template.html
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/test/doc/html/utf/user-guide/test-organization/auto-test-case-template.html
+END
+manual-nullary-test-case.html
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/test/doc/html/utf/user-guide/test-organization/manual-nullary-test-case.html
+END
+expected-failures.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/test/doc/html/utf/user-guide/test-organization/expected-failures.html
+END

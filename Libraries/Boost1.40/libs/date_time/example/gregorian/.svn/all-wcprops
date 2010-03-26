@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/example/gregorian
+END
+date_serialization_demo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/example/gregorian/date_serialization_demo.cpp
+END
+days_since_year_start.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/example/gregorian/days_since_year_start.cpp
+END
+days_alive.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/example/gregorian/days_alive.cpp
+END
+print_month.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/example/gregorian/print_month.cpp
+END
+period_calc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/example/gregorian/period_calc.cpp
+END
+days_between_new_years.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/example/gregorian/days_between_new_years.cpp
+END
+localization.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/example/gregorian/localization.cpp
+END
+print_holidays.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/example/gregorian/print_holidays.cpp
+END
+Jamfile.v2
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/example/gregorian/Jamfile.v2
+END
+dates_as_strings.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/example/gregorian/dates_as_strings.cpp
+END
+end_of_month_day.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/example/gregorian/end_of_month_day.cpp
+END
+find_last_day_of_months.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/example/gregorian/find_last_day_of_months.cpp
+END
+days_till_new_year.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/example/gregorian/days_till_new_year.cpp
+END
+month_add.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/example/gregorian/month_add.cpp
+END

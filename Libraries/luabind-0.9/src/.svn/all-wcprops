@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/RepSnapper/!svn/ver/123/Libraries/luabind-0.9/src
+END
+open.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/RepSnapper/!svn/ver/123/Libraries/luabind-0.9/src/open.cpp
+END
+class.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/RepSnapper/!svn/ver/123/Libraries/luabind-0.9/src/class.cpp
+END
+scope.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/RepSnapper/!svn/ver/123/Libraries/luabind-0.9/src/scope.cpp
+END
+wrapper_base.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/RepSnapper/!svn/ver/123/Libraries/luabind-0.9/src/wrapper_base.cpp
+END
+class_rep.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/RepSnapper/!svn/ver/123/Libraries/luabind-0.9/src/class_rep.cpp
+END
+object_rep.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/RepSnapper/!svn/ver/123/Libraries/luabind-0.9/src/object_rep.cpp
+END
+class_info.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/RepSnapper/!svn/ver/123/Libraries/luabind-0.9/src/class_info.cpp
+END
+weak_ref.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/RepSnapper/!svn/ver/123/Libraries/luabind-0.9/src/weak_ref.cpp
+END
+function.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/RepSnapper/!svn/ver/123/Libraries/luabind-0.9/src/function.cpp
+END
+link_compatibility.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/RepSnapper/!svn/ver/123/Libraries/luabind-0.9/src/link_compatibility.cpp
+END
+create_class.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/RepSnapper/!svn/ver/123/Libraries/luabind-0.9/src/create_class.cpp
+END
+stack_content_by_name.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/RepSnapper/!svn/ver/123/Libraries/luabind-0.9/src/stack_content_by_name.cpp
+END
+inheritance.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/RepSnapper/!svn/ver/123/Libraries/luabind-0.9/src/inheritance.cpp
+END
+error.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/RepSnapper/!svn/ver/123/Libraries/luabind-0.9/src/error.cpp
+END
+pcall.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/RepSnapper/!svn/ver/123/Libraries/luabind-0.9/src/pcall.cpp
+END
+exception_handler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/RepSnapper/!svn/ver/123/Libraries/luabind-0.9/src/exception_handler.cpp
+END
+class_registry.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/RepSnapper/!svn/ver/123/Libraries/luabind-0.9/src/class_registry.cpp
+END

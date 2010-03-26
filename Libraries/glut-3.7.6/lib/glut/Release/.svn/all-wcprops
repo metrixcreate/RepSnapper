@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/RepSnapper/!svn/ver/166/Libraries/glut-3.7.6/lib/glut/Release
+END
+glut.res
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/glut/Release/glut.res
+END
+glut32.lib
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/RepSnapper/!svn/ver/166/Libraries/glut-3.7.6/lib/glut/Release/glut32.lib
+END
+BuildLog.htm
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/RepSnapper/!svn/ver/166/Libraries/glut-3.7.6/lib/glut/Release/BuildLog.htm
+END

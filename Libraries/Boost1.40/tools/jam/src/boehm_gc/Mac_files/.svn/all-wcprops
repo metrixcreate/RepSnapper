@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/tools/jam/src/boehm_gc/Mac_files
+END
+dataend.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/tools/jam/src/boehm_gc/Mac_files/dataend.c
+END
+datastart.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/tools/jam/src/boehm_gc/Mac_files/datastart.c
+END
+MacOS_Test_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/tools/jam/src/boehm_gc/Mac_files/MacOS_Test_config.h
+END
+MacOS_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/tools/jam/src/boehm_gc/Mac_files/MacOS_config.h
+END

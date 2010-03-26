@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/example/chat
+END
+posix_chat_client.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/example/chat/posix_chat_client.cpp
+END
+chat_server.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/example/chat/chat_server.cpp
+END
+chat_message.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/example/chat/chat_message.hpp
+END
+chat_client.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/example/chat/chat_client.cpp
+END

@@ -1,0 +1,443 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/visualc
+END
+tile.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/visualc/tile.dsp
+END
+scroll.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/visualc/scroll.dsp
+END
+pixmap.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/visualc/pixmap.dsp
+END
+navigation.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/visualc/navigation.dsp
+END
+fractals.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/visualc/fractals.dsp
+END
+keyboard.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/visualc/keyboard.dsp
+END
+resize.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/visualc/resize.dsp
+END
+fast_slow.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/visualc/fast_slow.dsp
+END
+fullscreen.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/visualc/fullscreen.dsp
+END
+hello.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/visualc/hello.dsp
+END
+fluid.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/visualc/fluid.dsp
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/visualc/config.h
+END
+fltk.dsw
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/visualc/fltk.dsw
+END
+fltkforms.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/visualc/fltkforms.dsp
+END
+libpng.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/visualc/libpng.dsp
+END
+blocks.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/visualc/blocks.dsp
+END
+label.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/visualc/label.dsp
+END
+image.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/visualc/image.dsp
+END
+message.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/visualc/message.dsp
+END
+demo.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/visualc/demo.dsp
+END
+jpeg.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/visualc/jpeg.dsp
+END
+fltkimages.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/visualc/fltkimages.dsp
+END
+threads.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/visualc/threads.dsp
+END
+fltkdll.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/visualc/fltkdll.dsp
+END
+radio.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/visualc/radio.dsp
+END
+input.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/visualc/input.dsp
+END
+zlib.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/visualc/zlib.dsp
+END
+gl_overlay.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/visualc/gl_overlay.dsp
+END
+sudoku.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/visualc/sudoku.dsp
+END
+minimum.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/visualc/minimum.dsp
+END
+bitmap.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/visualc/bitmap.dsp
+END
+checkers.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/visualc/checkers.dsp
+END
+tabs.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/visualc/tabs.dsp
+END
+boxtype.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/visualc/boxtype.dsp
+END
+clock.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/visualc/clock.dsp
+END
+buttons.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/visualc/buttons.dsp
+END
+output.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/visualc/output.dsp
+END
+preferences.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/visualc/preferences.dsp
+END
+pixmap_browser.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/visualc/pixmap_browser.dsp
+END
+doublebuffer.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/visualc/doublebuffer.dsp
+END
+arc.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/visualc/arc.dsp
+END
+fltk.lib.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/visualc/fltk.lib.dsp
+END
+input_choice.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/visualc/input_choice.dsp
+END
+button.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/visualc/button.dsp
+END
+pack.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/visualc/pack.dsp
+END
+cube.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/visualc/cube.dsp
+END
+adjuster.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/visualc/adjuster.dsp
+END
+subwindow.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/visualc/subwindow.dsp
+END
+browser.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/visualc/browser.dsp
+END
+curve.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/visualc/curve.dsp
+END
+mandelbrot.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/visualc/mandelbrot.dsp
+END
+menubar.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/visualc/menubar.dsp
+END
+fonts.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/visualc/fonts.dsp
+END
+shape.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/visualc/shape.dsp
+END
+iconize.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/visualc/iconize.dsp
+END
+color_chooser.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/visualc/color_chooser.dsp
+END
+file_chooser.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/visualc/file_chooser.dsp
+END
+inactive.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/visualc/inactive.dsp
+END
+tiled_image.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/visualc/tiled_image.dsp
+END
+line_style.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/visualc/line_style.dsp
+END
+CubeView.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/visualc/CubeView.dsp
+END
+resizebox.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/visualc/resizebox.dsp
+END
+glpuzzle.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/visualc/glpuzzle.dsp
+END
+cursor.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/visualc/cursor.dsp
+END
+ask.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/visualc/ask.dsp
+END
+valuators.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/visualc/valuators.dsp
+END
+overlay.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/visualc/overlay.dsp
+END
+colbrowser.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/visualc/colbrowser.dsp
+END
+fltkgl.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/visualc/fltkgl.dsp
+END
+editor.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/visualc/editor.dsp
+END
+forms.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/visualc/forms.dsp
+END
+help.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/visualc/help.dsp
+END
+symbols.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/visualc/symbols.dsp
+END

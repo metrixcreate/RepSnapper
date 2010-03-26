@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/spirit/home/classic/core/non_terminal/impl
+END
+object_with_id.ipp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/spirit/home/classic/core/non_terminal/impl/object_with_id.ipp
+END
+subrule.ipp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/spirit/home/classic/core/non_terminal/impl/subrule.ipp
+END
+grammar.ipp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/spirit/home/classic/core/non_terminal/impl/grammar.ipp
+END
+static.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/spirit/home/classic/core/non_terminal/impl/static.hpp
+END
+rule.ipp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/spirit/home/classic/core/non_terminal/impl/rule.ipp
+END

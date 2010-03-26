@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/RepSnapper/!svn/ver/1/Libraries/gle-3.1.0/ms-visual-c/gle
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/RepSnapper/!svn/ver/1/Libraries/gle-3.1.0/ms-visual-c/gle/Makefile.in
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/RepSnapper/!svn/ver/1/Libraries/gle-3.1.0/ms-visual-c/gle/Makefile.am
+END
+gle.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/RepSnapper/!svn/ver/1/Libraries/gle-3.1.0/ms-visual-c/gle/gle.vcproj
+END
+gle.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/RepSnapper/!svn/ver/1/Libraries/gle-3.1.0/ms-visual-c/gle/gle.dsp
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/RepSnapper/!svn/ver/1/Libraries/gle-3.1.0/ms-visual-c/gle/.cvsignore
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/example/lex/static_lexer
+END
+word_count_static.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/example/lex/static_lexer/word_count_static.hpp
+END
+word_count.input
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/example/lex/static_lexer/word_count.input
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/example/lex/static_lexer/Jamfile
+END
+word_count_static.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/example/lex/static_lexer/word_count_static.cpp
+END
+word_count_tokens.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/example/lex/static_lexer/word_count_tokens.hpp
+END
+word_count_generate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/example/lex/static_lexer/word_count_generate.cpp
+END

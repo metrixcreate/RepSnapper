@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/tools
+END
+factorial_tables.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/tools/factorial_tables.cpp
+END
+carlson_ellint_data.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/tools/carlson_ellint_data.cpp
+END
+hypergeometric_dist_data.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/tools/hypergeometric_dist_data.cpp
+END
+beta_data.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/tools/beta_data.cpp
+END
+inv_hyp_data.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/tools/inv_hyp_data.cpp
+END
+erf_data.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/tools/erf_data.cpp
+END
+gamma_P_inva_data.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/tools/gamma_P_inva_data.cpp
+END
+generate_test_values.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/tools/generate_test_values.cpp
+END
+expint_i_data.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/tools/expint_i_data.cpp
+END
+ibeta_data.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/tools/ibeta_data.cpp
+END
+generate_rational_code.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/tools/generate_rational_code.cpp
+END
+legendre_data.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/tools/legendre_data.cpp
+END
+lanczos_generator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/tools/lanczos_generator.cpp
+END
+cbrt_data.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/tools/cbrt_data.cpp
+END
+ellint_f_data.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/tools/ellint_f_data.cpp
+END
+hermite_data.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/tools/hermite_data.cpp
+END
+digamma_data.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/tools/digamma_data.cpp
+END
+ibeta_inv_data.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/tools/ibeta_inv_data.cpp
+END
+rational_tests.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/tools/rational_tests.cpp
+END
+ellint_pi3_data.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/tools/ellint_pi3_data.cpp
+END
+ibeta_invab_data.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/tools/ibeta_invab_data.cpp
+END
+zeta_data.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/tools/zeta_data.cpp
+END
+tgamma_ratio_data.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/tools/tgamma_ratio_data.cpp
+END
+laguerre_data.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/tools/laguerre_data.cpp
+END
+expint_data.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/tools/expint_data.cpp
+END
+bessel_data.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/tools/bessel_data.cpp
+END
+process_perf_results.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/tools/process_perf_results.cpp
+END
+generate_rational_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/tools/generate_rational_test.cpp
+END
+spherical_harmonic_data.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/tools/spherical_harmonic_data.cpp
+END
+igamma_data.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/tools/igamma_data.cpp
+END
+ellint_e_data.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/tools/ellint_e_data.cpp
+END
+log1p_expm1_data.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/tools/log1p_expm1_data.cpp
+END
+igamma_temme_large_coef.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/tools/igamma_temme_large_coef.cpp
+END
+ellint_k_data.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/tools/ellint_k_data.cpp
+END
+ellint_pi2_data.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/tools/ellint_pi2_data.cpp
+END

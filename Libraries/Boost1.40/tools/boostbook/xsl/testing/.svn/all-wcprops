@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/tools/boostbook/xsl/testing
+END
+Jamfile.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/tools/boostbook/xsl/testing/Jamfile.xsl
+END
+testsuite.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/tools/boostbook/xsl/testing/testsuite.xsl
+END

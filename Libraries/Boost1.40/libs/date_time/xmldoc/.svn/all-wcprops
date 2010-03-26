@@ -1,0 +1,449 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/xmldoc
+END
+date_time_io.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/xmldoc/date_time_io.xml
+END
+details.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/xmldoc/details.xml
+END
+date_time_docs_howto.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/xmldoc/date_time_docs_howto.html
+END
+ex_seconds_since_epoch.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/xmldoc/ex_seconds_since_epoch.xml
+END
+ex_month_add.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/xmldoc/ex_month_add.xml
+END
+io_tutorial.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/xmldoc/io_tutorial.xml
+END
+ex_print_month.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/xmldoc/ex_print_month.xml
+END
+date_time_fo_stylesheet.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/xmldoc/date_time_fo_stylesheet.xsl
+END
+time_period.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/xmldoc/time_period.xml
+END
+ptime_class.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/xmldoc/ptime_class.xml
+END
+ex_local_utc_conversion.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/xmldoc/ex_local_utc_conversion.xml
+END
+design_concepts.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/xmldoc/design_concepts.xml
+END
+ex_print_hours.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/xmldoc/ex_print_hours.xml
+END
+changes.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/xmldoc/changes.xml
+END
+ex_find_last_day_of_months.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/xmldoc/ex_find_last_day_of_months.xml
+END
+local_time_period.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/xmldoc/local_time_period.xml
+END
+gregorian.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/xmldoc/gregorian.xml
+END
+ex_time_periods.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/xmldoc/ex_time_periods.xml
+END
+references.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/xmldoc/references.xml
+END
+calculations.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/xmldoc/calculations.xml
+END
+table_template.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/xmldoc/table_template.xml
+END
+license.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/xmldoc/license.xml
+END
+custom_time_zone.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/xmldoc/custom_time_zone.xml
+END
+ex_localization.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/xmldoc/ex_localization.xml
+END
+ex_end_of_month_day.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/xmldoc/ex_end_of_month_day.xml
+END
+acknowledgements.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/xmldoc/acknowledgements.xml
+END
+ex_simple_time_zone.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/xmldoc/ex_simple_time_zone.xml
+END
+time_facet.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/xmldoc/time_facet.xml
+END
+date_class.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/xmldoc/date_class.xml
+END
+tests.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/xmldoc/tests.xml
+END
+usage_examples.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/xmldoc/usage_examples.xml
+END
+time_duration.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/xmldoc/time_duration.xml
+END
+gregorian_calendar.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/xmldoc/gregorian_calendar.xml
+END
+date_algorithms.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/xmldoc/date_algorithms.xml
+END
+terminology.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/xmldoc/terminology.xml
+END
+snap_to_details.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/xmldoc/snap_to_details.xml
+END
+local_time.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/xmldoc/local_time.xml
+END
+ex_flight.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/xmldoc/ex_flight.xml
+END
+date_facet.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/xmldoc/date_facet.xml
+END
+tz_database.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/xmldoc/tz_database.xml
+END
+time_zone_base.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/xmldoc/time_zone_base.xml
+END
+ex_print_holidays.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/xmldoc/ex_print_holidays.xml
+END
+time_iterators.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/xmldoc/time_iterators.xml
+END
+ex_date_period_calc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/xmldoc/ex_date_period_calc.xml
+END
+date_input_facet.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/xmldoc/date_input_facet.xml
+END
+design_goals.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/xmldoc/design_goals.xml
+END
+domain_concepts.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/xmldoc/domain_concepts.xml
+END
+date_iterators.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/xmldoc/date_iterators.xml
+END
+posix_time_zone.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/xmldoc/posix_time_zone.xml
+END
+buildinfo.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/xmldoc/buildinfo.xml
+END
+examples.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/xmldoc/examples.xml
+END
+posix_time.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/xmldoc/posix_time.xml
+END
+io_objects.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/xmldoc/io_objects.xml
+END
+ex_days_between_new_years.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/xmldoc/ex_days_between_new_years.xml
+END
+exclusive_date_time.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/xmldoc/exclusive_date_time.xml
+END
+date_duration.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/xmldoc/date_duration.xml
+END
+doxy.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/xmldoc/doxy.xml
+END
+ref_tag_fix.pl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/xmldoc/ref_tag_fix.pl
+END
+ex_dates_as_strings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/xmldoc/ex_dates_as_strings.xml
+END
+motivation.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/xmldoc/motivation.xml
+END
+date_time.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/xmldoc/date_time.xml
+END
+conceptual.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/xmldoc/conceptual.xml
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/xmldoc/README
+END
+Jamfile.v2
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/xmldoc/Jamfile.v2
+END
+ex_time_math.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/xmldoc/ex_time_math.xml
+END
+ex_meeting_planner.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/xmldoc/ex_meeting_planner.xml
+END
+format_flags.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/xmldoc/format_flags.xml
+END
+local_date_time.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/xmldoc/local_date_time.xml
+END
+ex_calc_rules.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/xmldoc/ex_calc_rules.xml
+END
+ex_days_alive.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/xmldoc/ex_days_alive.xml
+END
+serialization.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/xmldoc/serialization.xml
+END
+tradeoffs.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/xmldoc/tradeoffs.xml
+END
+date_period.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/xmldoc/date_period.xml
+END
+time_input_facet.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/xmldoc/time_input_facet.xml
+END

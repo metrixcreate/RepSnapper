@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/doc/lex
+END
+lexer_attributes.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/doc/lex/lexer_attributes.qbk
+END
+lexer_tutorials.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/doc/lex/lexer_tutorials.qbk
+END
+lexer_static_model.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/doc/lex/lexer_static_model.qbk
+END
+parsing_using_a_lexer.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/doc/lex/parsing_using_a_lexer.qbk
+END
+token_definition.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/doc/lex/token_definition.qbk
+END
+lexer_primitives.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/doc/lex/lexer_primitives.qbk
+END
+lexer_quickstart1.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/doc/lex/lexer_quickstart1.qbk
+END
+lexer_quickstart2.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/doc/lex/lexer_quickstart2.qbk
+END
+lexer_quickstart3.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/doc/lex/lexer_quickstart3.qbk
+END
+introduction.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/doc/lex/introduction.qbk
+END
+tokenizing.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/doc/lex/tokenizing.qbk
+END
+lexer_semantic_actions.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/doc/lex/lexer_semantic_actions.qbk
+END
+lexer_states.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/doc/lex/lexer_states.qbk
+END
+tokens_values.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/doc/lex/tokens_values.qbk
+END

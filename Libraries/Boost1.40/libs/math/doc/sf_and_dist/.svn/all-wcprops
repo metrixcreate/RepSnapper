@@ -1,0 +1,497 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/doc/sf_and_dist
+END
+float_next.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/doc/sf_and_dist/float_next.qbk
+END
+fpclassify.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/doc/sf_and_dist/fpclassify.qbk
+END
+fraction.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/doc/sf_and_dist/fraction.qbk
+END
+overview.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/doc/sf_and_dist/overview.qbk
+END
+contact_info.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/doc/sf_and_dist/contact_info.qbk
+END
+tr1.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/doc/sf_and_dist/tr1.qbk
+END
+win32_nmake.mak
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/doc/sf_and_dist/win32_nmake.mak
+END
+concepts.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/doc/sf_and_dist/concepts.qbk
+END
+policy_tutorial.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/doc/sf_and_dist/policy_tutorial.qbk
+END
+remez.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/doc/sf_and_dist/remez.qbk
+END
+relative_error.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/doc/sf_and_dist/relative_error.qbk
+END
+legendre.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/doc/sf_and_dist/legendre.qbk
+END
+internals_overview.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/doc/sf_and_dist/internals_overview.qbk
+END
+ellint_introduction.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/doc/sf_and_dist/ellint_introduction.qbk
+END
+spherical_harmonic.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/doc/sf_and_dist/spherical_harmonic.qbk
+END
+ellint_legendre.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/doc/sf_and_dist/ellint_legendre.qbk
+END
+building.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/doc/sf_and_dist/building.qbk
+END
+sign.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/doc/sf_and_dist/sign.qbk
+END
+inv_hyper.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/doc/sf_and_dist/inv_hyper.qbk
+END
+gamma_ratios.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/doc/sf_and_dist/gamma_ratios.qbk
+END
+dist_reference.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/doc/sf_and_dist/dist_reference.qbk
+END
+polynomial.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/doc/sf_and_dist/polynomial.qbk
+END
+ibeta.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/doc/sf_and_dist/ibeta.qbk
+END
+dist_tutorial.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/doc/sf_and_dist/dist_tutorial.qbk
+END
+gamma_derivatives.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/doc/sf_and_dist/gamma_derivatives.qbk
+END
+factorials.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/doc/sf_and_dist/factorials.qbk
+END
+erf_inv.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/doc/sf_and_dist/erf_inv.qbk
+END
+series.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/doc/sf_and_dist/series.qbk
+END
+dist_algorithms.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/doc/sf_and_dist/dist_algorithms.qbk
+END
+c99_ref.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/doc/sf_and_dist/c99_ref.qbk
+END
+html4_symbols.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/doc/sf_and_dist/html4_symbols.qbk
+END
+structure.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/doc/sf_and_dist/structure.qbk
+END
+rounding_func.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/doc/sf_and_dist/rounding_func.qbk
+END
+bessel_ik.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/doc/sf_and_dist/bessel_ik.qbk
+END
+common_overviews.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/doc/sf_and_dist/common_overviews.qbk
+END
+minimax.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/doc/sf_and_dist/minimax.qbk
+END
+laguerre.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/doc/sf_and_dist/laguerre.qbk
+END
+roots.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/doc/sf_and_dist/roots.qbk
+END
+igamma_inv.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/doc/sf_and_dist/igamma_inv.qbk
+END
+bessel_spherical.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/doc/sf_and_dist/bessel_spherical.qbk
+END
+ellint_carlson.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/doc/sf_and_dist/ellint_carlson.qbk
+END
+test_data.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/doc/sf_and_dist/test_data.qbk
+END
+lanczos.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/doc/sf_and_dist/lanczos.qbk
+END
+rational.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/doc/sf_and_dist/rational.qbk
+END
+beta.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/doc/sf_and_dist/beta.qbk
+END
+thread_safety.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/doc/sf_and_dist/thread_safety.qbk
+END
+roadmap.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/doc/sf_and_dist/roadmap.qbk
+END
+implementation.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/doc/sf_and_dist/implementation.qbk
+END
+hermite.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/doc/sf_and_dist/hermite.qbk
+END
+credits.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/doc/sf_and_dist/credits.qbk
+END
+beta_derivative.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/doc/sf_and_dist/beta_derivative.qbk
+END
+error_handling.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/doc/sf_and_dist/error_handling.qbk
+END
+lgamma.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/doc/sf_and_dist/lgamma.qbk
+END
+roots_without_derivatives.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/doc/sf_and_dist/roots_without_derivatives.qbk
+END
+policy.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/doc/sf_and_dist/policy.qbk
+END
+digamma.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/doc/sf_and_dist/digamma.qbk
+END
+test_html4_symbols.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/doc/sf_and_dist/test_html4_symbols.qbk
+END
+latin1_symbols.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/doc/sf_and_dist/latin1_symbols.qbk
+END
+performance.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/doc/sf_and_dist/performance.qbk
+END
+tr1_ref.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/doc/sf_and_dist/tr1_ref.qbk
+END
+zeta.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/doc/sf_and_dist/zeta.qbk
+END
+pow.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/doc/sf_and_dist/pow.qbk
+END
+tgamma.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/doc/sf_and_dist/tgamma.qbk
+END
+expint.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/doc/sf_and_dist/expint.qbk
+END
+minima.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/doc/sf_and_dist/minima.qbk
+END
+issues.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/doc/sf_and_dist/issues.qbk
+END
+constants.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/doc/sf_and_dist/constants.qbk
+END
+erf.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/doc/sf_and_dist/erf.qbk
+END
+bessel_introduction.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/doc/sf_and_dist/bessel_introduction.qbk
+END
+powers.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/doc/sf_and_dist/powers.qbk
+END
+bessel_jy.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/doc/sf_and_dist/bessel_jy.qbk
+END
+background.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/doc/sf_and_dist/background.qbk
+END
+Jamfile.v2
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/doc/sf_and_dist/Jamfile.v2
+END
+references.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/doc/sf_and_dist/references.qbk
+END
+license.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/doc/sf_and_dist/license.qbk
+END
+poisson_optimisation.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/doc/sf_and_dist/poisson_optimisation.qbk
+END
+math.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/doc/sf_and_dist/math.qbk
+END
+error.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/doc/sf_and_dist/error.qbk
+END
+igamma.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/doc/sf_and_dist/igamma.qbk
+END
+sinc.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/doc/sf_and_dist/sinc.qbk
+END
+ibeta_inv.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/doc/sf_and_dist/ibeta_inv.qbk
+END
+result_type_calc.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/math/doc/sf_and_dist/result_type_calc.qbk
+END

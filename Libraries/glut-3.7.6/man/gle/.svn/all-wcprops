@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/man/gle
+END
+glePolyCylinder.man
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/man/gle/glePolyCylinder.man
+END
+gleSuperExtrusion.man
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/man/gle/gleSuperExtrusion.man
+END
+gle.man
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/man/gle/gle.man
+END
+gleHelicoid.man
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/man/gle/gleHelicoid.man
+END
+gleScrew.man
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/man/gle/gleScrew.man
+END
+Imakefile
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/man/gle/Imakefile
+END
+glePolyCone.man
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/man/gle/glePolyCone.man
+END
+gleSpiral.man
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/man/gle/gleSpiral.man
+END
+gleTwistExtrusion.man
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/man/gle/gleTwistExtrusion.man
+END
+gleSetJoinStyle.man
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/man/gle/gleSetJoinStyle.man
+END
+Makefile.sgi
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/man/gle/Makefile.sgi
+END
+gleLathe.man
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/man/gle/gleLathe.man
+END
+gleToroid.man
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/man/gle/gleToroid.man
+END
+gleExtrusion.man
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/man/gle/gleExtrusion.man
+END
+gleTextureMode.man
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/man/gle/gleTextureMode.man
+END

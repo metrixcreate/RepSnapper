@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/spirit/home/qi/auxiliary
+END
+functor_director.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/spirit/home/qi/auxiliary/functor_director.hpp
+END
+primitives.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/spirit/home/qi/auxiliary/primitives.hpp
+END
+meta_grammar.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/spirit/home/qi/auxiliary/meta_grammar.hpp
+END
+lazy.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/spirit/home/qi/auxiliary/lazy.hpp
+END
+none.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/spirit/home/qi/auxiliary/none.hpp
+END
+functor.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/spirit/home/qi/auxiliary/functor.hpp
+END
+confix.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/spirit/home/qi/auxiliary/confix.hpp
+END
+eps.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/spirit/home/qi/auxiliary/eps.hpp
+END

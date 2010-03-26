@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/overview/core
+END
+buffers.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/overview/core/buffers.html
+END
+async.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/overview/core/async.html
+END
+strands.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/overview/core/strands.html
+END
+streams.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/overview/core/streams.html
+END
+reactor.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/overview/core/reactor.html
+END
+basics.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/overview/core/basics.html
+END
+allocation.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/overview/core/allocation.html
+END
+line_based.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/overview/core/line_based.html
+END
+threads.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/doc/html/boost_asio/overview/core/threads.html
+END

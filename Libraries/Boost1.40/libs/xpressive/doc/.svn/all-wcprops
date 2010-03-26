@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/xpressive/doc
+END
+preface.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/xpressive/doc/preface.qbk
+END
+dynamic_regexes.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/xpressive/doc/dynamic_regexes.qbk
+END
+traits.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/xpressive/doc/traits.qbk
+END
+grammars.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/xpressive/doc/grammars.qbk
+END
+static_regexes.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/xpressive/doc/static_regexes.qbk
+END
+tips_n_tricks.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/xpressive/doc/tips_n_tricks.qbk
+END
+examples.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/xpressive/doc/examples.qbk
+END
+concepts.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/xpressive/doc/concepts.qbk
+END
+tokenization.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/xpressive/doc/tokenization.qbk
+END
+introduction.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/xpressive/doc/introduction.qbk
+END
+Jamfile.v2
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/xpressive/doc/Jamfile.v2
+END
+regexpp_diffs.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/xpressive/doc/regexpp_diffs.qbk
+END
+tracking_ptr.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/xpressive/doc/tracking_ptr.qbk
+END
+symbols.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/xpressive/doc/symbols.qbk
+END
+xpressive.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/xpressive/doc/xpressive.qbk
+END
+quick_start.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/xpressive/doc/quick_start.qbk
+END
+matching.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/xpressive/doc/matching.qbk
+END
+acknowledgements.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/xpressive/doc/acknowledgements.qbk
+END
+perf.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/xpressive/doc/perf.qbk
+END
+nyi.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/xpressive/doc/nyi.qbk
+END
+substitutions.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/xpressive/doc/substitutions.qbk
+END
+actions.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/xpressive/doc/actions.qbk
+END
+installation.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/xpressive/doc/installation.qbk
+END
+history.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/xpressive/doc/history.qbk
+END
+results.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/xpressive/doc/results.qbk
+END

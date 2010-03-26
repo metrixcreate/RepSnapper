@@ -1,0 +1,191 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/RepSnapper/!svn/ver/1/Libraries/gle-3.1.0/examples
+END
+mainsimple.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/RepSnapper/!svn/ver/1/Libraries/gle-3.1.0/examples/mainsimple.c
+END
+texture.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/RepSnapper/!svn/ver/1/Libraries/gle-3.1.0/examples/texture.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/RepSnapper/!svn/ver/1/Libraries/gle-3.1.0/examples/Makefile.in
+END
+mainjoin.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/RepSnapper/!svn/ver/1/Libraries/gle-3.1.0/examples/mainjoin.c
+END
+beam.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/RepSnapper/!svn/ver/1/Libraries/gle-3.1.0/examples/beam.c
+END
+texture.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/RepSnapper/!svn/ver/1/Libraries/gle-3.1.0/examples/texture.h
+END
+maintex.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/RepSnapper/!svn/ver/1/Libraries/gle-3.1.0/examples/maintex.c
+END
+twistoid.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/RepSnapper/!svn/ver/1/Libraries/gle-3.1.0/examples/twistoid.c
+END
+horn.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/RepSnapper/!svn/ver/1/Libraries/gle-3.1.0/examples/horn.c
+END
+Makefile.examples
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/RepSnapper/!svn/ver/1/Libraries/gle-3.1.0/examples/Makefile.examples
+END
+cone.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/RepSnapper/!svn/ver/1/Libraries/gle-3.1.0/examples/cone.c
+END
+alpha.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/RepSnapper/!svn/ver/1/Libraries/gle-3.1.0/examples/alpha.c
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/RepSnapper/!svn/ver/1/Libraries/gle-3.1.0/examples/COPYING
+END
+helixtex.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/RepSnapper/!svn/ver/1/Libraries/gle-3.1.0/examples/helixtex.c
+END
+helix2.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/RepSnapper/!svn/ver/1/Libraries/gle-3.1.0/examples/helix2.c
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/RepSnapper/!svn/ver/1/Libraries/gle-3.1.0/examples/.cvsignore
+END
+helix3.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/RepSnapper/!svn/ver/1/Libraries/gle-3.1.0/examples/helix3.c
+END
+helix4.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/RepSnapper/!svn/ver/1/Libraries/gle-3.1.0/examples/helix4.c
+END
+joinoffset.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/RepSnapper/!svn/ver/1/Libraries/gle-3.1.0/examples/joinoffset.c
+END
+cylinder.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/RepSnapper/!svn/ver/1/Libraries/gle-3.1.0/examples/cylinder.c
+END
+helix.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/RepSnapper/!svn/ver/1/Libraries/gle-3.1.0/examples/helix.c
+END
+taper.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/RepSnapper/!svn/ver/1/Libraries/gle-3.1.0/examples/taper.c
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/RepSnapper/!svn/ver/1/Libraries/gle-3.1.0/examples/README
+END
+screw.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/RepSnapper/!svn/ver/1/Libraries/gle-3.1.0/examples/screw.c
+END
+texas.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/RepSnapper/!svn/ver/1/Libraries/gle-3.1.0/examples/texas.c
+END
+candlestick.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/RepSnapper/!svn/ver/1/Libraries/gle-3.1.0/examples/candlestick.c
+END
+twoid.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/RepSnapper/!svn/ver/1/Libraries/gle-3.1.0/examples/twoid.c
+END
+rundemo
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/RepSnapper/!svn/ver/1/Libraries/gle-3.1.0/examples/rundemo
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/RepSnapper/!svn/ver/1/Libraries/gle-3.1.0/examples/Makefile.am
+END
+main.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/RepSnapper/!svn/ver/1/Libraries/gle-3.1.0/examples/main.h
+END
+transport.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/RepSnapper/!svn/ver/1/Libraries/gle-3.1.0/examples/transport.c
+END

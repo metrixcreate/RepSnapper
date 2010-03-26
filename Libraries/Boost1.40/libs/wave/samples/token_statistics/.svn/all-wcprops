@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/wave/samples/token_statistics
+END
+xlex_iterator.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/wave/samples/token_statistics/xlex_iterator.hpp
+END
+token_statistics.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/wave/samples/token_statistics/token_statistics.hpp
+END
+instantiate_xlex_lexer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/wave/samples/token_statistics/instantiate_xlex_lexer.cpp
+END
+collect_token_statistics.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/wave/samples/token_statistics/collect_token_statistics.hpp
+END
+token_statistics_version.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/wave/samples/token_statistics/token_statistics_version.hpp
+END
+xlex_interface.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/wave/samples/token_statistics/xlex_interface.hpp
+END
+instantiate_defined_grammar.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/wave/samples/token_statistics/instantiate_defined_grammar.cpp
+END
+token_statistics.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/wave/samples/token_statistics/token_statistics.cpp
+END
+instantiate_cpp_grammar.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/wave/samples/token_statistics/instantiate_cpp_grammar.cpp
+END

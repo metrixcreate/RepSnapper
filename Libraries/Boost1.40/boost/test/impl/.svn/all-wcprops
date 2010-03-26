@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/test/impl
+END
+framework.ipp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/test/impl/framework.ipp
+END
+compiler_log_formatter.ipp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/test/impl/compiler_log_formatter.ipp
+END
+test_tools.ipp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/test/impl/test_tools.ipp
+END
+unit_test_parameters.ipp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/test/impl/unit_test_parameters.ipp
+END
+results_collector.ipp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/test/impl/results_collector.ipp
+END
+exception_safety.ipp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/test/impl/exception_safety.ipp
+END
+execution_monitor.ipp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/test/impl/execution_monitor.ipp
+END
+progress_monitor.ipp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/test/impl/progress_monitor.ipp
+END
+interaction_based.ipp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/test/impl/interaction_based.ipp
+END
+xml_report_formatter.ipp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/test/impl/xml_report_formatter.ipp
+END
+unit_test_log.ipp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/test/impl/unit_test_log.ipp
+END
+plain_report_formatter.ipp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/test/impl/plain_report_formatter.ipp
+END
+unit_test_main.ipp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/test/impl/unit_test_main.ipp
+END
+test_main.ipp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/test/impl/test_main.ipp
+END
+results_reporter.ipp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/test/impl/results_reporter.ipp
+END
+xml_log_formatter.ipp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/test/impl/xml_log_formatter.ipp
+END
+unit_test_monitor.ipp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/test/impl/unit_test_monitor.ipp
+END
+debug.ipp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/test/impl/debug.ipp
+END
+cpp_main.ipp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/test/impl/cpp_main.ipp
+END
+logged_expectations.ipp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/test/impl/logged_expectations.ipp
+END
+unit_test_suite.ipp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/test/impl/unit_test_suite.ipp
+END

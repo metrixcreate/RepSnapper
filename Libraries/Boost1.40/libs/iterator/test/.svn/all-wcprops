@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/test
+END
+counting_iterator_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/test/counting_iterator_test.cpp
+END
+lvalue_concept_fail.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/test/lvalue_concept_fail.cpp
+END
+indirect_iter_member_types.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/test/indirect_iter_member_types.cpp
+END
+unit_tests.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/test/unit_tests.cpp
+END
+iter_archetype_default_ctor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/test/iter_archetype_default_ctor.cpp
+END
+is_convertible_fail.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/test/is_convertible_fail.cpp
+END
+iterator_adaptor_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/test/iterator_adaptor_test.cpp
+END
+iterator_archetype_cc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/test/iterator_archetype_cc.cpp
+END
+is_readable_iterator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/test/is_readable_iterator.cpp
+END
+pointee.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/test/pointee.cpp
+END
+iterator_adaptor_cc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/test/iterator_adaptor_cc.cpp
+END
+indirect_iterator_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/test/indirect_iterator_test.cpp
+END
+zip_iterator_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/test/zip_iterator_test.cpp
+END
+Jamfile.v2
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/test/Jamfile.v2
+END
+iterator_facade.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/test/iterator_facade.cpp
+END
+concept_tests.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/test/concept_tests.cpp
+END
+iterator_traits_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/test/iterator_traits_test.cpp
+END
+permutation_iterator_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/test/permutation_iterator_test.cpp
+END
+constant_iter_arrow_fail.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/test/constant_iter_arrow_fail.cpp
+END
+static_assert_same.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/test/static_assert_same.hpp
+END
+reverse_iterator_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/test/reverse_iterator_test.cpp
+END
+transform_iterator_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/test/transform_iterator_test.cpp
+END
+interoperable_fail.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/test/interoperable_fail.cpp
+END
+constant_iter_arrow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/test/constant_iter_arrow.cpp
+END
+interoperable.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/test/interoperable.cpp
+END
+is_lvalue_iterator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/test/is_lvalue_iterator.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/test/CMakeLists.txt
+END
+filter_iterator_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/test/filter_iterator_test.cpp
+END

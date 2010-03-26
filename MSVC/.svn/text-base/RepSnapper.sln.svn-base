@@ -1,0 +1,104 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RepSnapper", "RepSnapper.vcproj", "{B8F0229F-9F0F-440B-860F-9488FFE9B6C9}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+	ProjectSection(ProjectDependencies) = postProject
+		{921ADB06-402A-4FE8-A198-6516404BE3AF} = {921ADB06-402A-4FE8-A198-6516404BE3AF}
+		{EE21F517-45BF-445A-A329-C6992ECB7CF5} = {EE21F517-45BF-445A-A329-C6992ECB7CF5}
+		{F7974A9C-C255-4385-96BC-E24EE0816F7C} = {F7974A9C-C255-4385-96BC-E24EE0816F7C}
+		{E070AAFC-9D03-41A3-BC7D-30887EA0D50F} = {E070AAFC-9D03-41A3-BC7D-30887EA0D50F}
+		{536795C1-59EC-492A-8CFE-15C151152361} = {536795C1-59EC-492A-8CFE-15C151152361}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ANN", "..\Libraries\ann_1.1.1\MS_Win32\dll\dll.vcproj", "{A7D00B21-CB9C-4BBB-8DEE-51025104F867}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "glut32", "..\Libraries\glut-3.7.6\lib\glut\glut32.vcproj", "{EE21F517-45BF-445A-A329-C6992ECB7CF5}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "fltk.static", "..\Libraries\fltk-1.1.10\vc2005\fltk.static.lib.vcproj", "{E070AAFC-9D03-41A3-BC7D-30887EA0D50F}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "fltkgl.static", "..\Libraries\fltk-1.1.10\vc2005\fltkgl.static.vcproj", "{F7974A9C-C255-4385-96BC-E24EE0816F7C}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "luabind", "..\Libraries\luabind-0.9\MSVC\luabind.vcproj", "{536795C1-59EC-492A-8CFE-15C151152361}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lua", "..\Libraries\lua-5.1.4\MSVC\Lua.vcproj", "{921ADB06-402A-4FE8-A198-6516404BE3AF}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "04_MoreUsefulMouseCode", "..\MoreUsefulMouseCode\04_MoreUsefulMouseCode.vcproj", "{E75D25EF-FE14-4647-A91D-ED8E59166F56}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+	ProjectSection(ProjectDependencies) = postProject
+		{EE21F517-45BF-445A-A329-C6992ECB7CF5} = {EE21F517-45BF-445A-A329-C6992ECB7CF5}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8F0229F-9F0F-440B-860F-9488FFE9B6C9}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B8F0229F-9F0F-440B-860F-9488FFE9B6C9}.Debug|Win32.Build.0 = Debug|Win32
+		{B8F0229F-9F0F-440B-860F-9488FFE9B6C9}.Release|Win32.ActiveCfg = Release|Win32
+		{B8F0229F-9F0F-440B-860F-9488FFE9B6C9}.Release|Win32.Build.0 = Release|Win32
+		{A7D00B21-CB9C-4BBB-8DEE-51025104F867}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A7D00B21-CB9C-4BBB-8DEE-51025104F867}.Debug|Win32.Build.0 = Debug|Win32
+		{A7D00B21-CB9C-4BBB-8DEE-51025104F867}.Release|Win32.ActiveCfg = Release|Win32
+		{A7D00B21-CB9C-4BBB-8DEE-51025104F867}.Release|Win32.Build.0 = Release|Win32
+		{EE21F517-45BF-445A-A329-C6992ECB7CF5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{EE21F517-45BF-445A-A329-C6992ECB7CF5}.Debug|Win32.Build.0 = Debug|Win32
+		{EE21F517-45BF-445A-A329-C6992ECB7CF5}.Release|Win32.ActiveCfg = Release|Win32
+		{EE21F517-45BF-445A-A329-C6992ECB7CF5}.Release|Win32.Build.0 = Release|Win32
+		{E070AAFC-9D03-41A3-BC7D-30887EA0D50F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E070AAFC-9D03-41A3-BC7D-30887EA0D50F}.Debug|Win32.Build.0 = Debug|Win32
+		{E070AAFC-9D03-41A3-BC7D-30887EA0D50F}.Release|Win32.ActiveCfg = Release|Win32
+		{E070AAFC-9D03-41A3-BC7D-30887EA0D50F}.Release|Win32.Build.0 = Release|Win32
+		{F7974A9C-C255-4385-96BC-E24EE0816F7C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F7974A9C-C255-4385-96BC-E24EE0816F7C}.Debug|Win32.Build.0 = Debug|Win32
+		{F7974A9C-C255-4385-96BC-E24EE0816F7C}.Release|Win32.ActiveCfg = Release|Win32
+		{F7974A9C-C255-4385-96BC-E24EE0816F7C}.Release|Win32.Build.0 = Release|Win32
+		{536795C1-59EC-492A-8CFE-15C151152361}.Debug|Win32.ActiveCfg = Debug|Win32
+		{536795C1-59EC-492A-8CFE-15C151152361}.Debug|Win32.Build.0 = Debug|Win32
+		{536795C1-59EC-492A-8CFE-15C151152361}.Release|Win32.ActiveCfg = Release|Win32
+		{536795C1-59EC-492A-8CFE-15C151152361}.Release|Win32.Build.0 = Release|Win32
+		{921ADB06-402A-4FE8-A198-6516404BE3AF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{921ADB06-402A-4FE8-A198-6516404BE3AF}.Debug|Win32.Build.0 = Debug|Win32
+		{921ADB06-402A-4FE8-A198-6516404BE3AF}.Release|Win32.ActiveCfg = Release|Win32
+		{921ADB06-402A-4FE8-A198-6516404BE3AF}.Release|Win32.Build.0 = Release|Win32
+		{E75D25EF-FE14-4647-A91D-ED8E59166F56}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E75D25EF-FE14-4647-A91D-ED8E59166F56}.Debug|Win32.Build.0 = Debug|Win32
+		{E75D25EF-FE14-4647-A91D-ED8E59166F56}.Release|Win32.ActiveCfg = Release|Win32
+		{E75D25EF-FE14-4647-A91D-ED8E59166F56}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

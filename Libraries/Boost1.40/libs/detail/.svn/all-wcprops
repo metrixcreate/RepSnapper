@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/detail
+END
+utf8_codecvt_facet.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/detail/utf8_codecvt_facet.cpp
+END
+module.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/detail/module.cmake
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/detail/CMakeLists.txt
+END

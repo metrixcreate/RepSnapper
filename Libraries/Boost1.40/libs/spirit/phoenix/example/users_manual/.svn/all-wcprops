@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/phoenix/example/users_manual
+END
+find_if.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/phoenix/example/users_manual/find_if.cpp
+END
+if.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/phoenix/example/users_manual/if.cpp
+END
+values.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/phoenix/example/users_manual/values.cpp
+END
+lambda.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/phoenix/example/users_manual/lambda.cpp
+END
+all_odds.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/phoenix/example/users_manual/all_odds.cpp
+END
+references.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/phoenix/example/users_manual/references.cpp
+END
+factorial.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/phoenix/example/users_manual/factorial.cpp
+END
+arguments.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/phoenix/example/users_manual/arguments.cpp
+END
+function.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/phoenix/example/users_manual/function.cpp
+END
+algorithm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/phoenix/example/users_manual/algorithm.cpp
+END
+callback.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/spirit/phoenix/example/users_manual/callback.cpp
+END

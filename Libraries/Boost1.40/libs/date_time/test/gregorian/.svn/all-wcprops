@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/test/gregorian
+END
+testdate_input_facet.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/test/gregorian/testdate_input_facet.cpp
+END
+testformat_date_parser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/test/gregorian/testformat_date_parser.cpp
+END
+testgreg_cal.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/test/gregorian/testgreg_cal.cpp
+END
+testgreg_year.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/test/gregorian/testgreg_year.cpp
+END
+testparse_date.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/test/gregorian/testparse_date.cpp
+END
+testgenerators.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/test/gregorian/testgenerators.cpp
+END
+testgreg_durations.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/test/gregorian/testgreg_durations.cpp
+END
+testdate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/test/gregorian/testdate.cpp
+END
+testcurrent_day.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/test/gregorian/testcurrent_day.cpp
+END
+testgreg_day.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/test/gregorian/testgreg_day.cpp
+END
+testfacet.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/test/gregorian/testfacet.cpp
+END
+testdate_duration.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/test/gregorian/testdate_duration.cpp
+END
+testperiod.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/test/gregorian/testperiod.cpp
+END
+testgreg_wstream.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/test/gregorian/testgreg_wstream.cpp
+END
+testformatters.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/test/gregorian/testformatters.cpp
+END
+testdate_iterator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/test/gregorian/testdate_iterator.cpp
+END
+testdate_facet_new.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/test/gregorian/testdate_facet_new.cpp
+END
+testgreg_month.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/test/gregorian/testgreg_month.cpp
+END
+testgreg_serialize.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/date_time/test/gregorian/testgreg_serialize.cpp
+END

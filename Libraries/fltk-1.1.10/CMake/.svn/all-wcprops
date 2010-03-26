@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/CMake
+END
+CheckFunctionWithHeaderExists.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/CMake/CheckFunctionWithHeaderExists.cmake
+END
+PlatformTests.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/CMake/PlatformTests.cxx
+END
+FLTKConfig.cmake.in
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/CMake/FLTKConfig.cmake.in
+END
+FLTKUse.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/RepSnapper/!svn/ver/78/Libraries/fltk-1.1.10/CMake/FLTKUse.cmake
+END

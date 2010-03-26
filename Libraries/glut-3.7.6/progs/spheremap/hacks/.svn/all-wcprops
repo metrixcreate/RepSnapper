@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/spheremap/hacks
+END
+cview2smap.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/spheremap/hacks/cview2smap.c
+END
+sixviews.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/spheremap/hacks/sixviews.c
+END
+smapmesh.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/spheremap/hacks/smapmesh.dsp
+END
+smapmesh.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/spheremap/hacks/smapmesh.h
+END
+cview2smap.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/spheremap/hacks/cview2smap.dsp
+END
+Imakefile
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/spheremap/hacks/Imakefile
+END
+sixviews.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/spheremap/hacks/sixviews.dsp
+END
+st2rvec.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/spheremap/hacks/st2rvec.c
+END
+drawmesh.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/spheremap/hacks/drawmesh.c
+END
+makemesh.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/spheremap/hacks/makemesh.c
+END
+st2rvec.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/spheremap/hacks/st2rvec.dsp
+END
+Makefile.sgi
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/spheremap/hacks/Makefile.sgi
+END
+smapmesh.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/spheremap/hacks/smapmesh.c
+END

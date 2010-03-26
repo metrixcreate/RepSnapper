@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/tools/build/v2/example/qt/qt4/uic
+END
+jamroot.jam
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/tools/build/v2/example/qt/qt4/uic/jamroot.jam
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/tools/build/v2/example/qt/qt4/uic/main.cpp
+END
+hello_world_widget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/tools/build/v2/example/qt/qt4/uic/hello_world_widget.ui
+END

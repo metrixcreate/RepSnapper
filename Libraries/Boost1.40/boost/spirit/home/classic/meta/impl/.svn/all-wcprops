@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/spirit/home/classic/meta/impl
+END
+traverse.ipp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/spirit/home/classic/meta/impl/traverse.ipp
+END
+fundamental.ipp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/spirit/home/classic/meta/impl/fundamental.ipp
+END
+parser_traits.ipp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/spirit/home/classic/meta/impl/parser_traits.ipp
+END
+refactoring.ipp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/spirit/home/classic/meta/impl/refactoring.ipp
+END

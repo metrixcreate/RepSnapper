@@ -1,0 +1,227 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/RepSnapper/!svn/ver/100/Libraries/vmmlib/include/vmmlib
+END
+lapack.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/RepSnapper/!svn/ver/1/Libraries/vmmlib/include/vmmlib/lapack.hpp
+END
+svd.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/RepSnapper/!svn/ver/1/Libraries/vmmlib/include/vmmlib/svd.hpp
+END
+exception.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/RepSnapper/!svn/ver/1/Libraries/vmmlib/include/vmmlib/exception.hpp
+END
+vector.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/RepSnapper/!svn/ver/1/Libraries/vmmlib/include/vmmlib/vector.hpp
+END
+matrix.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/RepSnapper/!svn/ver/1/Libraries/vmmlib/include/vmmlib/matrix.hpp
+END
+linear_least_squares.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/RepSnapper/!svn/ver/1/Libraries/vmmlib/include/vmmlib/linear_least_squares.hpp
+END
+frustum.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/RepSnapper/!svn/ver/1/Libraries/vmmlib/include/vmmlib/frustum.hpp
+END
+lapack_svd.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/RepSnapper/!svn/ver/1/Libraries/vmmlib/include/vmmlib/lapack_svd.hpp
+END
+helperFunctions.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/RepSnapper/!svn/ver/1/Libraries/vmmlib/include/vmmlib/helperFunctions.h
+END
+frustumCuller.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/RepSnapper/!svn/ver/1/Libraries/vmmlib/include/vmmlib/frustumCuller.h
+END
+jacobiSolver.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/RepSnapper/!svn/ver/1/Libraries/vmmlib/include/vmmlib/jacobiSolver.h
+END
+quaternion.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/RepSnapper/!svn/ver/1/Libraries/vmmlib/include/vmmlib/quaternion.h
+END
+details.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/RepSnapper/!svn/ver/1/Libraries/vmmlib/include/vmmlib/details.hpp
+END
+vmmlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/RepSnapper/!svn/ver/1/Libraries/vmmlib/include/vmmlib/vmmlib.h
+END
+axisAlignedBoundingBox.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/RepSnapper/!svn/ver/1/Libraries/vmmlib/include/vmmlib/axisAlignedBoundingBox.h
+END
+visibility.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/RepSnapper/!svn/ver/1/Libraries/vmmlib/include/vmmlib/visibility.hpp
+END
+stringUtils.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/RepSnapper/!svn/ver/1/Libraries/vmmlib/include/vmmlib/stringUtils.hpp
+END
+svd.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/RepSnapper/!svn/ver/1/Libraries/vmmlib/include/vmmlib/svd.h
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/RepSnapper/!svn/ver/1/Libraries/vmmlib/include/vmmlib/LICENSE
+END
+frustum.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/RepSnapper/!svn/ver/1/Libraries/vmmlib/include/vmmlib/frustum.h
+END
+vmmlib_config.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/RepSnapper/!svn/ver/1/Libraries/vmmlib/include/vmmlib/vmmlib_config.hpp
+END
+frustumCuller.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/RepSnapper/!svn/ver/1/Libraries/vmmlib/include/vmmlib/frustumCuller.hpp
+END
+qr_decomposition.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/RepSnapper/!svn/ver/1/Libraries/vmmlib/include/vmmlib/qr_decomposition.hpp
+END
+lapack_types.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/RepSnapper/!svn/ver/1/Libraries/vmmlib/include/vmmlib/lapack_types.hpp
+END
+lapack_linear_least_squares.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/RepSnapper/!svn/ver/1/Libraries/vmmlib/include/vmmlib/lapack_linear_least_squares.hpp
+END
+lapack_includes.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/RepSnapper/!svn/ver/1/Libraries/vmmlib/include/vmmlib/lapack_includes.hpp
+END
+jacobiSolver.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/RepSnapper/!svn/ver/1/Libraries/vmmlib/include/vmmlib/jacobiSolver.hpp
+END
+vector2.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/RepSnapper/!svn/ver/100/Libraries/vmmlib/include/vmmlib/vector2.h
+END
+vector3.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/RepSnapper/!svn/ver/1/Libraries/vmmlib/include/vmmlib/vector3.h
+END
+quaternion.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/RepSnapper/!svn/ver/1/Libraries/vmmlib/include/vmmlib/quaternion.hpp
+END
+vector4.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/RepSnapper/!svn/ver/1/Libraries/vmmlib/include/vmmlib/vector4.h
+END
+vmmlib.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/RepSnapper/!svn/ver/1/Libraries/vmmlib/include/vmmlib/vmmlib.hpp
+END
+stringUtils.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/RepSnapper/!svn/ver/1/Libraries/vmmlib/include/vmmlib/stringUtils.h
+END
+matrix_functors.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/RepSnapper/!svn/ver/1/Libraries/vmmlib/include/vmmlib/matrix_functors.hpp
+END
+matrix3.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/RepSnapper/!svn/ver/1/Libraries/vmmlib/include/vmmlib/matrix3.h
+END
+visibility.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/RepSnapper/!svn/ver/1/Libraries/vmmlib/include/vmmlib/visibility.h
+END
+matrix4.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/RepSnapper/!svn/ver/1/Libraries/vmmlib/include/vmmlib/matrix4.h
+END

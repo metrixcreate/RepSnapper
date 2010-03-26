@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/mui
+END
+mui.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/mui/mui.dsp
+END
+dirent32.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/mui/dirent32.h
+END
+displaylist.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/mui/displaylist.c
+END
+pulldown.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/mui/pulldown.c
+END
+Imakefile
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/mui/Imakefile
+END
+vslider.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/mui/vslider.c
+END
+button.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/mui/button.c
+END
+uicolor.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/mui/uicolor.c
+END
+Makefile.sgi
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/mui/Makefile.sgi
+END
+textlist.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/mui/textlist.c
+END
+browser.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/mui/browser.c
+END
+gizmo.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/mui/gizmo.c
+END
+glutmui.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/mui/glutmui.c
+END
+miscui.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/mui/miscui.c
+END
+mui.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/mui/mui.c
+END
+hslider.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/mui/hslider.c
+END
+browseparse.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/mui/browseparse.c
+END
+ObjectType.mk
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/lib/mui/ObjectType.mk
+END

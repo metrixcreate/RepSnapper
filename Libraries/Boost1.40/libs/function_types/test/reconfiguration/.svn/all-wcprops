@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/function_types/test/reconfiguration
+END
+partial_arity_preprocessing.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/function_types/test/reconfiguration/partial_arity_preprocessing.cpp
+END
+preprocessing_mode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/function_types/test/reconfiguration/preprocessing_mode.cpp
+END
+cc_preprocessing.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/function_types/test/reconfiguration/cc_preprocessing.cpp
+END
+simple_test.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/function_types/test/reconfiguration/simple_test.hpp
+END

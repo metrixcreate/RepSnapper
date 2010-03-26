@@ -1,0 +1,767 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc
+END
+facade_iterator_category.rst
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/facade_iterator_category.rst
+END
+zip_iterator.rst
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/zip_iterator.rst
+END
+indirect_iterator.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/indirect_iterator.pdf
+END
+permutation_iter_abstract.rst
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/permutation_iter_abstract.rst
+END
+transform_iterator.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/transform_iterator.html
+END
+WritableIterator.rst
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/WritableIterator.rst
+END
+reverse_iterator.rst
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/reverse_iterator.rst
+END
+transform_iterator.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/transform_iterator.pdf
+END
+ref_problem.rst
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/ref_problem.rst
+END
+iterator_facade_abstract.rst
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/iterator_facade_abstract.rst
+END
+new-iter-concepts.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/new-iter-concepts.pdf
+END
+index.rst
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/index.rst
+END
+iterator_facade.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/iterator_facade.html
+END
+permutation_iterator_ref.rst
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/permutation_iterator_ref.rst
+END
+iterator_facade.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/iterator_facade.pdf
+END
+IncrementableIterator.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/IncrementableIterator.html
+END
+GNUmakefile
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/GNUmakefile
+END
+syscmd.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/syscmd.py
+END
+SinglePassIterator.rst
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/SinglePassIterator.rst
+END
+make_zip_iterator.rst
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/make_zip_iterator.rst
+END
+indirect_reference_ref.rst
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/indirect_reference_ref.rst
+END
+permutation_iterator.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/permutation_iterator.html
+END
+function_output_iterator.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/function_output_iterator.pdf
+END
+permutation_iterator.rst
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/permutation_iterator.rst
+END
+iterator_archetypes.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/iterator_archetypes.pdf
+END
+counting_iterator_abstract.rst
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/counting_iterator_abstract.rst
+END
+iterator_concepts.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/iterator_concepts.pdf
+END
+counting_iterator.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/counting_iterator.html
+END
+docutils.sty
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/docutils.sty
+END
+zip_iterator_abstract.rst
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/zip_iterator_abstract.rst
+END
+filter_iterator.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/filter_iterator.pdf
+END
+new-iter-concepts.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/new-iter-concepts.html
+END
+sources.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/sources.py
+END
+pointee.rst
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/pointee.rst
+END
+iterator_adaptor.rst
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/iterator_adaptor.rst
+END
+indirect_iterator_ref.rst
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/indirect_iterator_ref.rst
+END
+zip_iterator_ref.rst
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/zip_iterator_ref.rst
+END
+zip_iterator.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/zip_iterator.html
+END
+rst2html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/rst2html
+END
+issues.rst
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/issues.rst
+END
+SinglePassIterator.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/SinglePassIterator.html
+END
+WritableIterator.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/WritableIterator.html
+END
+transform_iterator_ref.rst
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/transform_iterator_ref.rst
+END
+iterator_traits.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/iterator_traits.pdf
+END
+Jamfile.v2
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/Jamfile.v2
+END
+BidirectionalTraversal.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/BidirectionalTraversal.html
+END
+function_output_iterator_eg.rst
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/function_output_iterator_eg.rst
+END
+facade-and-adaptor.rst
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/facade-and-adaptor.rst
+END
+transform_iterator_eg.rst
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/transform_iterator_eg.rst
+END
+counting_iterator.rst
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/counting_iterator.rst
+END
+default.css
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/default.css
+END
+InteroperableIterator.rst
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/InteroperableIterator.rst
+END
+reverse_iterator_abstract.rst
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/reverse_iterator_abstract.rst
+END
+iterator_facade_ref.rst
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/iterator_facade_ref.rst
+END
+filter_iterator_eg.rst
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/filter_iterator_eg.rst
+END
+counting_iterator_eg.rst
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/counting_iterator_eg.rst
+END
+function_output_iterator.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/function_output_iterator.html
+END
+indirect_iterator.rst
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/indirect_iterator.rst
+END
+zip_iterator.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/zip_iterator.pdf
+END
+reverse_iterator.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/reverse_iterator.html
+END
+rst2latex
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/rst2latex
+END
+make_transform_iterator.rst
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/make_transform_iterator.rst
+END
+filter_iterator_abstract.rst
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/filter_iterator_abstract.rst
+END
+RandomAccessTraversal.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/RandomAccessTraversal.html
+END
+transform_iterator.rst
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/transform_iterator.rst
+END
+SwappableIterator.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/SwappableIterator.html
+END
+reverse_iterator.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/reverse_iterator.pdf
+END
+zip_iterator_eg.rst
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/zip_iterator_eg.rst
+END
+iterator_adaptor_tutorial.rst
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/iterator_adaptor_tutorial.rst
+END
+SwappableIterator.rst
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/SwappableIterator.rst
+END
+filter_iterator.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/filter_iterator.html
+END
+scanrst.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/scanrst.py
+END
+LvalueIterator.rst
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/LvalueIterator.rst
+END
+new-iter-concepts.rst
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/new-iter-concepts.rst
+END
+generate.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/generate.py
+END
+iterator_facade.rst
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/iterator_facade.rst
+END
+traversal.png
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/traversal.png
+END
+func_output_iter_abstract.rst
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/func_output_iter_abstract.rst
+END
+iterator_concepts.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/iterator_concepts.html
+END
+ForwardTraversal.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/ForwardTraversal.html
+END
+indirect_iterator_eg.rst
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/indirect_iterator_eg.rst
+END
+iterator_adaptor_abstract.rst
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/iterator_adaptor_abstract.rst
+END
+ForwardTraversal.rst
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/ForwardTraversal.rst
+END
+filter_iterator_ref.rst
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/filter_iterator_ref.rst
+END
+permutation_iterator_eg.rst
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/permutation_iterator_eg.rst
+END
+indirect_iterator_abstract.rst
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/indirect_iterator_abstract.rst
+END
+access2old.png
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/access2old.png
+END
+pointee_ref.rst
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/pointee_ref.rst
+END
+pointee.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/pointee.html
+END
+iterator_adaptor_ref.rst
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/iterator_adaptor_ref.rst
+END
+iterator_adaptor.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/iterator_adaptor.html
+END
+indirect_iterator.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/indirect_iterator.html
+END
+ReadableIterator.rst
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/ReadableIterator.rst
+END
+iterator_traits.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/iterator_traits.html
+END
+iterator_archetypes.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/iterator_archetypes.html
+END
+access.png
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/access.png
+END
+function_output_iterator.rst
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/function_output_iterator.rst
+END
+iterator_archetypes.rst
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/iterator_archetypes.rst
+END
+permutation_iterator.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/permutation_iterator.pdf
+END
+make_reverse_iterator.rst
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/make_reverse_iterator.rst
+END
+RandomAccessTraversal.rst
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/RandomAccessTraversal.rst
+END
+iterator_concepts.rst
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/iterator_concepts.rst
+END
+facade-and-adaptor.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/facade-and-adaptor.html
+END
+iterator_facade_body.rst
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/iterator_facade_body.rst
+END
+func_output_iter_ref.rst
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/func_output_iter_ref.rst
+END
+counting_iterator_ref.rst
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/counting_iterator_ref.rst
+END
+make_counting_iterator.rst
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/make_counting_iterator.rst
+END
+LvalueIterator.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/LvalueIterator.html
+END
+filter_iterator.rst
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/filter_iterator.rst
+END
+pointee.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/pointee.pdf
+END
+iterator_adaptor.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/iterator_adaptor.pdf
+END
+ReadableIterator.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/ReadableIterator.html
+END
+iterator_traits.rst
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/iterator_traits.rst
+END
+reverse_iterator_ref.rst
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/reverse_iterator_ref.rst
+END
+iterator_adaptor_body.rst
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/iterator_adaptor_body.rst
+END
+interoperability-revisited.rst
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/interoperability-revisited.rst
+END
+IncrementableIterator.rst
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/IncrementableIterator.rst
+END
+oldeqnew.png
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/oldeqnew.png
+END
+make_filter_iterator.rst
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/make_filter_iterator.rst
+END
+BidirectionalTraversal.rst
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/BidirectionalTraversal.rst
+END
+facade-and-adaptor.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/facade-and-adaptor.pdf
+END
+permutation_iterator_body.rst
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/permutation_iterator_body.rst
+END
+reverse_iterator_eg.rst
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/reverse_iterator_eg.rst
+END
+iterator_facade_tutorial.rst
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/iterator_facade_tutorial.rst
+END
+counting_iterator.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/counting_iterator.pdf
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/index.html
+END
+transform_iterator_abstract.rst
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iterator/doc/transform_iterator_abstract.rst
+END

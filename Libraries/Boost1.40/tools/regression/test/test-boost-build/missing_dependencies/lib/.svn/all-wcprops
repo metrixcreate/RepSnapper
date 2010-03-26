@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/tools/regression/test/test-boost-build/missing_dependencies/lib
+END
+lib.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/tools/regression/test/test-boost-build/missing_dependencies/lib/lib.cpp
+END
+Jamfile.v2
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/tools/regression/test/test-boost-build/missing_dependencies/lib/Jamfile.v2
+END

@@ -1,0 +1,239 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/RepSnapper/!svn/ver/123/Libraries/luabind-0.9/luabind
+END
+copy_policy.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/RepSnapper/!svn/ver/123/Libraries/luabind-0.9/luabind/copy_policy.hpp
+END
+error.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/RepSnapper/!svn/ver/123/Libraries/luabind-0.9/luabind/error.hpp
+END
+prefix.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/RepSnapper/!svn/ver/123/Libraries/luabind-0.9/luabind/prefix.hpp
+END
+dependency_policy.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/RepSnapper/!svn/ver/123/Libraries/luabind-0.9/luabind/dependency_policy.hpp
+END
+container_policy.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/RepSnapper/!svn/ver/123/Libraries/luabind-0.9/luabind/container_policy.hpp
+END
+get_main_thread.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/RepSnapper/!svn/ver/123/Libraries/luabind-0.9/luabind/get_main_thread.hpp
+END
+wrapper_base.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/RepSnapper/!svn/ver/123/Libraries/luabind-0.9/luabind/wrapper_base.hpp
+END
+return_reference_to_policy.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/RepSnapper/!svn/ver/123/Libraries/luabind-0.9/luabind/return_reference_to_policy.hpp
+END
+back_reference.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/RepSnapper/!svn/ver/123/Libraries/luabind-0.9/luabind/back_reference.hpp
+END
+get_pointer.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/RepSnapper/!svn/ver/123/Libraries/luabind-0.9/luabind/get_pointer.hpp
+END
+class_info.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/RepSnapper/!svn/ver/123/Libraries/luabind-0.9/luabind/class_info.hpp
+END
+out_value_policy.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/RepSnapper/!svn/ver/123/Libraries/luabind-0.9/luabind/out_value_policy.hpp
+END
+nil.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/RepSnapper/!svn/ver/123/Libraries/luabind-0.9/luabind/nil.hpp
+END
+version.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/RepSnapper/!svn/ver/123/Libraries/luabind-0.9/luabind/version.hpp
+END
+yield_policy.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/RepSnapper/!svn/ver/123/Libraries/luabind-0.9/luabind/yield_policy.hpp
+END
+adopt_policy.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/RepSnapper/!svn/ver/123/Libraries/luabind-0.9/luabind/adopt_policy.hpp
+END
+operator.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/RepSnapper/!svn/ver/123/Libraries/luabind-0.9/luabind/operator.hpp
+END
+handle.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/RepSnapper/!svn/ver/123/Libraries/luabind-0.9/luabind/handle.hpp
+END
+exception_handler.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/RepSnapper/!svn/ver/123/Libraries/luabind-0.9/luabind/exception_handler.hpp
+END
+typeid.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/RepSnapper/!svn/ver/123/Libraries/luabind-0.9/luabind/typeid.hpp
+END
+open.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/RepSnapper/!svn/ver/123/Libraries/luabind-0.9/luabind/open.hpp
+END
+class.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/RepSnapper/!svn/ver/123/Libraries/luabind-0.9/luabind/class.hpp
+END
+config.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/RepSnapper/!svn/ver/123/Libraries/luabind-0.9/luabind/config.hpp
+END
+object.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/RepSnapper/!svn/ver/123/Libraries/luabind-0.9/luabind/object.hpp
+END
+raw_policy.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/RepSnapper/!svn/ver/123/Libraries/luabind-0.9/luabind/raw_policy.hpp
+END
+iterator_policy.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/RepSnapper/!svn/ver/123/Libraries/luabind-0.9/luabind/iterator_policy.hpp
+END
+scope.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/RepSnapper/!svn/ver/123/Libraries/luabind-0.9/luabind/scope.hpp
+END
+value_wrapper.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/RepSnapper/!svn/ver/123/Libraries/luabind-0.9/luabind/value_wrapper.hpp
+END
+luabind.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/RepSnapper/!svn/ver/123/Libraries/luabind-0.9/luabind/luabind.hpp
+END
+back_reference_fwd.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/RepSnapper/!svn/ver/123/Libraries/luabind-0.9/luabind/back_reference_fwd.hpp
+END
+tag_function.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/RepSnapper/!svn/ver/123/Libraries/luabind-0.9/luabind/tag_function.hpp
+END
+make_function.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/RepSnapper/!svn/ver/123/Libraries/luabind-0.9/luabind/make_function.hpp
+END
+shared_ptr_converter.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/RepSnapper/!svn/ver/123/Libraries/luabind-0.9/luabind/shared_ptr_converter.hpp
+END
+weak_ref.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/RepSnapper/!svn/ver/123/Libraries/luabind-0.9/luabind/weak_ref.hpp
+END
+lua_include.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/RepSnapper/!svn/ver/123/Libraries/luabind-0.9/luabind/lua_include.hpp
+END
+ReadMe.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/RepSnapper/!svn/ver/123/Libraries/luabind-0.9/luabind/ReadMe.txt
+END
+function.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/RepSnapper/!svn/ver/123/Libraries/luabind-0.9/luabind/function.hpp
+END
+discard_result_policy.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/RepSnapper/!svn/ver/123/Libraries/luabind-0.9/luabind/discard_result_policy.hpp
+END
+from_stack.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/RepSnapper/!svn/ver/123/Libraries/luabind-0.9/luabind/from_stack.hpp
+END

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/function_types/test/classification
+END
+is_function_reference.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/function_types/test/classification/is_function_reference.cpp
+END
+is_callable_builtin.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/function_types/test/classification/is_callable_builtin.cpp
+END
+is_function.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/function_types/test/classification/is_function.cpp
+END
+is_function_pointer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/function_types/test/classification/is_function_pointer.cpp
+END
+is_cv_mem_func_ptr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/function_types/test/classification/is_cv_mem_func_ptr.cpp
+END
+is_member_pointer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/function_types/test/classification/is_member_pointer.cpp
+END
+is_nonmember_callable_builtin.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/function_types/test/classification/is_nonmember_callable_builtin.cpp
+END
+is_cv_pointer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/function_types/test/classification/is_cv_pointer.cpp
+END
+is_member_function_pointer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/function_types/test/classification/is_member_function_pointer.cpp
+END
+is_cv_function.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/function_types/test/classification/is_cv_function.cpp
+END
+is_member_object_pointer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/function_types/test/classification/is_member_object_pointer.cpp
+END
+is_variadic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/function_types/test/classification/is_variadic.cpp
+END

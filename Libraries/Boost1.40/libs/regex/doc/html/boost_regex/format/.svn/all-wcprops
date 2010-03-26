@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/regex/doc/html/boost_regex/format
+END
+sed_format.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/regex/doc/html/boost_regex/format/sed_format.html
+END
+boost_format_syntax.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/regex/doc/html/boost_regex/format/boost_format_syntax.html
+END
+perl_format.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/regex/doc/html/boost_regex/format/perl_format.html
+END

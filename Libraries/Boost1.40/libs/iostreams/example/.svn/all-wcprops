@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iostreams/example
+END
+dictionary_filter.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iostreams/example/dictionary_filter.hpp
+END
+iterator_range_example.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iostreams/example/iterator_range_example.cpp
+END
+std_back_inserter_example.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iostreams/example/std_back_inserter_example.cpp
+END
+container_sink_example.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iostreams/example/container_sink_example.cpp
+END
+unix2dos_filter.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iostreams/example/unix2dos_filter.hpp
+END
+container_device.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iostreams/example/container_device.hpp
+END
+shell_comments_filter.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iostreams/example/shell_comments_filter.hpp
+END
+finite_state_filter.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iostreams/example/finite_state_filter.hpp
+END
+line_wrapping_filter.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iostreams/example/line_wrapping_filter.hpp
+END
+boost_back_inserter_example.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iostreams/example/boost_back_inserter_example.cpp
+END
+container_device_example.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iostreams/example/container_device_example.cpp
+END
+container_source_example.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iostreams/example/container_source_example.cpp
+END
+tab_expanding_filter.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/iostreams/example/tab_expanding_filter.hpp
+END

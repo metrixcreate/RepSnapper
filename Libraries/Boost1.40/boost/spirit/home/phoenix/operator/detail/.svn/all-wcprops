@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/spirit/home/phoenix/operator/detail
+END
+binary_compose.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/spirit/home/phoenix/operator/detail/binary_compose.hpp
+END
+mem_fun_ptr_return.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/spirit/home/phoenix/operator/detail/mem_fun_ptr_return.hpp
+END
+binary_eval.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/spirit/home/phoenix/operator/detail/binary_eval.hpp
+END
+mem_fun_ptr_eval.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/spirit/home/phoenix/operator/detail/mem_fun_ptr_eval.hpp
+END
+unary_compose.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/spirit/home/phoenix/operator/detail/unary_compose.hpp
+END
+mem_fun_ptr_gen.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/spirit/home/phoenix/operator/detail/mem_fun_ptr_gen.hpp
+END
+unary_eval.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/spirit/home/phoenix/operator/detail/unary_eval.hpp
+END
+io.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/boost/spirit/home/phoenix/operator/detail/io.hpp
+END

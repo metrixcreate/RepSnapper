@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/tools/regression/xsl_reports
+END
+empty_expected_results.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/tools/regression/xsl_reports/empty_expected_results.xml
+END
+boost_wide_report.py
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/tools/regression/xsl_reports/boost_wide_report.py
+END
+report.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/tools/regression/xsl_reports/report.py
+END
+boostbook_report.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/tools/regression/xsl_reports/boostbook_report.py
+END
+make_snapshot.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/tools/regression/xsl_reports/make_snapshot.py
+END
+email_maintainers.py
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/tools/regression/xsl_reports/email_maintainers.py
+END
+build_results.sh
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/tools/regression/xsl_reports/build_results.sh
+END
+test_results.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/tools/regression/xsl_reports/test_results.xsd
+END

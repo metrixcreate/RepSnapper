@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/dynamic_bitset
+END
+bitset_test.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/dynamic_bitset/bitset_test.hpp
+END
+dynamic_bitset.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/dynamic_bitset/dynamic_bitset.html
+END
+module.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/dynamic_bitset/module.cmake
+END
+dyn_bitset_unit_tests1.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/dynamic_bitset/dyn_bitset_unit_tests1.cpp
+END
+dyn_bitset_unit_tests2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/dynamic_bitset/dyn_bitset_unit_tests2.cpp
+END
+dyn_bitset_unit_tests3.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/dynamic_bitset/dyn_bitset_unit_tests3.cpp
+END
+dyn_bitset_unit_tests4.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/dynamic_bitset/dyn_bitset_unit_tests4.cpp
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/dynamic_bitset/index.html
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/dynamic_bitset/CMakeLists.txt
+END
+Jamfile.v2
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/dynamic_bitset/Jamfile.v2
+END

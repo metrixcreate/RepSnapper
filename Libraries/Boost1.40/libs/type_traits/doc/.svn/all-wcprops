@@ -1,0 +1,473 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/type_traits/doc
+END
+add_reference.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/type_traits/doc/add_reference.qbk
+END
+is_convertible.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/type_traits/doc/is_convertible.qbk
+END
+function_traits.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/type_traits/doc/function_traits.qbk
+END
+integral_promotion.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/type_traits/doc/integral_promotion.qbk
+END
+remove_reference.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/type_traits/doc/remove_reference.qbk
+END
+is_compound.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/type_traits/doc/is_compound.qbk
+END
+is_const.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/type_traits/doc/is_const.qbk
+END
+promote.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/type_traits/doc/promote.qbk
+END
+aligned_storage.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/type_traits/doc/aligned_storage.qbk
+END
+is_member_object_pointer.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/type_traits/doc/is_member_object_pointer.qbk
+END
+is_fundamental.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/type_traits/doc/is_fundamental.qbk
+END
+is_base_of.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/type_traits/doc/is_base_of.qbk
+END
+rank.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/type_traits/doc/rank.qbk
+END
+remove_volatile.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/type_traits/doc/remove_volatile.qbk
+END
+user_defined.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/type_traits/doc/user_defined.qbk
+END
+remove_pointer.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/type_traits/doc/remove_pointer.qbk
+END
+is_virtual_base_of.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/type_traits/doc/is_virtual_base_of.qbk
+END
+has_trivial_copy.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/type_traits/doc/has_trivial_copy.qbk
+END
+has_virtual_destructor.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/type_traits/doc/has_virtual_destructor.qbk
+END
+is_scalar.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/type_traits/doc/is_scalar.qbk
+END
+is_class.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/type_traits/doc/is_class.qbk
+END
+has_nothrow_constructor.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/type_traits/doc/has_nothrow_constructor.qbk
+END
+is_stateless.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/type_traits/doc/is_stateless.qbk
+END
+is_member_pointer.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/type_traits/doc/is_member_pointer.qbk
+END
+is_member_function_pointer.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/type_traits/doc/is_member_function_pointer.qbk
+END
+has_trivial_assign.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/type_traits/doc/has_trivial_assign.qbk
+END
+is_volatile.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/type_traits/doc/is_volatile.qbk
+END
+has_trivial_constructor.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/type_traits/doc/has_trivial_constructor.qbk
+END
+type_with_alignment.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/type_traits/doc/type_with_alignment.qbk
+END
+examples.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/type_traits/doc/examples.qbk
+END
+is_same.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/type_traits/doc/is_same.qbk
+END
+decomposing_func.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/type_traits/doc/decomposing_func.qbk
+END
+add_volatile.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/type_traits/doc/add_volatile.qbk
+END
+mpl.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/type_traits/doc/mpl.qbk
+END
+add_const.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/type_traits/doc/add_const.qbk
+END
+is_enum.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/type_traits/doc/is_enum.qbk
+END
+remove_const.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/type_traits/doc/remove_const.qbk
+END
+make_signed.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/type_traits/doc/make_signed.qbk
+END
+is_floating_point.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/type_traits/doc/is_floating_point.qbk
+END
+type_traits.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/type_traits/doc/type_traits.qbk
+END
+make_unsigned.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/type_traits/doc/make_unsigned.qbk
+END
+is_pod.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/type_traits/doc/is_pod.qbk
+END
+integral_constant.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/type_traits/doc/integral_constant.qbk
+END
+is_function.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/type_traits/doc/is_function.qbk
+END
+add_cv.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/type_traits/doc/add_cv.qbk
+END
+floating_point_promotion.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/type_traits/doc/floating_point_promotion.qbk
+END
+has_nothrow_copy.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/type_traits/doc/has_nothrow_copy.qbk
+END
+add_pointer.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/type_traits/doc/add_pointer.qbk
+END
+is_reference.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/type_traits/doc/is_reference.qbk
+END
+is_void.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/type_traits/doc/is_void.qbk
+END
+credits.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/type_traits/doc/credits.qbk
+END
+has_new_operator.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/type_traits/doc/has_new_operator.qbk
+END
+has_nothrow_assign.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/type_traits/doc/has_nothrow_assign.qbk
+END
+is_polymorphic.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/type_traits/doc/is_polymorphic.qbk
+END
+transform_traits.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/type_traits/doc/transform_traits.qbk
+END
+is_complex.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/type_traits/doc/is_complex.qbk
+END
+alignment_of.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/type_traits/doc/alignment_of.qbk
+END
+is_signed.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/type_traits/doc/is_signed.qbk
+END
+alignment_traits.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/type_traits/doc/alignment_traits.qbk
+END
+is_unsigned.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/type_traits/doc/is_unsigned.qbk
+END
+extent.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/type_traits/doc/extent.qbk
+END
+is_array.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/type_traits/doc/is_array.qbk
+END
+is_pointer.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/type_traits/doc/is_pointer.qbk
+END
+background.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/type_traits/doc/background.qbk
+END
+Jamfile.v2
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/type_traits/doc/Jamfile.v2
+END
+is_union.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/type_traits/doc/is_union.qbk
+END
+has_trivial_destructor.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/type_traits/doc/has_trivial_destructor.qbk
+END
+is_arithmetic.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/type_traits/doc/is_arithmetic.qbk
+END
+remove_extent.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/type_traits/doc/remove_extent.qbk
+END
+decay.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/type_traits/doc/decay.qbk
+END
+intrinsics.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/type_traits/doc/intrinsics.qbk
+END
+remove_cv.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/type_traits/doc/remove_cv.qbk
+END
+is_empty.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/type_traits/doc/is_empty.qbk
+END
+is_abstract.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/type_traits/doc/is_abstract.qbk
+END
+remove_all_extents.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/type_traits/doc/remove_all_extents.qbk
+END
+is_integral.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/type_traits/doc/is_integral.qbk
+END
+is_object.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/type_traits/doc/is_object.qbk
+END
+value_traits.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/RepSnapper/!svn/ver/124/Libraries/Boost1.40/libs/type_traits/doc/value_traits.qbk
+END
