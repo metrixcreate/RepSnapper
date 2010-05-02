@@ -1,9 +1,9 @@
-9
+10
 
 dir
-173
-http://www.kulitorum.com/RepSnapper/Libraries/glut-3.7.6/progs/demos
-http://www.kulitorum.com/RepSnapper
+191
+http://svn.kulitorum.com/RepSnapper/Libraries/glut-3.7.6/progs/demos
+http://svn.kulitorum.com/RepSnapper
 
 
 
@@ -12,7 +12,7 @@ http://www.kulitorum.com/RepSnapper
 repsnapper
 
 
-svn:special svn:externals svn:needs-lock
+
 
 
 
@@ -53,7 +53,7 @@ file
 
 
 
-2010-03-15T17:15:05.000000Z
+2010-03-27T01:21:23.000000Z
 ea7f90ce79fb47c007821fb4b77c8c42
 2010-01-10T08:00:33.995016Z
 77
@@ -93,7 +93,7 @@ file
 
 
 
-2010-03-15T17:15:05.000000Z
+2010-03-27T01:21:23.000000Z
 670e8232ce58e079c7ebabec8383d9a6
 2010-01-10T08:00:33.995016Z
 77

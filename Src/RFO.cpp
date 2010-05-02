@@ -38,7 +38,7 @@ cdrom((char * const*)cdrom_xpm),
 big_folder_new((char * const*)big_folder_new_xpm),
 big_folder_up((char * const*)big_folder_up_xpm);
 
-void RFO::Draw(const ProcessController &PC, float opasity)
+void RFO::Draw(ProcessController &PC, float opasity, Flu_Tree_Browser::Node *selected_node)
 {
 	glPushMatrix();
 	glMultMatrixf(&transform3D.transform.array[0]);
@@ -50,7 +50,16 @@ void RFO::Draw(const ProcessController &PC, float opasity)
 		{
 			glPushMatrix();
 			glMultMatrixf(&Objects[o].files[f].transform3D.transform.array[0]);
-			Objects[o].files[f].stl.draw(PC, opasity);
+			if(Objects[o].files[f].node == selected_node)
+			{
+				PC.PolygonHue+= 0.5f;
+				PC.WireframeHue+= 0.5f;
+				Objects[o].files[f].stl.draw(PC, opasity);
+				PC.PolygonHue-= 0.5f;
+				PC.WireframeHue-= 0.5f;
+			}
+			else 
+				Objects[o].files[f].stl.draw(PC, opasity);
 			glPopMatrix();
 		}
 		glPopMatrix();

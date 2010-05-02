@@ -1,13 +1,13 @@
 K 25
 svn:wc:ra_dav:version-url
 V 29
-/RepSnapper/!svn/ver/167/MSVC
+/RepSnapper/!svn/ver/191/MSVC
 END
 RepSnapper.vcproj
 K 25
 svn:wc:ra_dav:version-url
 V 47
-/RepSnapper/!svn/ver/166/MSVC/RepSnapper.vcproj
+/RepSnapper/!svn/ver/190/MSVC/RepSnapper.vcproj
 END
 RepSnapper.sln
 K 25
@@ -25,5 +25,5 @@ repsnapper.xml
 K 25
 svn:wc:ra_dav:version-url
 V 44
-/RepSnapper/!svn/ver/167/MSVC/repsnapper.xml
+/RepSnapper/!svn/ver/191/MSVC/repsnapper.xml
 END

@@ -1,9 +1,9 @@
-9
+10
 
 dir
-173
-http://www.kulitorum.com/RepSnapper/Libraries/Boost1.40/libs/spirit/doc/reference
-http://www.kulitorum.com/RepSnapper
+191
+http://svn.kulitorum.com/RepSnapper/Libraries/Boost1.40/libs/spirit/doc/reference
+http://svn.kulitorum.com/RepSnapper
 
 
 
@@ -12,7 +12,7 @@ http://www.kulitorum.com/RepSnapper
 repsnapper
 
 
-svn:special svn:externals svn:needs-lock
+
 
 
 

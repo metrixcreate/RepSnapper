@@ -1,9 +1,9 @@
-9
+10
 
 dir
-173
-http://www.kulitorum.com/RepSnapper/Libraries/glut-3.7.6/progs/demos/lorenz
-http://www.kulitorum.com/RepSnapper
+191
+http://svn.kulitorum.com/RepSnapper/Libraries/glut-3.7.6/progs/demos/lorenz
+http://svn.kulitorum.com/RepSnapper
 
 
 
@@ -12,7 +12,7 @@ http://www.kulitorum.com/RepSnapper
 repsnapper
 
 
-svn:special svn:externals svn:needs-lock
+
 
 
 
@@ -32,7 +32,7 @@ file
 
 
 
-2010-03-15T17:15:05.000000Z
+2010-03-27T01:21:23.000000Z
 9288687afdb6f9f4214619b1901a514f
 2010-01-10T08:00:33.995016Z
 77
@@ -66,7 +66,7 @@ file
 
 
 
-2010-03-15T17:15:05.000000Z
+2010-03-27T01:21:23.000000Z
 d879d69f0af565709e2aa3f3d6888526
 2010-01-10T08:00:33.995016Z
 77
@@ -100,7 +100,7 @@ file
 
 
 
-2010-03-15T17:15:05.000000Z
+2010-03-27T01:21:23.000000Z
 d182d5a48728ca4c442fb6a37ae4849e
 2010-01-10T08:00:33.995016Z
 77
@@ -134,7 +134,7 @@ file
 
 
 
-2010-03-15T17:15:05.000000Z
+2010-03-27T01:21:23.000000Z
 ac81690f4882bcc28214e7915ceec0f6
 2010-01-10T08:00:33.995016Z
 77

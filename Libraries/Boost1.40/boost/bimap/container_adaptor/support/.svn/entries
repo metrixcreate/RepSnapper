@@ -1,9 +1,9 @@
-9
+10
 
 dir
-173
-http://www.kulitorum.com/RepSnapper/Libraries/Boost1.40/boost/bimap/container_adaptor/support
-http://www.kulitorum.com/RepSnapper
+191
+http://svn.kulitorum.com/RepSnapper/Libraries/Boost1.40/boost/bimap/container_adaptor/support
+http://svn.kulitorum.com/RepSnapper
 
 
 
@@ -12,7 +12,7 @@ http://www.kulitorum.com/RepSnapper
 repsnapper
 
 
-svn:special svn:externals svn:needs-lock
+
 
 
 
@@ -32,7 +32,7 @@ file
 
 
 
-2010-03-15T17:15:30.000000Z
+2010-03-27T01:21:45.000000Z
 ec9b5dad2ad7196619179c5f64a4a8d9
 2010-01-25T14:30:52.188453Z
 124

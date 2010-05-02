@@ -48,8 +48,8 @@
  *  star.  Also note that removing the TessProperty for the 
  *  star will make the interior unshaded (WINDING_ODD).
  */
-#include <GL/glut.h>
 #include <stdlib.h>
+#include <GL/glut.h>
 #include <stdio.h>
 
 #ifdef GLU_VERSION_1_2
@@ -143,14 +143,10 @@ void init (void)
    startList = glGenLists(2);
 
    tobj = gluNewTess();
-   gluTessCallback(tobj, GLU_TESS_VERTEX, 
-                   (GLvoid (CALLBACK*) ()) &glVertex3dv);
-   gluTessCallback(tobj, GLU_TESS_BEGIN, 
-                   (GLvoid (CALLBACK*) ()) &beginCallback);
-   gluTessCallback(tobj, GLU_TESS_END, 
-                   (GLvoid (CALLBACK*) ()) &endCallback);
-   gluTessCallback(tobj, GLU_TESS_ERROR, 
-                   (GLvoid (CALLBACK*) ()) &errorCallback);
+   gluTessCallback(tobj, GLU_TESS_VERTEX, (GLvoid (CALLBACK*) ()) &glVertex3dv);
+   gluTessCallback(tobj, GLU_TESS_BEGIN,  (GLvoid (CALLBACK*) ()) &beginCallback);
+   gluTessCallback(tobj, GLU_TESS_END,    (GLvoid (CALLBACK*) ()) &endCallback);
+   gluTessCallback(tobj, GLU_TESS_ERROR,  (GLvoid (CALLBACK*) ()) &errorCallback);
 
    /*  rectangle with triangular hole inside  */
    glNewList(startList, GL_COMPILE);
@@ -170,22 +166,16 @@ void init (void)
    gluTessEndPolygon(tobj);
    glEndList();
 
-   gluTessCallback(tobj, GLU_TESS_VERTEX, 
-                   (GLvoid (CALLBACK*) ()) &vertexCallback);
-   gluTessCallback(tobj, GLU_TESS_BEGIN, 
-                   (GLvoid (CALLBACK*) ()) &beginCallback);
-   gluTessCallback(tobj, GLU_TESS_END, 
-                   (GLvoid (CALLBACK*) ()) &endCallback);
-   gluTessCallback(tobj, GLU_TESS_ERROR, 
-                   (GLvoid (CALLBACK*) ()) &errorCallback);
-   gluTessCallback(tobj, GLU_TESS_COMBINE, 
-                   (GLvoid (CALLBACK*) ()) &combineCallback);
+   gluTessCallback(tobj, GLU_TESS_VERTEX, (GLvoid (CALLBACK*) ()) &vertexCallback);
+   gluTessCallback(tobj, GLU_TESS_BEGIN,  (GLvoid (CALLBACK*) ()) &beginCallback);
+   gluTessCallback(tobj, GLU_TESS_END,    (GLvoid (CALLBACK*) ()) &endCallback);
+   gluTessCallback(tobj, GLU_TESS_ERROR,  (GLvoid (CALLBACK*) ()) &errorCallback);
+   gluTessCallback(tobj, GLU_TESS_COMBINE,(GLvoid (CALLBACK*) ()) &combineCallback);
 
    /*  smooth shaded, self-intersecting star  */
    glNewList(startList + 1, GL_COMPILE);
    glShadeModel(GL_SMOOTH);    
-   gluTessProperty(tobj, GLU_TESS_WINDING_RULE,
-                   GLU_TESS_WINDING_POSITIVE);
+   gluTessProperty(tobj, GLU_TESS_WINDING_RULE, GLU_TESS_WINDING_POSITIVE);
    gluTessBeginPolygon(tobj, NULL);
       gluTessBeginContour(tobj);
          gluTessVertex(tobj, star[0], star[0]);

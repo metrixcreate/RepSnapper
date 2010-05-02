@@ -1,9 +1,9 @@
-9
+10
 
 dir
-173
-http://www.kulitorum.com/RepSnapper/Mendel_official_firmware_with_Checksum
-http://www.kulitorum.com/RepSnapper
+191
+http://svn.kulitorum.com/RepSnapper/Mendel_official_firmware_with_Checksum
+http://svn.kulitorum.com/RepSnapper
 
 
 
@@ -12,7 +12,7 @@ http://www.kulitorum.com/RepSnapper
 repsnapper
 
 
-svn:special svn:externals svn:needs-lock
+
 
 
 
@@ -32,7 +32,7 @@ file
 
 
 
-2010-03-15T17:15:00.000000Z
+2010-03-27T01:21:19.000000Z
 843de3ddfa145fbb9dfe5dc0fb100c36
 2010-01-04T20:46:48.570394Z
 67
@@ -66,7 +66,7 @@ file
 
 
 
-2010-03-15T17:15:00.000000Z
+2010-03-27T01:21:19.000000Z
 b8e1988a61186e39b130549e0a2f642f
 2010-01-04T20:46:48.570394Z
 67
@@ -100,7 +100,7 @@ file
 
 
 
-2010-03-15T17:15:00.000000Z
+2010-03-27T01:21:19.000000Z
 337678d0f6bdc4f3cb398c8165ad3f19
 2010-01-04T20:46:48.570394Z
 67

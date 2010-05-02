@@ -41,6 +41,8 @@ public:
 
 	// STL Functions
 	void ReadStl(string filename);
+	RFO_File *AddStl(STL stl, string filename);
+	void Duplicate();
 	void OptimizeRotation() { ProcessControl.OptimizeRotation();}
 	void RotateObject(float x, float y, float z, float a) {ProcessControl.RotateObject(Vector3f(x,y,z),a);}
 
@@ -109,7 +111,6 @@ public:
 	void SetInfillDistance(float val){ProcessControl.InfillDistance = val; redraw();}
 	void SetInfillRotation(float val){ProcessControl.InfillRotation = val; redraw();}
 	void SetInfillRotationPrLayer(float val){ProcessControl.InfillRotationPrLayer = val; redraw();}
-	void SetOptimization(float val){ProcessControl.Optimization = val; redraw();}
 	void SetExamine(float val){ProcessControl.Examine = val; redraw();}
 	void SetExtrudedMaterialWidth(float val){ProcessControl.ExtrudedMaterialWidth = val; redraw();}
 
@@ -173,6 +174,7 @@ public:
 	void SetHighlight(float val) {ProcessControl.Highlight = val;}
 	void SetNormalsLength(float val){ProcessControl.NormalsLength = val;}
 	void SetEndPointSize(float val){ProcessControl.EndPointSize = val;}
+	void SetTempUpdateSpeed(float val){ProcessControl.TempUpdateSpeed = val;}
 
 	void SetPrintMargin(string Axis, float value);
 
@@ -192,7 +194,10 @@ public:
 
 	}
 	void Print();
+	void Pause();
 	void Continue();
+	void Restart();
+	void PrintDone();
 	void SwitchHeat(bool on, float temp);
 	void SetTargetTemp(float temp);
 	void RunExtruder();
@@ -201,6 +206,14 @@ public:
 	void SetExtruderDirection(bool reverse);
 	void SendNow(string str);
 	void setPort(string s){ProcessControl.m_sPortName = s;}
+	void SetKeepLines(float val){ ProcessControl.KeepLines = (int)val;}
+
+	void SetFileLogging(bool on);
+	void EnableTempReading(bool on);
+	void SetLogFileClear(bool on);
+	void ClearLogs();
+	void SwitchPower(bool on);
+	void SetFan(int val);
 
 	void Home(string axis);
 	void Move(string axis, float distance);

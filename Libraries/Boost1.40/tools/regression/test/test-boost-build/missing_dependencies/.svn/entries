@@ -1,9 +1,9 @@
-9
+10
 
 dir
-173
-http://www.kulitorum.com/RepSnapper/Libraries/Boost1.40/tools/regression/test/test-boost-build/missing_dependencies
-http://www.kulitorum.com/RepSnapper
+191
+http://svn.kulitorum.com/RepSnapper/Libraries/Boost1.40/tools/regression/test/test-boost-build/missing_dependencies
+http://svn.kulitorum.com/RepSnapper
 
 
 
@@ -12,7 +12,7 @@ http://www.kulitorum.com/RepSnapper
 repsnapper
 
 
-svn:special svn:externals svn:needs-lock
+
 
 
 
@@ -32,7 +32,7 @@ file
 
 
 
-2010-03-15T17:16:17.000000Z
+2010-03-27T01:22:59.000000Z
 1ea1f4efbdd7db2380d7f4fa7b11048d
 2010-01-25T14:30:52.188453Z
 124
@@ -69,7 +69,7 @@ file
 
 
 
-2010-03-15T17:16:17.000000Z
+2010-03-27T01:22:59.000000Z
 9f444ae22f89c755c043797f38da1a84
 2010-01-25T14:30:52.188453Z
 124

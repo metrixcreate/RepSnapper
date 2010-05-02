@@ -1,9 +1,9 @@
-9
+10
 
 dir
-173
-http://www.kulitorum.com/RepSnapper/Libraries/glut-3.7.6/progs/demos/smooth/data
-http://www.kulitorum.com/RepSnapper
+191
+http://svn.kulitorum.com/RepSnapper/Libraries/glut-3.7.6/progs/demos/smooth/data
+http://svn.kulitorum.com/RepSnapper
 
 
 
@@ -12,7 +12,7 @@ http://www.kulitorum.com/RepSnapper
 repsnapper
 
 
-svn:special svn:externals svn:needs-lock
+
 
 
 
@@ -32,7 +32,7 @@ file
 
 
 
-2010-03-15T17:15:05.000000Z
+2010-03-27T01:21:23.000000Z
 5550c39a7e1abba6f4b949f4a4bd26a2
 2010-01-10T08:00:33.995016Z
 77

@@ -1,9 +1,9 @@
-9
+10
 
 dir
-173
-http://www.kulitorum.com/RepSnapper/Libraries/Boost1.40/libs/math/dot_net_example/Setupdistex
-http://www.kulitorum.com/RepSnapper
+191
+http://svn.kulitorum.com/RepSnapper/Libraries/Boost1.40/libs/math/dot_net_example/Setupdistex
+http://svn.kulitorum.com/RepSnapper
 
 
 
@@ -12,7 +12,7 @@ http://www.kulitorum.com/RepSnapper
 repsnapper
 
 
-svn:special svn:externals svn:needs-lock
+
 
 
 
@@ -35,7 +35,7 @@ file
 
 
 
-2010-03-15T17:16:09.000000Z
+2010-03-27T01:22:42.000000Z
 59b224abf8499715c39f0a9913e81e08
 2010-01-25T14:30:52.188453Z
 124

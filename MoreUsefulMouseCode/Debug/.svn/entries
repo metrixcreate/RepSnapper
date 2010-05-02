@@ -1,18 +1,18 @@
-9
+10
 
 dir
-173
-http://www.kulitorum.com/RepSnapper/MoreUsefulMouseCode/Debug
-http://www.kulitorum.com/RepSnapper
+191
+http://svn.kulitorum.com/RepSnapper/MoreUsefulMouseCode/Debug
+http://svn.kulitorum.com/RepSnapper
 
 
 
-2010-02-17T11:29:16.596999Z
-166
-repsnapper
+2010-04-13T13:35:49.777469Z
+189
+michael
 
 
-svn:special svn:externals svn:needs-lock
+
 
 
 
@@ -32,11 +32,11 @@ file
 
 
 
-2010-03-15T17:15:01.000000Z
-084100ea637c999340dea9108cf4ae2f
-2010-02-13T00:48:22.301810Z
-158
-repsnapper
+2010-04-20T18:03:39.000000Z
+74fcf1ae0be86506a51732ca943758d4
+2010-04-13T13:35:49.777469Z
+189
+michael
 has-props
 
 
@@ -66,7 +66,7 @@ file
 
 
 
-2010-03-15T17:15:01.000000Z
+2010-03-27T01:21:20.000000Z
 1a1ff3579ebc97f032f53c5a36a887bf
 2010-02-17T11:29:16.596999Z
 166
@@ -100,11 +100,11 @@ file
 
 
 
-2010-03-15T17:15:01.000000Z
-e5b592a5f3bb1b3680d60dedf40c44ab
-2010-02-14T14:35:23.857410Z
-161
-repsnapper
+2010-04-20T18:03:39.000000Z
+ccb7a98a8b671b114b82e45bf61e235e
+2010-04-13T13:35:49.777469Z
+189
+michael
 
 
 
@@ -134,11 +134,11 @@ file
 
 
 
-2010-03-15T17:15:01.000000Z
-7d9f7997c661a42fa50eb13b3bed4597
-2010-02-14T14:35:23.857410Z
-161
-repsnapper
+2010-04-20T18:03:39.000000Z
+7980a3a4f05a3f6f592c498d615c99c1
+2010-04-13T13:35:49.777469Z
+189
+michael
 has-props
 
 
@@ -160,7 +160,7 @@ has-props
 
 
 
-13510
+13478
 
 04_MoreUsefulMouseCode.exe.intermediate.manifest
 file
@@ -168,7 +168,7 @@ file
 
 
 
-2010-03-15T17:15:01.000000Z
+2010-03-27T01:21:20.000000Z
 f7ad1eab748bc07570a57ec87787cf90
 2010-02-08T07:20:47.568351Z
 147
@@ -202,11 +202,11 @@ file
 
 
 
-2010-03-15T17:15:01.000000Z
-16c72a3241c411546ed91a19c84be715
-2010-02-14T14:35:23.857410Z
-161
-repsnapper
+2010-04-20T18:03:39.000000Z
+3481850247c09a5caf07e377e4958551
+2010-04-13T13:35:49.777469Z
+189
+michael
 has-props
 
 
@@ -228,7 +228,7 @@ has-props
 
 
 
-991232
+479232
 
 04_MoreUsefulMouseCode.exe.embed.manifest
 file
@@ -236,7 +236,7 @@ file
 
 
 
-2010-03-15T17:15:01.000000Z
+2010-03-27T01:21:20.000000Z
 e1bf2cb8445d93d66209b6a06a2dc941
 2010-02-17T11:29:16.596999Z
 166

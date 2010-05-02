@@ -1,9 +1,9 @@
-9
+10
 
 dir
-173
-http://www.kulitorum.com/RepSnapper/Libraries/Boost1.40/tools/build/v2/example/qt/qt4/uic
-http://www.kulitorum.com/RepSnapper
+191
+http://svn.kulitorum.com/RepSnapper/Libraries/Boost1.40/tools/build/v2/example/qt/qt4/uic
+http://svn.kulitorum.com/RepSnapper
 
 
 
@@ -12,7 +12,7 @@ http://www.kulitorum.com/RepSnapper
 repsnapper
 
 
-svn:special svn:externals svn:needs-lock
+
 
 
 
@@ -32,7 +32,7 @@ file
 
 
 
-2010-03-15T17:16:16.000000Z
+2010-03-27T01:22:58.000000Z
 7966f0af89a3125eb1498bc37c50c422
 2010-01-25T14:30:52.188453Z
 124
@@ -66,7 +66,7 @@ file
 
 
 
-2010-03-15T17:16:16.000000Z
+2010-03-27T01:22:58.000000Z
 f2ca9d4c31ad1a685ef591f7aa57fbf8
 2010-01-25T14:30:52.188453Z
 124
@@ -100,7 +100,7 @@ file
 
 
 
-2010-03-15T17:16:16.000000Z
+2010-03-27T01:22:58.000000Z
 bd04dee2cb3e2fb8d65d3763eb2ada60
 2010-01-25T14:30:52.188453Z
 124

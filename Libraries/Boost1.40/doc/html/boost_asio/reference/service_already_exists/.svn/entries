@@ -1,9 +1,9 @@
-9
+10
 
 dir
-173
-http://www.kulitorum.com/RepSnapper/Libraries/Boost1.40/doc/html/boost_asio/reference/service_already_exists
-http://www.kulitorum.com/RepSnapper
+191
+http://svn.kulitorum.com/RepSnapper/Libraries/Boost1.40/doc/html/boost_asio/reference/service_already_exists
+http://svn.kulitorum.com/RepSnapper
 
 
 
@@ -12,7 +12,7 @@ http://www.kulitorum.com/RepSnapper
 repsnapper
 
 
-svn:special svn:externals svn:needs-lock
+
 
 
 
@@ -32,7 +32,7 @@ file
 
 
 
-2010-03-15T17:16:22.000000Z
+2010-03-27T01:23:07.000000Z
 a760e103d7f56b1e6b5608d8239744dd
 2010-01-25T14:30:52.188453Z
 124

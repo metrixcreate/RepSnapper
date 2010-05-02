@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
-V 58
-/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook
+V 59
+/RepSnapper/!svn/ver/174/Libraries/glut-3.7.6/progs/redbook
 END
 sccolorlight.dsp
 K 25
@@ -696,8 +696,8 @@ END
 tess.c
 K 25
 svn:wc:ra_dav:version-url
-V 65
-/RepSnapper/!svn/ver/77/Libraries/glut-3.7.6/progs/redbook/tess.c
+V 66
+/RepSnapper/!svn/ver/174/Libraries/glut-3.7.6/progs/redbook/tess.c
 END
 double.dsp
 K 25

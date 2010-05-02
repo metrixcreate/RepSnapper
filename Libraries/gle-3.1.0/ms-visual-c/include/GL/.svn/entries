@@ -1,9 +1,9 @@
-9
+10
 
 dir
-173
-http://www.kulitorum.com/RepSnapper/Libraries/gle-3.1.0/ms-visual-c/include/GL
-http://www.kulitorum.com/RepSnapper
+191
+http://svn.kulitorum.com/RepSnapper/Libraries/gle-3.1.0/ms-visual-c/include/GL
+http://svn.kulitorum.com/RepSnapper
 
 
 
@@ -12,7 +12,7 @@ http://www.kulitorum.com/RepSnapper
 repsnapper
 
 
-svn:special svn:externals svn:needs-lock
+
 
 
 
@@ -32,7 +32,7 @@ file
 
 
 
-2010-03-15T17:15:03.000000Z
+2010-03-27T01:21:21.000000Z
 8fb9ea5c95b48cde2bc5290da575ca3b
 2009-10-30T06:53:13.156681Z
 1

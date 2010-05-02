@@ -144,7 +144,7 @@ class RFO
 {
 public:
 	RFO(){version=0.1f;}
-	void Draw(const ProcessController &PC, float opasity = 1.0f);
+	void Draw(ProcessController &PC, float opasity = 1.0f, Flu_Tree_Browser::Node *selected_node=0);
 	void Load(string path, ProcessController &PC);
 	void ReadVersion0x1(XMLElement* e);
 	void BuildBrowser(ProcessController &PC);

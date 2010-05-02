@@ -75,7 +75,7 @@ class Poly{
 public:
 	Poly(){};
 	void cleanup();				// Removed vertices that are on a straight line
-	void calcHole(vector<Vector2f> &offsetVertices);
+	int calcHole(vector<Vector2f> &offsetVertices);
 	vector<uint> points;			// points, indices into ..... a CuttingPlane or a GCode object
 	bool hole;
 };
@@ -94,13 +94,12 @@ public:
 	void ShrinkFast(float distance, float z, bool DisplayCuttingPlane, bool useFillets, int ShellCount);		// Contracts polygons
 	void ShrinkNice(float distance, float z, bool DisplayCuttingPlane, bool useFillets, int ShellCount);		// Contracts polygons
 	void selfIntersectAndDivide(float z);
-	void recurseSelfIntersectAndDivide(float z, vector<locator> &EndPointStack, vector<outline> &outlines, vector<locator> &visited);
-	uint selfIntersectAndDivideRecursive(float z, uint startPolygon, uint startVertex, vector<outline> &outlines, const Vector2f endVertex, uint &level);
+	void selfIntersectAndDivideTest(float z);
 	void CalcInFill(vector<Vector2f> &infill, uint LayerNr, float z, float InfillDistance, float InfillRotation, float InfillRotationPrLayer, bool DisplayDebuginFill);	// Collide a infill-line with the polygons
 	void Draw(float z, bool DrawVertexNumbers, bool DrawLineNumbers);
-	bool LinkSegments(float z, float shrinkValue, float Optimization, bool DisplayCuttingPlane, bool ShrinkNice, int ShellCount);		// Link Segments to form polygons
-	void CleanupPolygons(float Optimization);			// remove redudant points
-	void CleanupOffsetPolygons(float Optimization);			// remove redudant points
+	bool LinkSegments(float z, float shrinkValue, bool DisplayCuttingPlane, bool ShrinkNice, int ShellCount);		// Link Segments to form polygons
+	void CleanupPolygons();			// remove redudant points
+	void CleanupOffsetPolygons();			// remove redudant points
 	void MakeGcode(const std::vector<Vector2f> &infill, GCode &code, float &E, float z, float MinPrintSpeedXY, float MaxPrintSpeedXY, float MinPrintSpeedZ, float MaxPrintSpeedZ, float DistanceToReachFullSpeed, float extrusionFactor, bool UseIncrementalEcode, bool Use3DGcode, bool EnableAcceleration);	// Convert Cuttingplane to GCode
 	bool VertexIsOutsideOriginalPolygon( Vector2f point, float z);
 
@@ -119,7 +118,7 @@ class STL
 public:
 	STL();
 
-	bool Read(string filename);
+	bool Read(string filename,bool force_binary = false );
 	void GetObjectsFromIvcon();
 	void clear(){triangles.clear();}
 	void draw(const ProcessController &PC, float opasity = 1.0f);

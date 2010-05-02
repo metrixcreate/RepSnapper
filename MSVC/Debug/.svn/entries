@@ -1,18 +1,18 @@
-9
+10
 
 dir
-173
-http://www.kulitorum.com/RepSnapper/MSVC/Debug
-http://www.kulitorum.com/RepSnapper
+191
+http://svn.kulitorum.com/RepSnapper/MSVC/Debug
+http://svn.kulitorum.com/RepSnapper
 
 
 
-2010-02-17T13:56:59.470411Z
-167
-repsnapper
+2010-04-19T22:49:03.536323Z
+191
+michael
 
 
-svn:special svn:externals svn:needs-lock
+
 
 
 
@@ -32,11 +32,11 @@ file
 
 
 
-2010-03-15T17:15:00.000000Z
-19df7446623f3d2b9c40fe0f11f77290
-2010-02-17T13:56:59.470411Z
-167
-repsnapper
+2010-04-20T18:03:39.000000Z
+27e6411bb5c8a674bf85ecd7a38a598e
+2010-04-19T22:49:03.536323Z
+191
+michael
 has-props
 
 
@@ -58,7 +58,7 @@ has-props
 
 
 
-3801088
+3772416
 
 RepSnapper.exe.embed.manifest
 file
@@ -66,11 +66,11 @@ file
 
 
 
-2010-03-15T17:15:00.000000Z
+2010-04-20T18:03:39.000000Z
 8cbdabf18ffdae3ea902b0e525d97dcc
-2009-12-31T02:12:38.421641Z
-62
-repsnapper
+2010-04-13T11:37:20.772670Z
+188
+michael
 
 
 
@@ -100,7 +100,7 @@ file
 
 
 
-2010-03-15T17:15:00.000000Z
+2010-03-27T01:21:19.000000Z
 6767a8e994dc01aa2e6de7218b001be5
 2009-12-31T02:12:38.421641Z
 62
@@ -128,81 +128,13 @@ has-props
 
 212
 
-mt.dep
-file
-
-
-
-
-2010-03-15T17:15:00.000000Z
-0fb4a052366dd8908333c836c3cb3209
-2010-02-17T13:56:59.470411Z
-167
-repsnapper
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-66
-
-BuildLog.htm
-file
-
-
-
-
-2010-03-15T17:15:00.000000Z
-52b038008178e3dee6b0064f524b3660
-2010-02-17T13:56:59.470411Z
-167
-repsnapper
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-10026
-
 glut32.dll
 file
 
 
 
 
-2010-03-15T17:15:00.000000Z
+2010-03-27T01:21:19.000000Z
 ae1f4dacacb463450dde420c0758666d
 2009-11-13T10:11:28.759360Z
 12
@@ -236,7 +168,7 @@ file
 
 
 
-2010-03-15T17:15:00.000000Z
+2010-03-27T01:21:19.000000Z
 f7ad1eab748bc07570a57ec87787cf90
 2009-11-17T13:00:08.040766Z
 13

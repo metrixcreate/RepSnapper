@@ -1,18 +1,18 @@
-9
+10
 
 dir
-173
-http://www.kulitorum.com/RepSnapper/MoreUsefulMouseCode/Release
-http://www.kulitorum.com/RepSnapper
+191
+http://svn.kulitorum.com/RepSnapper/MoreUsefulMouseCode/Release
+http://svn.kulitorum.com/RepSnapper
 
 
 
-2010-02-22T07:05:14.371602Z
-171
+2010-03-28T18:11:03.944559Z
+182
 michael
 
 
-svn:special svn:externals svn:needs-lock
+
 
 
 
@@ -32,10 +32,10 @@ file
 
 
 
-2010-03-15T17:15:01.000000Z
-2a9a1fc79a7c285dc2f943cf224fb3a8
-2010-02-22T07:05:14.371602Z
-171
+2010-03-29T22:00:33.000000Z
+716ba06cafe2abd606dc8197f927e132
+2010-03-28T18:11:03.944559Z
+182
 michael
 has-props
 
@@ -66,10 +66,10 @@ file
 
 
 
-2010-03-15T17:15:01.000000Z
-5fa4a2a5ee791466062d466096ffdd94
-2010-02-22T07:05:14.371602Z
-171
+2010-03-29T22:00:33.000000Z
+b88e4393c70f15b898da2d4339097b3b
+2010-03-28T18:11:03.944559Z
+182
 michael
 
 
@@ -92,7 +92,7 @@ michael
 
 
 
-66
+62
 
 BuildLog.htm
 file
@@ -100,10 +100,10 @@ file
 
 
 
-2010-03-15T17:15:01.000000Z
-07fae59f820ece7329a69ab347de5c95
-2010-02-22T07:05:14.371602Z
-171
+2010-03-29T22:00:33.000000Z
+7bb12af70b75148207d4e41561997aed
+2010-03-28T18:11:03.944559Z
+182
 michael
 has-props
 
@@ -126,7 +126,7 @@ has-props
 
 
 
-12686
+12614
 
 04_MoreUsefulMouseCode.exe.intermediate.manifest
 file
@@ -134,7 +134,7 @@ file
 
 
 
-2010-03-15T17:15:01.000000Z
+2010-03-27T01:21:20.000000Z
 f7ad1eab748bc07570a57ec87787cf90
 2010-02-08T07:20:47.568351Z
 147
@@ -168,10 +168,10 @@ file
 
 
 
-2010-03-15T17:15:01.000000Z
-5ee718a010250fe05b4f863f79d98b3f
-2010-02-22T07:05:14.371602Z
-171
+2010-03-29T22:00:33.000000Z
+2998c1b447603aec8c1e09fbdd4253b6
+2010-03-28T18:11:03.944559Z
+182
 michael
 has-props
 

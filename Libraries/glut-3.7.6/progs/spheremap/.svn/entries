@@ -1,9 +1,9 @@
-9
+10
 
 dir
-173
-http://www.kulitorum.com/RepSnapper/Libraries/glut-3.7.6/progs/spheremap
-http://www.kulitorum.com/RepSnapper
+191
+http://svn.kulitorum.com/RepSnapper/Libraries/glut-3.7.6/progs/spheremap
+http://svn.kulitorum.com/RepSnapper
 
 
 
@@ -12,7 +12,7 @@ http://www.kulitorum.com/RepSnapper
 repsnapper
 
 
-svn:special svn:externals svn:needs-lock
+
 
 
 
@@ -35,7 +35,7 @@ file
 
 
 
-2010-03-15T17:15:06.000000Z
+2010-03-27T01:21:23.000000Z
 c7b1b9542470b07457700a72a023ca55
 2010-01-10T08:00:33.995016Z
 77
@@ -72,7 +72,7 @@ file
 
 
 
-2010-03-15T17:15:06.000000Z
+2010-03-27T01:21:23.000000Z
 670e8232ce58e079c7ebabec8383d9a6
 2010-01-10T08:00:33.995016Z
 77
@@ -106,7 +106,7 @@ file
 
 
 
-2010-03-15T17:15:06.000000Z
+2010-03-27T01:21:23.000000Z
 c011c8c60c2d9403a02ede5a7a59166c
 2010-01-10T08:00:33.995016Z
 77
@@ -140,7 +140,7 @@ file
 
 
 
-2010-03-15T17:15:06.000000Z
+2010-03-27T01:21:23.000000Z
 8a4c7ded8bce86bd1918816702e53027
 2010-01-10T08:00:33.995016Z
 77

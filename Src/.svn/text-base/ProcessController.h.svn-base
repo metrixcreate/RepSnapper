@@ -51,6 +51,8 @@ public:
 		PrintMargin = Vector3f(10,10,0);
 		ExtrudedMaterialWidth = 0.7f;	// 0.7
 
+		KeepLines = 1000;
+
 		//GCode
 		GCodeDrawStart = 0.0f;;
 		GCodeDrawEnd = 1.0f;
@@ -81,7 +83,6 @@ public:
 		InfillDistance = 2.0f;
 		InfillRotation = 45.0f;
 		InfillRotationPrLayer = 90.0f;
-		Optimization = 0.02f;
 		Examine = 0.5f;
 
 		DisplayDebuginFill = false;
@@ -97,6 +98,10 @@ public:
 		DisplayDebuginFill = true;
 		DisplayCuttingPlane = true;
 
+		FileLogginEnabled = true;
+		TempReadingEnabled = true;
+		ClearLogfilesWhenPrintStarts = true;
+
 		Min = Vector3f(0, 0, 0);
 		Max = Vector3f(200,200,200);
 		Center.x = Center.y = 100.0f;
@@ -110,7 +115,7 @@ public:
 
 	void SetFilename(string filename) { m_Filename = filename;}
 
-	void Draw();
+	void Draw(Flu_Tree_Browser::Node *selected_node);
 	
 	// STL Functions
 	bool ReadStl(string filename, STL &newstl) { return newstl.Read(filename);};
@@ -152,6 +157,7 @@ public:
 	/*--------------Models-------------------*/
 	Printer printer;					// Printer settings and functions
 	string m_sPortName;
+	int KeepLines;
 //	STL stl;							// A STL file
 	RFO rfo;
 	GCode gcode;						// Gcode as binary data
@@ -200,13 +206,17 @@ public:
 	float InfillDistance;
 	float InfillRotation;
 	float InfillRotationPrLayer;
-	float Optimization;
 	float Examine;
 
 	bool ShellOnly;
 	uint ShellCount;
 
 	bool EnableAcceleration;
+
+	bool FileLogginEnabled;
+	bool TempReadingEnabled;
+	bool ClearLogfilesWhenPrintStarts;
+
 
 	// GUI... ?
 	bool DisplayEndpoints;
@@ -246,6 +256,7 @@ public:
 	float Highlight;
 	float NormalsLength;
 	float EndPointSize;
+	float TempUpdateSpeed;
 
 	bool LuminanceShowsSpeed;
 	bool DisplayGCode;

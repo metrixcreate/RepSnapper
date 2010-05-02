@@ -13,12 +13,12 @@ class GUI {open
   Function {GUI()} {open
   } {
     Fl_Window mainWindow {
-      label {RepSnapper by Kulitorum www.kulitorum.com}
-      xywh {319 235 1400 840} type Double box UP_BOX color 0 selection_color 0 labelsize 12 hide resizable
+      label {RepSnapper by Kulitorum www.kulitorum.com} open
+      xywh {362 175 1400 858} type Double box UP_BOX color 39 selection_color 39 labelsize 12 hide resizable
     } {
       Fl_Box MVC {
         label {An instace of ModelViewController}
-        xywh {10 20 815 815} box UP_BOX align 16
+        xywh {10 25 820 825} box UP_BOX align 16
         code0 {\#include "stdafx.h"}
         code1 {\#ifndef M_PI
 \#define M_PI 3.14159265358979323846
@@ -26,11 +26,11 @@ class GUI {open
         class ModelViewController
       }
       Fl_Tabs Tabs {open
-        xywh {835 20 560 815} align 5
+        xywh {835 25 560 825} align 5
       } {
         Fl_Group {} {
-          label {Input file} open
-          xywh {835 40 550 785} hide
+          label {Input file}
+          xywh {835 45 550 785} hide
         } {
           Fl_Button {} {
             label {Load STL}
@@ -48,12 +48,12 @@ if(dir.length())
 MVC->ReadStl(dir);
 MVC->redraw();
 };}
-            xywh {845 50 130 25}
+            xywh {845 55 130 25}
           }
           Fl_Light_Button FixSTLerrorsButton {
             label {Fix STL errors}
             callback {MVC->redraw()}
-            xywh {1110 50 135 25} value 1 selection_color 63
+            xywh {1115 55 135 25} value 1 selection_color 63
           }
           Fl_Button {} {
             label {Save STL}
@@ -71,39 +71,39 @@ if(dir.length())
 MVC->ReadStl(dir);
 MVC->redraw();
 };}
-            xywh {975 50 130 25} deactivate
+            xywh {975 55 135 25} deactivate
           }
           Fl_Group {} {
             label {Object rotation} open
-            xywh {840 775 535 50} box FLAT_BOX color 39
+            xywh {840 780 535 50} box FLAT_BOX color 39
           } {
             Fl_Button AutoRotateButton {
               label {Auto rotate}
               callback {MVC->OptimizeRotation();
 MVC->CalcBoundingBoxAndZoom();
 MVC->redraw();}
-              xywh {850 785 125 25}
+              xywh {850 790 125 25}
             }
             Fl_Button RotateXButton {
               label {Rotate X}
               callback {MVC->RotateObject(1,0,0, (float)(M_PI/4));
 MVC->CalcBoundingBoxAndZoom();
 MVC->redraw();}
-              xywh {980 785 125 25}
+              xywh {980 790 125 25}
             }
             Fl_Button RotateYButton {
               label {Rotate Y}
               callback {MVC->RotateObject(0,1,0, (float)(M_PI/4));
 MVC->CalcBoundingBoxAndZoom();
 MVC->redraw();}
-              xywh {1110 785 125 25}
+              xywh {1110 790 125 25}
             }
             Fl_Button RotateZButton {
               label {Rotate Z}
               callback {MVC->RotateObject(0,0,1, (float)(M_PI/4));
 MVC->CalcBoundingBoxAndZoom();
 MVC->redraw();}
-              xywh {1240 785 125 25}
+              xywh {1240 790 125 25}
             }
           }
           Fl_Button {} {
@@ -121,22 +121,22 @@ pText = buffer->text();
 MVC->ProcessControl.GCodeEndText = string(pText);
 free(pText);
 MVC->ProcessControl.SaveXML();}
-            xywh {1250 50 135 25}
+            xywh {1250 55 135 25}
           }
           Fl_Group {} {
             label {Lua script} open
-            xywh {845 570 535 190} box ENGRAVED_FRAME color 39
+            xywh {845 575 535 190} box ENGRAVED_FRAME color 39
           } {
             Fl_Text_Editor LuaScriptEditor {
               label {LUA script:}
-              xywh {850 605 525 150} align 5
+              xywh {850 610 525 150} align 5
               code0 {Fl_Text_Buffer *luascript = new Fl_Text_Buffer();}
               code1 {o->buffer(luascript);}
             }
             Fl_Button RunLuaButton {
               label Run
               callback {MVC->RunLua(LuaScriptEditor->buffer()->text());}
-              xywh {1250 575 125 25}
+              xywh {1250 580 125 25}
             }
           }
           Fl_Button {} {
@@ -155,163 +155,169 @@ if(dir.length())
 MVC->ReadRFO(dir);
 MVC->redraw();
 };}
-            xywh {845 80 130 25}
+            xywh {845 85 130 25}
           }
           Fl_Box RFP_Browser {
             label {RFO file}
-            xywh {845 110 355 440} box UP_BOX align 16 resizable
+            callback {MVC->redraw();}
+            xywh {845 115 355 440} box UP_BOX align 16 when 1 resizable
             code0 {\#include "Flu_Tree_Browser.h"}
             class Flu_Tree_Browser
           }
           Fl_Group {} {
             label Translate open
-            xywh {1205 130 180 40} box ENGRAVED_FRAME color 39
+            xywh {1205 185 180 40} box ENGRAVED_FRAME color 39
           } {
             Fl_Value_Input TranslateX {
               label X
               callback {MVC->Translate("X", o->value());}
-              xywh {1220 141 45 23} minimum -300 maximum 300 step 0.1
+              xywh {1220 196 45 23} minimum -300 maximum 300 step 0.1
             }
             Fl_Value_Input TranslateY {
               label Y
               callback {MVC->Translate("Y", o->value());}
-              xywh {1280 142 45 23} minimum -300 maximum 300 step 0.1
+              xywh {1280 197 45 23} minimum -300 maximum 300 step 0.1
             }
             Fl_Value_Input TranslateZ {
               label Z
               callback {MVC->Translate("Z", o->value());}
-              xywh {1335 142 45 23} minimum -300 maximum 300 step 0.01
+              xywh {1335 197 45 23} minimum -300 maximum 300 step 0.01
             }
           }
           Fl_Group {} {
             label Rotate open
-            xywh {1205 195 180 40} box ENGRAVED_FRAME color 39
+            xywh {1205 250 180 40} box ENGRAVED_FRAME color 39
           } {
             Fl_Value_Input RotateX {
               label X
               callback {MVC->RotateObject(1,0,0, o->value());}
-              xywh {1220 206 45 23} minimum -360 maximum 360 step 1
+              xywh {1220 261 45 23} minimum -360 maximum 360 step 1
             }
             Fl_Value_Input RotateY {
               label Y
               callback {MVC->RotateObject(0,1,0, o->value());}
-              xywh {1280 207 45 23} minimum -360 maximum 360 step 1
+              xywh {1280 262 45 23} minimum -360 maximum 360 step 1
             }
             Fl_Value_Input RotateZ {
               label Z
               callback {MVC->RotateObject(0,0,1, o->value());}
-              xywh {1335 207 45 23} minimum -360 maximum 360 step 1
+              xywh {1335 262 45 23} minimum -360 maximum 360 step 1
             }
           }
           Fl_Group {} {
             label Scale open
-            xywh {1205 255 180 70} box ENGRAVED_FRAME color 39
+            xywh {1205 310 180 70} box ENGRAVED_FRAME color 39
           } {
             Fl_Value_Input ScaleX {
               label X
               callback {MVC->Scale("X", o->value());}
-              xywh {1220 266 45 23} minimum -100 maximum 100 step 0.01 value 1
+              xywh {1220 321 45 23} minimum -100 maximum 100 step 0.01 value 1
             }
             Fl_Value_Input ScaleY {
               label Y
               callback {MVC->Scale("Y", o->value());}
-              xywh {1280 267 45 23} minimum -100 maximum 100 step 0.01 value 1
+              xywh {1280 322 45 23} minimum -100 maximum 100 step 0.01 value 1
             }
             Fl_Value_Input ScaleZ {
               label Z
               callback {MVC->Scale("Z", o->value());}
-              xywh {1335 267 45 23} minimum -100 maximum 100 step 0.01 value 1
+              xywh {1335 322 45 23} minimum -100 maximum 100 step 0.01 value 1
             }
             Fl_Light_Button ScaleAllAxies {
               label {All axis}
-              xywh {1220 295 160 20} value 1 selection_color 2
+              xywh {1220 350 160 20} value 1 selection_color 2
             }
           }
           Fl_Input FileLocationInput {
             label {File location}
             callback {MVC->setFileLocation(o->value());}
-            xywh {1205 436 180 24} align 5
+            xywh {1205 441 180 24} align 5
           }
           Fl_Input FileTypeInput {
             label Filetype
             callback {MVC->setFileType(o->value());}
-            xywh {1205 481 180 24} align 5
+            xywh {1205 486 180 24} align 5
           }
           Fl_Input FileMaterialInput {
             label {File material}
             callback {MVC->setFileMaterial(o->value());}
-            xywh {1205 526 180 24} align 5
+            xywh {1205 531 180 24} align 5
           }
           Fl_Input ObjectNameInput {
             label {Object name}
             callback {MVC->setObjectname(o->value());}
-            xywh {1205 391 180 24} align 5
+            xywh {1205 396 180 24} align 5
           }
           Fl_Button {} {
             label {New RFO Object}
             callback {MVC->newObject();}
-            xywh {980 80 130 25}
+            xywh {975 85 135 25}
           }
           Fl_Button {} {
             label {Save RFO}
             callback {MVC->ProcessControl.rfo.Save(string("test.xml"), MVC->ProcessControl);}
-            xywh {1250 80 135 25}
+            xywh {1250 85 135 25}
           }
           Fl_Button {} {
             label Delete
             callback {MVC->ProcessControl.rfo.DeleteSelected();}
-            xywh {1115 80 135 25}
+            xywh {1115 85 135 25}
+          }
+          Fl_Button {} {
+            label Duplicate
+            callback {MVC->Duplicate();}
+            xywh {1250 115 135 25}
           }
         }
         Fl_Group {} {
-          label {Printer definition} open
-          xywh {835 40 550 785}
+          label {Printer definition}
+          xywh {835 45 550 785} hide
         } {
           Fl_Group {} {
             label {Build volume (mm)} open
-            xywh {840 65 230 40} box ENGRAVED_FRAME color 39
+            xywh {840 70 230 40} box ENGRAVED_FRAME color 39
           } {
             Fl_Value_Input VolumeX {
               label X
-              xywh {860 76 45 23} maximum 5000 step 1 value 200
+              xywh {860 81 45 23} maximum 5000 step 1 value 200
             }
             Fl_Value_Input VolumeY {
               label Y
-              xywh {935 76 45 23} maximum 5000 value 200
+              xywh {935 81 45 23} maximum 5000 value 200
             }
             Fl_Value_Input VolumeZ {
               label Z
-              xywh {1010 76 45 23} maximum 5000 value 140
+              xywh {1010 81 45 23} maximum 5000 value 140
             }
           }
           Fl_Group {} {
             label {Print margin  (mm)} open
-            xywh {1150 65 235 40} box ENGRAVED_FRAME color 39
+            xywh {1150 70 235 40} box ENGRAVED_FRAME color 39
           } {
             Fl_Value_Input MarginX {
               label X
               callback {MVC->SetPrintMargin("X", o->value());}
-              xywh {1175 76 45 23} maximum 100 step 1 value 10
+              xywh {1175 81 45 23} maximum 100 step 1 value 10
             }
             Fl_Value_Input MarginY {
               label Y
               callback {MVC->SetPrintMargin("Y", o->value());}
-              xywh {1250 76 45 23} maximum 100 step 1 value 10
+              xywh {1250 81 45 23} maximum 100 step 1 value 10
             }
             Fl_Value_Input MarginZ {
               label Y
               callback {MVC->SetPrintMargin("Z", o->value());}
-              xywh {1320 77 45 23} minimum -50 maximum 100 step 0.01
+              xywh {1320 82 45 23} minimum -50 maximum 100 step 0.01
             }
           }
           Fl_Group {} {
             label Acceleration open
-            xywh {840 680 535 80} box ENGRAVED_FRAME color 39
+            xywh {840 685 535 80} box ENGRAVED_FRAME color 39
           } {
             Fl_Value_Slider distanceToReachFullSpeedSlider {
               label {Distance used to read full speed(mm)}
               callback {MVC->SetDistanceToReachFullSpeed(o->value())}
-              xywh {850 730 515 20} type {Horz Knob} selection_color 2 align 5 maximum 10 value 0.1 textsize 14
+              xywh {850 735 515 20} type {Horz Knob} selection_color 2 align 5 maximum 10 value 0.1 textsize 14
             }
             Fl_Light_Button EnableAccelerationButton {
               label {Enable Acceleration}
@@ -324,77 +330,77 @@ else
 {
 distanceToReachFullSpeedSlider->deactivate();
 }}
-              xywh {850 690 255 20} selection_color 63
+              xywh {850 695 255 20} selection_color 63
             }
           }
           Fl_Group {} {
             label {Print speeds}
-            xywh {840 480 535 170} box ENGRAVED_FRAME color 39
+            xywh {840 485 535 170} box ENGRAVED_FRAME color 39
           } {
             Fl_Value_Slider MaxPrintSpeedXYSlider {
               label {Max PrintSpeed XY (mm/minute)}
               callback {MVC->SetMaxPrintSpeedXY(o->value());}
-              xywh {850 540 515 20} type {Horz Knob} selection_color 2 align 5 maximum 8000 step 100 value 4000 textsize 14
+              xywh {850 545 515 20} type {Horz Knob} selection_color 2 align 5 maximum 8000 step 100 value 4000 textsize 14
             }
             Fl_Value_Slider MinPrintSpeedZSlider {
               label {Min PrintSpeed Z (mm/minute)}
               callback {MVC->SetMinPrintSpeedZ(o->value());}
-              xywh {850 580 515 20} type {Horz Knob} selection_color 2 align 5 minimum 1 maximum 2500 step 10 value 50 textsize 14
+              xywh {850 585 515 20} type {Horz Knob} selection_color 2 align 5 minimum 1 maximum 2500 step 10 value 50 textsize 14
             }
             Fl_Value_Slider MinPrintSpeedXYSlider {
               label {Min PrintSpeed XY (mm/minute)}
               callback {MVC->SetMinPrintSpeedXY(o->value());}
-              xywh {850 500 515 20} type {Horz Knob} selection_color 2 align 5 maximum 8000 step 100 value 1000 textsize 14
+              xywh {850 505 515 20} type {Horz Knob} selection_color 2 align 5 maximum 8000 step 100 value 1000 textsize 14
             }
             Fl_Value_Slider MaxPrintSpeedZSlider {
               label {Max PrintSpeed Z (mm/minute)}
               callback {MVC->SetMaxPrintSpeedZ(o->value());}
-              xywh {850 620 515 20} type {Horz Knob} selection_color 2 align 5 maximum 2500 step 10 value 150 textsize 14
+              xywh {850 625 515 20} type {Horz Knob} selection_color 2 align 5 maximum 2500 step 10 value 150 textsize 14
             }
           }
           Fl_Group {} {
             label Extruder open
-            xywh {840 135 535 220} box ENGRAVED_FRAME color 39
+            xywh {840 140 535 220} box ENGRAVED_FRAME color 39
           } {
             Fl_Value_Slider ExtrudedMaterialWidthSlider {
               label {Extruded material width}
               callback {MVC->SetExtrudedMaterialWidth(o->value());}
-              xywh {850 230 515 20} type {Horz Knob} selection_color 2 align 5 maximum 10 value 0.7 textsize 14
+              xywh {850 235 515 20} type {Horz Knob} selection_color 2 align 5 maximum 10 value 0.7 textsize 14
             }
             Fl_Value_Slider extrusionFactorSlider {
               label {Extrusion multiplier}
               callback {MVC->SetExtrusionFactor(o->value());}
-              xywh {850 270 515 20} type {Horz Knob} selection_color 2 align 5 maximum 2 value 1 textsize 14
+              xywh {850 275 515 20} type {Horz Knob} selection_color 2 align 5 maximum 2 value 1 textsize 14
             }
             Fl_Light_Button UseIncrementalEcodeButton {
               label {Use incremental ecode (for seperate extruder controller)}
               callback {MVC->SetUseIncrementalEcode(o->value());}
-              xywh {850 145 515 20} selection_color 63
+              xywh {850 150 515 20} selection_color 63
             }
             Fl_Value_Slider LayerThicknessSlider {
               label {Layer Thickness}
               callback {MVC->SetLayerThickness(o->value());}
-              xywh {850 310 515 20} type {Horz Knob} selection_color 2 align 5 minimum 0.1 maximum 3 step 0.1 value 0.4 textsize 14
+              xywh {850 315 515 20} type {Horz Knob} selection_color 2 align 5 minimum 0.1 maximum 3 step 0.1 value 0.4 textsize 14
             }
             Fl_Light_Button Use3DGcodeButton {
               label {Use 3D Gcode (for non-stepper extruders)}
               callback {MVC->SetUse3DGcode(o->value());}
-              xywh {850 175 515 20} selection_color 63
+              xywh {850 180 515 20} selection_color 63
             }
           }
           Fl_Group {} {
             label Port open
-            xywh {840 780 535 45} box ENGRAVED_FRAME color 39
+            xywh {840 785 535 45} box ENGRAVED_FRAME color 39
           } {
             Fl_Input portInput {
               label {Port:}
               callback {MVC->setPort(o->value());}
-              tooltip {COM3 or  /dev/ttyUSB0 or something to that effect} xywh {1010 791 205 24}
+              tooltip {COM3 or  /dev/ttyUSB0 or something to that effect} xywh {1010 796 205 24}
             }
           }
           Fl_Group {} {
             label {Shrinking quality} open
-            xywh {840 385 535 55} box ENGRAVED_FRAME color 2
+            xywh {840 390 535 55} box ENGRAVED_FRAME color 2
           } {
             Fl_Light_Button shrinkFastButton {
               label {Fast, can have errors (rarely)}
@@ -404,10 +410,10 @@ MVC->SetShrinkQuality("Fast");
 MVC->redraw();
 shrinkNiceButton->value(0);
 }}
-              xywh {855 405 250 20} type Radio selection_color 2
+              xywh {855 410 250 20} type Radio selection_color 2
             }
             Fl_Group {} {open
-              xywh {1115 405 250 20}
+              xywh {1115 410 250 20}
             } {
               Fl_Light_Button shrinkNiceButton {
                 label {Much slower, perfekt, small details}
@@ -417,205 +423,150 @@ MVC->SetShrinkQuality("nice");
 MVC->redraw();
 shrinkFastButton->value(0);
 }}
-                xywh {1115 405 250 20} type Radio color 47 selection_color 2
+                xywh {1115 410 250 20} type Radio color 47 selection_color 2
               }
             }
           }
         }
         Fl_Group {} {
-          label Infill open
-          xywh {835 40 540 755} hide
+          label Infill
+          xywh {835 45 540 755} hide
         } {
           Fl_Group {} {
             label Infill open
-            xywh {840 65 535 215} box ENGRAVED_FRAME color 39
+            xywh {840 70 535 170} box ENGRAVED_FRAME color 39
           } {
             Fl_Value_Slider InfillRotationSlider {
               label Rotation
               callback {MVC->SetInfillRotation(o->value());}
-              xywh {850 125 515 20} type {Horz Knob} selection_color 2 align 5 maximum 360 step 1 value 45 textsize 14
+              xywh {850 130 515 20} type {Horz Knob} selection_color 2 align 5 maximum 360 step 1 value 45 textsize 14
             }
             Fl_Value_Slider InfillRotationPrLayerSlider {
               label {InFill Rotation pr. Layer}
               callback {MVC->SetInfillRotationPrLayer(o->value());}
-              xywh {850 165 515 20} type {Horz Knob} selection_color 2 align 5 maximum 360 step 1 value 90 textsize 14
+              xywh {850 170 515 20} type {Horz Knob} selection_color 2 align 5 maximum 360 step 1 value 90 textsize 14
             }
             Fl_Value_Slider InfillDistanceSlider {
               label {Infill Distance}
               callback {MVC->SetInfillDistance(o->value());}
-              xywh {850 205 515 20} type {Horz Knob} selection_color 2 align 5 minimum 0.1 maximum 10 step 0.1 value 2 textsize 14
-            }
-            Fl_Value_Slider OptimizationSlider {
-              label Optimize
-              callback {MVC->SetOptimization(o->value());}
-              xywh {850 250 515 20} type {Horz Knob} selection_color 2 align 5 value 0.01 textsize 14
+              xywh {850 210 515 20} type {Horz Knob} selection_color 2 align 5 minimum 0.1 maximum 10 step 0.1 value 2 textsize 14
             }
             Fl_Light_Button ShellOnlyButton {
               label {Shell Only - no infill}
               callback {MVC->SetShellOnly(o->value());}
-              xywh {850 85 255 20} selection_color 63
+              xywh {850 90 255 20} selection_color 63
             }
             Fl_Value_Slider ShellCountSlider {
               label {Shell count}
               callback {MVC->SetShellCount(o->value());}
-              xywh {1110 85 255 20} type {Horz Knob} selection_color 2 align 5 minimum 1 maximum 10 step 1 value 1 textsize 14
+              xywh {1110 90 255 20} type {Horz Knob} selection_color 2 align 5 minimum 1 maximum 10 step 1 value 1 textsize 14
             }
           }
         }
         Fl_Group {} {
-          label Apron
-          xywh {835 40 540 755} color 47 hide
-        } {
-          Fl_Group {} {
-            label Size open
-            xywh {840 65 530 305} box FLAT_BOX color 39
-          } {
-            Fl_Value_Slider ApronSizeSlider {
-              label Size
-              callback {MVC->SetApronSize(o->value());}
-              tooltip {How much larget then the print should the Raft be.} xywh {850 125 510 20} type {Horz Knob} selection_color 2 align 5 minimum 0.1 maximum 2 step 0.1 value 1.3 textsize 14 deactivate
-            }
-            Fl_Value_Slider ApronCoverageXSlider {
-              label {Coverage X axis}
-              callback {MVC->SetApronCoverageX(o->value());}
-              xywh {850 205 510 20} type {Horz Knob} selection_color 2 align 5 minimum 1 maximum 100 step 1 value 30 textsize 14 deactivate
-            }
-            Fl_Value_Slider ApronHeightSlider {
-              label Height
-              callback {MVC->SetApronHeight(o->value());}
-              xywh {850 165 510 20} type {Horz Knob} selection_color 2 align 5 minimum 1 maximum 30 step 1 value 8 textsize 14 deactivate
-            }
-            Fl_Value_Slider ApronCoverageYSlider {
-              label {Coverage Y axis}
-              callback {MVC->SetApronCoverageY(o->value());}
-              xywh {850 245 510 20} type {Horz Knob} selection_color 2 align 5 minimum 1 maximum 100 step 1 value 30 textsize 14 deactivate
-            }
-            Fl_Light_Button ApronEnableButton {
-              label Enable
-              callback {MVC->SetApronEnable(o->value());}
-              xywh {850 85 250 20}
-            }
-            Fl_Value_Slider ApronDistanceToObjectSlider {
-              label {Distance to object}
-              callback {MVC->SetApronDistanceToObject(o->value());}
-              xywh {850 285 510 20} type {Horz Knob} selection_color 2 align 5 minimum -1 maximum 3 step 0.1 value 0.5 textsize 14 deactivate
-            }
-            Fl_Value_Slider ApronInfillDistanceSlider {
-              label {Infill Distance}
-              callback {MVC->SetApronInfillDistance(o->value());}
-              xywh {850 325 510 20} type {Horz Knob} selection_color 2 align 5 minimum 0.1 maximum 10 step 0.1 value 2 textsize 14 deactivate
-            }
-            Fl_Light_Button ApronPreviewButton {
-              label Preview
-              callback {MVC->SetApronPreview(o->value());}
-              xywh {1105 85 255 20} deactivate
-            }
-          }
-        }
-        Fl_Group {} {
-          label Raft open
-          xywh {835 40 540 765} color 47 hide
+          label Raft
+          xywh {835 45 540 765} color 47 hide
         } {
           Fl_Group {} {
             label Base open
-            xywh {835 220 535 270} box ENGRAVED_FRAME color 39
+            xywh {835 225 535 270} box ENGRAVED_FRAME color 39
           } {
             Fl_Value_Slider RaftMaterialPrDistanceRatioSlider {
               label {Material pr. distance ratio}
               callback {MVC->SetRaftMaterialPrDistanceRatio(o->value());}
-              xywh {845 285 515 20} type {Horz Knob} selection_color 2 align 5 minimum 0.1 maximum 3 step 0.1 value 1.75 textsize 14
+              xywh {845 290 515 20} type {Horz Knob} selection_color 2 align 5 minimum 0.1 maximum 3 step 0.1 value 1.75 textsize 14
             }
             Fl_Value_Slider RaftRotationSlider {
               label Rotation
               callback {MVC->SetRaftRotation(o->value());}
-              xywh {845 325 515 20} type {Horz Knob} selection_color 2 align 5 maximum 360 step 1 value 90 textsize 14
+              xywh {845 330 515 20} type {Horz Knob} selection_color 2 align 5 maximum 360 step 1 value 90 textsize 14
             }
             Fl_Value_Slider RaftBaseDistanceSlider {
               label {Distance between lines}
               callback {MVC->SetRaftBaseDistance(o->value());}
-              tooltip {Distance between the base layer's lines} xywh {845 370 515 20} type {Horz Knob} selection_color 2 align 5 minimum 0.1 maximum 10 step 0.1 value 2 textsize 14
+              tooltip {Distance between the base layer's lines} xywh {845 375 515 20} type {Horz Knob} selection_color 2 align 5 minimum 0.1 maximum 10 step 0.1 value 2 textsize 14
             }
             Fl_Value_Slider RaftBaseThicknessSlider {
               label {Thinkness ratio}
               callback {MVC->SetRaftBaseThickness(o->value());}
-              tooltip {How much thicker or thinner then a normal layer should the raft base be.} xywh {845 415 515 20} type {Horz Knob} selection_color 2 align 5 minimum 0.1 maximum 3 step 0.1 value 1 textsize 14
+              tooltip {How much thicker or thinner then a normal layer should the raft base be.} xywh {845 420 515 20} type {Horz Knob} selection_color 2 align 5 minimum 0.1 maximum 3 step 0.1 value 1 textsize 14
             }
             Fl_Value_Slider RaftBaseLayerCountSlider {
               label {Number of Base layers}
               callback {MVC->SetRaftBaseLayerCount(o->value());}
-              xywh {845 245 515 20} type {Horz Knob} selection_color 2 align 5 maximum 5 step 1 value 1 textsize 14
+              xywh {845 250 515 20} type {Horz Knob} selection_color 2 align 5 maximum 5 step 1 value 1 textsize 14
             }
             Fl_Value_Slider RaftBaseTemperatureSlider {
               label {Temperature ratio}
               callback {MVC->SetRaftBaseTemperature(o->value());}
-              tooltip {To make the flow better, you may want to print the base layers hotter then the rest of the print.} xywh {845 460 515 20} type {Horz Knob} selection_color 2 align 5 minimum 0.1 maximum 3 value 1.1 textsize 14
+              tooltip {To make the flow better, you may want to print the base layers hotter then the rest of the print.} xywh {845 465 515 20} type {Horz Knob} selection_color 2 align 5 minimum 0.1 maximum 3 value 1.1 textsize 14
             }
           }
           Fl_Group {} {
             label Size open
-            xywh {835 145 535 55} box ENGRAVED_FRAME color 39
+            xywh {835 150 535 55} box ENGRAVED_FRAME color 39
           } {
             Fl_Value_Slider RaftSizeSlider {
               label {Larger then objects (mm)}
               callback {MVC->SetRaftSize(o->value());}
-              tooltip {How much larget then the print should the Raft be.} xywh {845 170 515 20} type {Horz Knob} selection_color 2 align 5 minimum 1 maximum 50 value 1.33 textsize 14
+              tooltip {How much larget then the print should the Raft be.} xywh {845 175 515 20} type {Horz Knob} selection_color 2 align 5 minimum 1 maximum 50 value 1.33 textsize 14
             }
           }
           Fl_Group {} {
             label Interface open
-            tooltip {This is the layer(s) connecting to the print itself. Unlike the Base layer, they should be "nice" and with a normal extrusion ratio.} xywh {835 520 535 285} box ENGRAVED_FRAME color 39
+            tooltip {This is the layer(s) connecting to the print itself. Unlike the Base layer, they should be "nice" and with a normal extrusion ratio.} xywh {835 525 535 285} box ENGRAVED_FRAME color 39
           } {
             Fl_Value_Slider RaftInterfaceMaterialPrDistanceRatioSlider {
               label {Material pr. distance ratio}
               callback {MVC->SetRaftInterfaceMaterialPrDistanceRatio(o->value());}
-              xywh {845 595 515 20} type {Horz Knob} selection_color 2 align 5 minimum 0.1 maximum 3 step 0.1 value 1 textsize 14
+              xywh {845 600 515 20} type {Horz Knob} selection_color 2 align 5 minimum 0.1 maximum 3 step 0.1 value 1 textsize 14
             }
             Fl_Value_Slider RaftRotationPrLayerSlider {
               label {Rotation pr. layer}
               callback {MVC->SetRaftRotationPrLayer(o->value());}
-              xywh {845 640 515 20} type {Horz Knob} selection_color 2 align 5 maximum 360 step 1 value 90 textsize 14
+              xywh {845 645 515 20} type {Horz Knob} selection_color 2 align 5 maximum 360 step 1 value 90 textsize 14
             }
             Fl_Value_Slider RaftInterfaceDistanceSlider {
               label {Distance between lines}
               callback {MVC->SetRaftInterfaceDistance(o->value());}
-              tooltip {Distance between the base layer's lines} xywh {845 685 515 20} type {Horz Knob} selection_color 2 align 5 minimum 0.1 maximum 10 step 0.1 value 2 textsize 14
+              tooltip {Distance between the base layer's lines} xywh {845 690 515 20} type {Horz Knob} selection_color 2 align 5 minimum 0.1 maximum 10 step 0.1 value 2 textsize 14
             }
             Fl_Value_Slider RaftInterfaceThicknessSlider {
               label {Thinkness ratio}
               callback {MVC->SetRaftBaseThickness(o->value());}
-              tooltip {How much thicker or thinner then a normal layer should the raft base be.} xywh {845 730 515 20} type {Horz Knob} selection_color 2 align 5 minimum 0.1 maximum 3 step 0.1 value 1 textsize 14
+              tooltip {How much thicker or thinner then a normal layer should the raft base be.} xywh {845 735 515 20} type {Horz Knob} selection_color 2 align 5 minimum 0.1 maximum 3 step 0.1 value 1 textsize 14
             }
             Fl_Value_Slider RaftInterfaceLayerCountSlider {
               label {Number of interface layers}
               callback {MVC->SeRaftInterfaceLayerCount(o->value());}
-              xywh {845 550 515 20} type {Horz Knob} selection_color 2 align 5 maximum 5 step 1 value 2 textsize 14
+              xywh {845 555 515 20} type {Horz Knob} selection_color 2 align 5 maximum 5 step 1 value 2 textsize 14
             }
             Fl_Value_Slider RaftInterfaceTemperatureSlider {
               label {Temperature ratio}
               callback {MVC->SetRaftInterfaceTemperature(o->value());}
-              tooltip {To make the flow better, you may want to print the base layers hotter then the rest of the print.} xywh {845 775 515 20} type {Horz Knob} selection_color 2 align 5 minimum 0.1 maximum 3 value 1.1 textsize 14
+              tooltip {To make the flow better, you may want to print the base layers hotter then the rest of the print.} xywh {845 780 515 20} type {Horz Knob} selection_color 2 align 5 minimum 0.1 maximum 3 value 1.1 textsize 14
             }
           }
           Fl_Group {} {
             label Size open
-            xywh {835 60 535 55} box ENGRAVED_FRAME color 39
+            xywh {835 65 535 55} box ENGRAVED_FRAME color 39
           } {
             Fl_Light_Button RaftEnableButton {
               label Enable
               callback {MVC->SetRaftEnable(o->value());
 MVC->redraw();}
-              xywh {840 80 255 25}
+              xywh {840 85 255 25}
             }
             Fl_Light_Button {} {
               label Preview
               callback {MVC->SetApronPreview(o->value());}
-              xywh {1100 80 255 25} deactivate
+              xywh {1100 85 255 25} deactivate
             }
           }
         }
         Fl_Group {} {
-          label GCode open
-          xywh {835 40 540 755} hide
+          label GCode
+          xywh {835 45 555 792} hide
         } {
           Fl_Button {} {
             label {Load Gcode}
@@ -633,66 +584,41 @@ if(dir.length())
 MVC->ReadGCode(dir);
 MVC->redraw();
 };}
-            xywh {835 90 145 25}
+            xywh {835 95 145 25}
             code0 {\#include <FL/Fl_File_Chooser.H>}
           }
           Fl_Output GCodeLengthText {
-            xywh {985 91 225 24}
+            xywh {985 96 225 24}
           }
           Fl_Button {} {
             label {Convert to GCode}
             callback {MVC->ConvertToGCode();}
-            xywh {835 60 145 25}
+            xywh {835 65 145 25}
           }
-          Fl_Tabs {} {open
-            xywh {835 120 540 675}
+          Fl_Tabs {} {
+            xywh {835 125 555 710} color 66 selection_color 31
           } {
-            Fl_Group {} {
-              label {Start code} open
-              xywh {835 140 540 655} hide
-            } {
-              Fl_Text_Editor GCodeStart {
-                xywh {835 140 525 605}
-                code0 {Fl_Text_Buffer *startbuff = new Fl_Text_Buffer();}
-                code1 {o->buffer(startbuff);}
-              }
-              Fl_Choice {} {
-                label {Printer definition} open
-                xywh {955 750 75 15} down_box BORDER_BOX
-              } {
-                MenuItem MinSpeedXY {
-                  label {Min PrintSpeed XY}
-                  xywh {0 0 34 24}
-                }
-                MenuItem {} {
-                  label {Max PrintSpeed XY}
-                  xywh {0 0 34 24}
-                }
-                MenuItem {} {
-                  label {Min PrintSpeed Z}
-                  xywh {0 0 34 24}
-                }
-                MenuItem {} {
-                  label {Max PrintSpeed Z}
-                  xywh {0 0 34 24}
-                }
-              }
+            Fl_Text_Editor GCodeStart {
+              label Start
+              xywh {835 145 555 690} selection_color 31
+              code0 {Fl_Text_Buffer *startbuff = new Fl_Text_Buffer();}
+              code1 {o->buffer(startbuff);}
             }
             Fl_Text_Editor GCodeLayer {
               label {Next layer}
-              xywh {835 140 525 655} hide
+              xywh {835 145 555 690} selection_color 31 hide
               code0 {Fl_Text_Buffer *layerbuff = new Fl_Text_Buffer();}
               code1 {o->buffer(layerbuff);}
             }
             Fl_Text_Editor GCodeEnd {
               label {End code}
-              xywh {835 140 525 655} hide
+              xywh {835 145 555 690} selection_color 31 hide
               code0 {Fl_Text_Buffer *endbuff = new Fl_Text_Buffer();}
               code1 {o->buffer(endbuff);}
             }
             Fl_Text_Editor GCodeResult {
               label Result
-              xywh {835 140 525 655}
+              xywh {835 145 555 690} selection_color 31 hide
               code0 {Fl_Text_Buffer *resultbuff = new Fl_Text_Buffer();}
               code1 {o->buffer(resultbuff);}
             }
@@ -728,229 +654,178 @@ break;
 
 MVC->redraw();
 };}
-            xywh {1215 90 145 25}
+            xywh {1215 95 145 25}
             code0 {\#include <FL/Fl_File_Chooser.H>}
           }
         }
         Fl_Group {} {
-          label Score
-          xywh {835 40 540 795} hide
-        } {
-          Fl_Button {} {
-            label {Placeholder and reminder for antomatic Score'ing of objects (see todo folder)}
-            xywh {840 65 535 140}
-          }
-          Fl_Button {} {
-            label {Make custom buttons where you can store GCODE and run at will}
-            xywh {840 245 535 30}
-          }
-          Fl_Button {} {
-            label {Add variables to start, layer and end gcode}
-            xywh {840 315 535 30}
-          }
-          Fl_Button {} {
-            label {Avoid voids when moving - pathfinding}
-            xywh {840 350 535 30}
-          }
-          Fl_Button {} {
-            label {Sliders to move head interactivily}
-            xywh {840 385 535 30}
-          }
-          Fl_Button {} {
-            label {Type input where you can send gcode interactivly}
-            xywh {840 210 535 30}
-          }
-          Fl_Button {} {
-            label {Temperature reading}
-            xywh {840 280 535 30}
-          }
-          Fl_Button {} {
-            label {Speed input and interactive start/stop of extruder}
-            xywh {840 420 535 30}
-          }
-          Fl_Button {} {
-            label {Fix shrink code}
-            xywh {840 455 535 30}
-          }
-          Fl_Button {} {
-            label {Fix printing of objects where the called-for thickness of the part is less than twice the filament extrusion. - with one line only}
-            xywh {840 490 535 50}
-          }
-          Fl_Text_Editor NotesEditor {
-            label Notes
-            xywh {840 560 535 275}
-            code0 {Fl_Text_Buffer *NotesBuff = new Fl_Text_Buffer();}
-            code1 {o->buffer(NotesBuff);}
-          }
-        }
-        Fl_Group {} {
-          label Rendering open
-          xywh {835 40 540 755} color 47 hide
+          label Rendering
+          xywh {835 45 540 755} color 47 hide
         } {
           Fl_Group {} {
             label {STL rendering} open
-            xywh {835 70 535 305} box ENGRAVED_FRAME color 39
+            xywh {835 75 535 305} box ENGRAVED_FRAME color 39
           } {
             Fl_Light_Button DisplayPolygonsButton {
               label {Display Polygons}
               callback {MVC->SetDisplayPolygons(o->value());}
-              xywh {870 80 220 20} value 1 selection_color 63
+              xywh {870 85 220 20} value 1 selection_color 63
             }
             Fl_Light_Button DisplayWireframeButton {
               label {Display Wireframe}
               callback {MVC->SetDisplayWireframe(o->value());}
-              xywh {1135 80 140 20} selection_color 63
+              xywh {1135 85 140 20} selection_color 63
             }
             Fl_Light_Button DisplayNormalsButton {
               label {Display Normals}
               callback {MVC->SetDisplayNormals(o->value());}
-              xywh {870 205 220 20} selection_color 63
+              xywh {870 210 220 20} selection_color 63
             }
             Fl_Light_Button DisplayEndpointsButton {
               label {Display Endpoints}
               callback {MVC->SetDisplayEndpoints(o->value());}
-              xywh {1135 205 220 20} selection_color 63
+              xywh {1135 210 220 20} selection_color 63
             }
             Fl_Value_Slider PolygonValSlider {
               label Val
               callback {MVC->SetPolygonVal(o->value());
 MVC->redraw();}
-              xywh {870 145 220 20} type {Horz Knob} selection_color 2 align 4 value 0.5 textsize 14
+              xywh {870 150 220 20} type {Horz Knob} selection_color 2 align 4 value 0.5 textsize 14
             }
             Fl_Value_Slider PolygonSatSlider {
               label Sat
               callback {MVC->SetPolygonSat(o->value());
 MVC->redraw();}
-              xywh {870 125 220 20} type {Horz Knob} selection_color 2 align 4 value 0.5 textsize 14
+              xywh {870 130 220 20} type {Horz Knob} selection_color 2 align 4 value 0.5 textsize 14
             }
             Fl_Value_Slider PolygonHueSlider {
               label Hue
               callback {MVC->SetPolygonHue(o->value());
 MVC->redraw();}
-              xywh {870 105 220 20} type {Horz Knob} selection_color 2 align 4 value 0.5 textsize 14
+              xywh {870 110 220 20} type {Horz Knob} selection_color 2 align 4 value 0.5 textsize 14
             }
             Fl_Value_Slider WireframeValSlider {
               label Val
               callback {MVC->SetWireframeVal(o->value());
 MVC->redraw();}
-              xywh {1135 145 220 20} type {Horz Knob} selection_color 2 align 4 value 0.5 textsize 14
+              xywh {1135 150 220 20} type {Horz Knob} selection_color 2 align 4 value 0.5 textsize 14
             }
             Fl_Value_Slider WireframeSatSlider {
               label Sat
               callback {MVC->SetWireframeSat(o->value());
 MVC->redraw();}
-              xywh {1135 125 220 20} type {Horz Knob} selection_color 2 align 4 value 0.5 textsize 14
+              xywh {1135 130 220 20} type {Horz Knob} selection_color 2 align 4 value 0.5 textsize 14
             }
             Fl_Value_Slider WireframeHueSlider {
               label Hue
               callback {MVC->SetWireframeHue(o->value());
 MVC->redraw();}
-              xywh {1135 105 220 20} type {Horz Knob} selection_color 2 align 4 value 0.5 textsize 14
+              xywh {1135 110 220 20} type {Horz Knob} selection_color 2 align 4 value 0.5 textsize 14
             }
             Fl_Value_Slider NormalValSlider {
               label Val
               callback {MVC->SetNormalsVal(o->value());
 MVC->redraw();}
-              xywh {870 270 220 20} type {Horz Knob} selection_color 2 align 4 value 0.5 textsize 14
+              xywh {870 275 220 20} type {Horz Knob} selection_color 2 align 4 value 0.5 textsize 14
             }
             Fl_Value_Slider NormalSatSlider {
               label Sat
               callback {MVC->SetNormalsSat(o->value());
 MVC->redraw();}
-              xywh {870 250 220 20} type {Horz Knob} selection_color 2 align 4 value 0.5 textsize 14
+              xywh {870 255 220 20} type {Horz Knob} selection_color 2 align 4 value 0.5 textsize 14
             }
             Fl_Value_Slider NormalHueSlider {
               label Hue
               callback {MVC->SetNormalsHue(o->value());
 MVC->redraw();}
-              xywh {870 230 220 20} type {Horz Knob} selection_color 2 align 4 value 0.5 textsize 14
+              xywh {870 235 220 20} type {Horz Knob} selection_color 2 align 4 value 0.5 textsize 14
             }
             Fl_Value_Slider EndpointValSlider {
               label Val
               callback {MVC->SetEndpointsVal(o->value());
 MVC->redraw();}
-              xywh {1135 270 220 20} type {Horz Knob} selection_color 2 align 4 value 0.5 textsize 14
+              xywh {1135 275 220 20} type {Horz Knob} selection_color 2 align 4 value 0.5 textsize 14
             }
             Fl_Value_Slider EndpointSatSlider {
               label Sat
               callback {MVC->SetEndpointsSat(o->value());
 MVC->redraw();}
-              xywh {1135 250 220 20} type {Horz Knob} selection_color 2 align 4 value 0.5 textsize 14
+              xywh {1135 255 220 20} type {Horz Knob} selection_color 2 align 4 value 0.5 textsize 14
             }
             Fl_Value_Slider EndpointHueSlider {
               label Hue
               callback {MVC->SetEndpointsHue(o->value());
 MVC->redraw();}
-              xywh {1135 230 220 20} type {Horz Knob} selection_color 2 align 4 value 0.5 textsize 14
+              xywh {1135 235 220 20} type {Horz Knob} selection_color 2 align 4 value 0.5 textsize 14
             }
             Fl_Light_Button DisplayBBoxButton {
               label {Display Bounding Box}
               callback {MVC->SetDisplayBBox(o->value());}
-              xywh {870 350 220 20} selection_color 63
+              xywh {870 355 220 20} selection_color 63
             }
             Fl_Value_Slider HighlightSlider {
               label Highlight
               callback {MVC->SetHighlight(o->value());
 MVC->redraw();}
-              xywh {1135 350 220 20} type {Horz Knob} selection_color 2 align 5 value 0.5 textsize 14
+              xywh {1135 355 220 20} type {Horz Knob} selection_color 2 align 5 value 0.5 textsize 14
             }
             Fl_Value_Slider NormalLengthSlider {
               label {Normals length}
               callback {MVC->SetNormalsLength(o->value());
 MVC->redraw();}
-              xywh {870 310 220 20} type {Horz Knob} selection_color 2 align 5 minimum 1 maximum 30 step 0.1 value 10 textsize 14
+              xywh {870 315 220 20} type {Horz Knob} selection_color 2 align 5 minimum 1 maximum 30 step 0.1 value 10 textsize 14
             }
             Fl_Value_Slider EndpointSizeSlider {
               label {Endpoints size}
               callback {MVC->SetEndPointSize(o->value());
 MVC->redraw();}
-              xywh {1135 310 220 20} type {Horz Knob} selection_color 2 align 5 minimum 1 maximum 20 step 0.1 value 8 textsize 14
+              xywh {1135 315 220 20} type {Horz Knob} selection_color 2 align 5 minimum 1 maximum 20 step 0.1 value 8 textsize 14
             }
             Fl_Light_Button DisplayWireframeShadedButton {
               label Shaded
               callback {MVC->SetDisplayWireframeShaded(o->value());}
-              xywh {1280 80 75 20} selection_color 63
+              xywh {1280 85 75 20} selection_color 63
             }
             Fl_Value_Slider PolygonOpasitySlider {
               label Opa
               callback {MVC->SetPolygonOpasity(o->value());
 MVC->redraw();}
-              xywh {870 165 220 20} type {Horz Knob} selection_color 2 align 4 value 0.5 textsize 14
+              xywh {870 170 220 20} type {Horz Knob} selection_color 2 align 4 value 0.5 textsize 14
             }
           }
           Fl_Group {} {
             label {GCode rendering} open
-            xywh {835 395 535 185} box ENGRAVED_FRAME color 39
+            xywh {835 400 535 185} box ENGRAVED_FRAME color 39
           } {
             Fl_Light_Button DisplayGCodeButton {
               label {Display GCode}
               callback {MVC->SetDisplayGCode(o->value());
 MVC->redraw();}
-              xywh {870 405 220 20} value 1 selection_color 63
+              xywh {870 410 220 20} value 1 selection_color 63
             }
             Fl_Value_Slider GCodeExtrudeValSlider {
               label Val
               callback {MVC->SetGCodeExtrudeVal(o->value());
 MVC->redraw();}
-              xywh {870 470 220 20} type {Horz Knob} selection_color 2 align 4 value 0.5 textsize 14
+              xywh {870 475 220 20} type {Horz Knob} selection_color 2 align 4 value 0.5 textsize 14
             }
             Fl_Value_Slider GCodeExtrudeSatSlider {
               label Sat
               callback {MVC->SetGCodeExtrudeSat(o->value());
 MVC->redraw();}
-              xywh {870 450 220 20} type {Horz Knob} selection_color 2 align 4 value 0.5 textsize 14
+              xywh {870 455 220 20} type {Horz Knob} selection_color 2 align 4 value 0.5 textsize 14
             }
             Fl_Value_Slider GCodeExtrudeHueSlider {
               label Hue
               callback {MVC->SetGCodeExtrudeHue(o->value());
 MVC->redraw();}
-              xywh {870 430 220 20} type {Horz Knob} selection_color 2 align 4 value 0.5 textsize 14
+              xywh {870 435 220 20} type {Horz Knob} selection_color 2 align 4 value 0.5 textsize 14
             }
             Fl_Light_Button LuminanceShowsSpeedButton {
               label {Luminance shows speed}
               callback {MVC->SetLuminanceShowsSpeed(o->value());
 MVC->redraw();}
-              xywh {1135 405 220 20} value 1 selection_color 63
+              xywh {1135 410 220 20} value 1 selection_color 63
             }
             Fl_Button {} {
               label {Crop Range}
@@ -960,7 +835,7 @@ GCodeDrawStartSlider->range(start,end);
 GCodeDrawEndSlider->range(start,end);
 GCodeDrawStartSlider->redraw();
 GCodeDrawEndSlider->redraw();}
-              xywh {870 545 220 20}
+              xywh {870 550 220 20}
             }
             Fl_Button {} {
               label {Reset crop range}
@@ -968,208 +843,445 @@ GCodeDrawEndSlider->redraw();}
 GCodeDrawEndSlider->range(0,1);
 GCodeDrawStartSlider->redraw();
 GCodeDrawEndSlider->redraw();}
-              xywh {1140 545 220 20}
+              xywh {1140 550 220 20}
             }
             Fl_Slider GCodeDrawStartSlider {
               label From
               callback {MVC->SetGCodeDrawStart(o->value());}
-              xywh {870 495 490 20} type {Horz Knob} color 39 selection_color 2 align 4
+              xywh {870 500 490 20} type {Horz Knob} color 39 selection_color 2 align 4
             }
             Fl_Slider GCodeDrawEndSlider {
               label To
               callback {MVC->SetGCodeDrawEnd(o->value());}
-              xywh {870 520 490 20} type {Horz Knob} color 39 selection_color 2 align 4
+              xywh {870 525 490 20} type {Horz Knob} color 39 selection_color 2 align 4
             }
             Fl_Value_Slider GCodeMoveValSlider {
               label Val
               callback {MVC->SetGCodeMoveVal(o->value());
 MVC->redraw();}
-              xywh {1135 470 220 20} type {Horz Knob} selection_color 2 align 4 value 0.5 textsize 14
+              xywh {1135 475 220 20} type {Horz Knob} selection_color 2 align 4 value 0.5 textsize 14
             }
             Fl_Value_Slider GCodeMoveSatSlider {
               label Sat
               callback {MVC->SetGCodeMoveSat(o->value());
 MVC->redraw();}
-              xywh {1135 450 220 20} type {Horz Knob} selection_color 2 align 4 value 0.5 textsize 14
+              xywh {1135 455 220 20} type {Horz Knob} selection_color 2 align 4 value 0.5 textsize 14
             }
             Fl_Value_Slider GCodeMoveHueSlider {
               label Hue
               callback {MVC->SetGCodeMoveHue(o->value());
 MVC->redraw();}
-              xywh {1135 430 220 20} type {Horz Knob} selection_color 2 align 4 value 0.5 textsize 14
+              xywh {1135 435 220 20} type {Horz Knob} selection_color 2 align 4 value 0.5 textsize 14
             }
           }
           Fl_Group {} {
             label {Layer preview} open
-            xywh {835 600 540 90} box ENGRAVED_FRAME color 39
+            xywh {835 605 540 90} box ENGRAVED_FRAME color 39
           } {
             Fl_Value_Slider CuttingPlaneValueSlider {
               label Cuttingplane
               callback {MVC->SetCuttingPlaneValue(o->value());}
-              xywh {845 660 515 20} type {Horz Knob} align 5 value 0.5 textsize 14
+              xywh {845 665 515 20} type {Horz Knob} align 5 value 0.5 textsize 14
             }
             Fl_Light_Button DisplayCuttingPlaneButton {
               label {Display CuttingPlane}
               callback {MVC->SetDisplayCuttingPlane(o->value());}
-              xywh {845 615 170 20} selection_color 63
+              xywh {845 620 170 20} selection_color 63
             }
             Fl_Light_Button DisplayinFillButton {
               label {Display inFill}
               callback {MVC->SetDisplayinFill(o->value());}
-              xywh {1020 615 165 20} selection_color 63
+              xywh {1020 620 165 20} selection_color 63
             }
             Fl_Light_Button DisplayAllLayersButton {
               label {Display all layers}
               callback {MVC->SetDisplayAllLayers(o->value());}
-              xywh {1190 615 170 20} selection_color 63
+              xywh {1190 620 170 20} selection_color 63
             }
           }
           Fl_Group {} {
             label Lights open
-            xywh {835 710 540 70} box ENGRAVED_FRAME color 39
+            xywh {835 715 540 70} box ENGRAVED_FRAME color 39
           } {
             Fl_Light_Button {} {
               label {Enable light 0}
               callback {MVC->SetEnableLight(0, o->value());}
-              xywh {845 725 120 20} value 1 selection_color 63
+              xywh {845 730 120 20} value 1 selection_color 63
             }
             Fl_Light_Button {} {
               label {Enable light 1}
               callback {MVC->SetEnableLight(1, o->value());}
-              xywh {845 750 120 20} selection_color 63
+              xywh {845 755 120 20} selection_color 63
             }
             Fl_Light_Button {} {
               label {Enable light 2}
               callback {MVC->SetEnableLight(2, o->value());}
-              xywh {1105 725 120 20} selection_color 63
+              xywh {1105 730 120 20} selection_color 63
             }
             Fl_Light_Button {} {
               label {Enable light 3}
               callback {MVC->SetEnableLight(3, o->value());}
-              xywh {1105 750 120 20} value 1 selection_color 63
+              xywh {1105 755 120 20} value 1 selection_color 63
             }
             Fl_Button {} {
               label {Edit light 0}
-              xywh {970 725 130 20} deactivate
+              xywh {970 730 130 20} deactivate
             }
             Fl_Button {} {
               label {Edit light 1}
-              xywh {970 750 130 20} deactivate
+              xywh {970 755 130 20} deactivate
             }
             Fl_Button {} {
               label {Edit light 2}
-              xywh {1230 725 130 20} deactivate
+              xywh {1230 730 130 20} deactivate
             }
             Fl_Button {} {
               label {Edit light 3}
-              xywh {1230 750 130 20} deactivate
+              xywh {1230 755 130 20} deactivate
             }
           }
         }
         Fl_Group {} {
           label Print open
-          xywh {835 45 560 790} color 47 hide
+          xywh {835 50 560 800} color 47
         } {
           Fl_Tabs {} {open
-            xywh {835 180 540 655}
+            xywh {835 220 540 595}
           } {
             Fl_Browser CommunationLog {
               label {Communication log}
-              xywh {840 205 530 630} hide
+              xywh {840 245 530 565} selection_color 31 align 16 hide
               code0 {\#include <FL/Fl_Multi_Browser.H>}
               class Fl_Multi_Browser
             }
             Fl_Browser ErrorLog {
               label {Errors / warnings}
-              xywh {840 205 530 630} hide
+              xywh {840 245 530 565} selection_color 31 align 16 hide
               code0 {\#include <FL/Fl_Multi_Browser.H>}
               class Fl_Multi_Browser
             }
             Fl_Browser Echo {
               label Echo
-              xywh {840 205 530 630} hide
+              xywh {840 245 530 565} selection_color 31 align 16 hide
               code0 {\#include <FL/Fl_Multi_Browser.H>}
               class Fl_Multi_Browser
             }
             Fl_Group {} {
               label {Interactive control} open
-              xywh {840 205 535 630} selection_color 15
+              xywh {840 245 535 565} selection_color 31 align 16
             } {
               Fl_Light_Button SwitchHeatOnButton {
                 label {Switch heat on}
                 callback {MVC->SwitchHeat(o->value(), TargetTempText->value());}
-                xywh {845 395 220 25}
+                xywh {845 430 220 25}
               }
               Fl_Value_Input TargetTempText {
                 label {Target temp}
                 callback {MVC->SetTargetTemp(o->value());}
-                xywh {1300 396 55 24} maximum 300 value 63
+                xywh {1300 431 55 24} maximum 300 value 200
               }
               Fl_Light_Button RunExtruderButton {
                 label {Run extruder}
                 callback {MVC->RunExtruder();}
-                xywh {845 425 115 25}
+                xywh {845 460 115 25}
               }
               Fl_Light_Button SetExtruderDirectionButton {
                 label Reverse
                 callback {MVC->SetExtruderDirection(o->value());}
-                xywh {965 425 100 25}
+                xywh {965 460 100 25}
               }
               Fl_Button {} {
                 label Home
                 callback {MVC->Home("X");}
-                xywh {855 215 83 25}
+                xywh {855 250 83 25}
               }
               Fl_Button {} {
                 label Home
                 callback {MVC->Home("Y");}
-                xywh {855 245 83 25}
+                xywh {855 280 83 25}
               }
               Fl_Button {} {
                 label Home
                 callback {MVC->Home("Z");}
-                xywh {855 275 83 25}
+                xywh {855 310 83 25}
               }
               Fl_Button {} {
                 label {Find position in Gcode}
-                xywh {1175 305 173 25} deactivate
+                xywh {1175 340 173 25} deactivate
               }
               Fl_Value_Slider {} {
                 label Speed
                 callback {MVC->SetExtruderSpeed(o->value());}
-                xywh {1120 425 235 25} type {Horz Knob} align 4 minimum 100 maximum 9999 step 100 value 3000 textsize 14
+                xywh {1120 460 235 25} type {Horz Knob} align 4 minimum 5 maximum 9999 step 1 value 3000 textsize 14
               }
               Fl_Value_Slider {} {
                 label Length
                 callback {MVC->SetExtruderLength(o->value());}
-                xywh {1120 455 235 25} type {Horz Knob} align 4 minimum 10 maximum 850 step 100 value 150 textsize 14
+                xywh {1120 490 235 25} type {Horz Knob} align 4 minimum 10 maximum 850 step 1 value 150 textsize 14
               }
               Fl_Input GCodeInput {
                 label GCode
-                xywh {895 350 385 25}
+                callback {MVC->SendNow(o->value());}
+                xywh {905 365 375 25} when 8
               }
               Fl_Button {} {
                 label Send
                 callback {MVC->SendNow(GCodeInput->value());}
-                xywh {1285 350 68 25}
+                xywh {1285 365 68 25}
               }
               Fl_Output CurrentTempText {
                 label {Current temp}
-                xywh {1160 396 55 24}
+                xywh {1160 431 55 24}
               }
-              Fl_Value_Slider ExamineSlider {
-                label Examine
-                callback {MVC->SetExamine(o->value());}
-                xywh {900 820 200 15} type Horizontal align 4 step 0.001 value 0.098 textsize 14
+              Fl_Button {} {
+                label {Home all}
+                callback {MVC->Home("ALL");}
+                xywh {855 340 85 25}
               }
-              Fl_Light_Button DisplayDebuginFillButton {
-                label {Display Debug inFill}
-                callback {MVC->SetDisplayDebuginFill(o->value());}
-                xywh {915 820 145 15} selection_color 63
+              Fl_Button {} {
+                label {-10}
+                callback {MVC->Move("X", -10);}
+                xywh {995 250 40 25}
               }
-              Fl_Light_Button DisplayDebugButton {
-                label Debug
-                callback {if(o->value())
+              Fl_Button {} {
+                label {-1}
+                callback {MVC->Move("X", -1);}
+                xywh {1040 250 40 25}
+              }
+              Fl_Button {} {
+                label {-0.1}
+                callback {MVC->Move("X", -0.1f);}
+                xywh {1085 250 40 25}
+              }
+              Fl_Button {} {
+                label {+0.1}
+                callback {MVC->Move("X", 0.1f);}
+                xywh {1175 250 40 25}
+              }
+              Fl_Button {} {
+                label {+1}
+                callback {MVC->Move("X", 1);}
+                xywh {1220 250 40 25}
+              }
+              Fl_Button {} {
+                label {+10}
+                callback {MVC->Move("X", 10);}
+                xywh {1265 250 40 25}
+              }
+              Fl_Button {} {
+                label {-100}
+                callback {MVC->Move("X", -100);}
+                xywh {950 250 40 25}
+              }
+              Fl_Button {} {
+                label {+100}
+                callback {MVC->Move("X", 100);}
+                xywh {1310 250 40 25}
+              }
+              Fl_Button {} {
+                label {-10}
+                callback {MVC->Move("Y", -10);}
+                xywh {995 280 40 25}
+              }
+              Fl_Button {} {
+                label {-1}
+                callback {MVC->Move("Y", -1);}
+                xywh {1040 280 40 25}
+              }
+              Fl_Button {} {
+                label {-0.1}
+                callback {MVC->Move("Y", -0.1f);}
+                xywh {1085 280 40 25}
+              }
+              Fl_Button {} {
+                label {+0.1}
+                callback {MVC->Move("Y", 0.1f);}
+                xywh {1175 280 40 25}
+              }
+              Fl_Button {} {
+                label {+1}
+                callback {MVC->Move("Y", 1);}
+                xywh {1220 280 40 25}
+              }
+              Fl_Button {} {
+                label {+10}
+                callback {MVC->Move("Y", 10);}
+                xywh {1265 280 40 25}
+              }
+              Fl_Button {} {
+                label {-100}
+                callback {MVC->Move("Y", -100);}
+                xywh {950 280 40 25}
+              }
+              Fl_Button {} {
+                label {+100}
+                callback {MVC->Move("Y", 100);}
+                xywh {1310 280 40 25}
+              }
+              Fl_Button {} {
+                label {-10}
+                callback {MVC->Move("Z", -10);}
+                xywh {995 310 40 25}
+              }
+              Fl_Button {} {
+                label {-1}
+                callback {MVC->Move("Z", -1);}
+                xywh {1040 310 40 25}
+              }
+              Fl_Button {} {
+                label {-0.1}
+                callback {MVC->Move("Z", -0.1f);}
+                xywh {1085 310 40 25}
+              }
+              Fl_Button {} {
+                label {+0.1}
+                callback {MVC->Move("Z", 0.1f);}
+                xywh {1175 310 40 25}
+              }
+              Fl_Button {} {
+                label {+1}
+                callback {MVC->Move("Z", 1);}
+                xywh {1220 310 40 25}
+              }
+              Fl_Button {} {
+                label {+10}
+                callback {MVC->Move("Z", 10);}
+                xywh {1265 310 40 25}
+              }
+              Fl_Button {} {
+                label {-100}
+                callback {MVC->Move("Z", -100);}
+                xywh {950 310 40 25}
+              }
+              Fl_Button {} {
+                label {+100}
+                callback {MVC->Move("Z", 100);}
+                xywh {1310 310 40 25}
+              }
+              Fl_Value_Input XposText {
+                callback {MVC->Goto("X", o->value());}
+                xywh {1130 251 40 24} maximum 500
+              }
+              Fl_Value_Input YposText {
+                callback {MVC->Goto("Y", o->value());}
+                xywh {1130 281 40 24} maximum 500
+              }
+              Fl_Value_Input ZposText {
+                callback {MVC->Goto("Z", o->value());}
+                xywh {1130 311 40 24} maximum 500
+              }
+              Fl_Value_Slider DownstreamMultiplierSlider {
+                label {Downstream speed multiplier}
+                xywh {845 525 510 25} type {Horz Knob} align 5 minimum 0.01 maximum 5 value 1 textsize 14
+              }
+              Fl_Value_Slider TempUpdateSpeedSlider {
+                label {Temperature update interval}
+                callback {MVC->SetTempUpdateSpeed(o->value());}
+                xywh {1030 400 235 25} type {Horz Knob} align 4 minimum 0.1 maximum 10 step 0.1 value 3 textsize 14
+              }
+              Fl_Light_Button AutoscrollButton {
+                label {Auto scroll}
+                xywh {845 570 105 25} value 1 selection_color 2
+              }
+              Fl_Value_Slider LinesToKeepSlider {
+                label {Keep only the last \# lines:}
+                callback {MVC->SetKeepLines(o->value());}
+                xywh {955 570 400 25} type {Horz Knob} align 5 minimum 100 maximum 100000 step 1 value 1000 textsize 14
+              }
+              Fl_Light_Button FileLogginEnabledButton {
+                label LogFiles
+                callback {MVC->SetFileLogging(o->value());}
+                xywh {845 600 105 25} value 1 selection_color 2
+              }
+              Fl_Light_Button TempReadingEnabledButton {
+                label Enable
+                callback {MVC->EnableTempReading(o->value());}
+                xywh {1270 400 85 25} value 1 selection_color 2
+              }
+              Fl_Light_Button ClearLogfilesWhenPrintStartsButton {
+                label {Clear logs when print starts}
+                callback {MVC->SetLogFileClear(o->value());}
+                xywh {955 600 205 25} value 1 selection_color 2
+              }
+              Fl_Button {} {
+                label {Clear logs now}
+                callback {MVC->ClearLogs();}
+                xywh {1210 600 145 25}
+              }
+            }
+          }
+          Fl_Group {} {
+            label Print open
+            xywh {835 70 540 45} box ENGRAVED_FRAME color 39
+          } {
+            Fl_Light_Button ConnectToPrinterButton {
+              label {Connect to printer}
+              callback {MVC->ConnectToPrinter(o->value());}
+              xywh {840 80 135 25} selection_color 2
+            }
+            Fl_Light_Button PrintButton {
+              label Print
+              callback {if(o->value())
+{
+o->label("Pause");
+MVC->Print();
+ContinueButton->deactivate();
+}
+else
+{
+o->label("Restart");
+MVC->Pause();
+ContinueButton->activate();
+}}
+              xywh {1075 80 90 25} selection_color 2
+            }
+            Fl_Button ContinueButton {
+              label Continue
+              callback {MVC->Continue();
+PrintButton->label("Pause");
+PrintButton->value(1);
+o->deactivate();}
+              xywh {1170 80 95 25} deactivate
+            }
+            Fl_Light_Button {} {
+              label {Power on}
+              callback {MVC->SwitchPower(o->value());}
+              xywh {980 80 90 25} selection_color 2
+            }
+            Fl_Button KickButton {
+              label Kick
+              callback {MVC->Continue();} selected
+              xywh {1270 80 95 25}
+            }
+          }
+          Fl_Group {} {
+            label Feedback open
+            xywh {840 180 540 40} box ENGRAVED_FRAME color 39
+          } {
+            Fl_Light_Button {} {
+              label Errors
+              callback {MVC->serial.SetDebugMask(DEBUG_ERRORS, (bool)o->value());}
+              xywh {850 190 165 20} value 1 selection_color 2
+            }
+            Fl_Light_Button {} {
+              label Info
+              callback {MVC->serial.SetDebugMask(DEBUG_INFO, (bool)o->value());}
+              xywh {1020 190 165 20} value 1 selection_color 2
+            }
+            Fl_Light_Button {} {
+              label Echo
+              callback {MVC->serial.SetDebugMask(DEBUG_ECHO, (bool)o->value());}
+              xywh {1190 190 165 20} value 1 selection_color 2
+            }
+          }
+          Fl_Light_Button DisplayDebuginFillButton {
+            label {Display Debug inFill}
+            callback {MVC->SetDisplayDebuginFill(o->value());}
+            xywh {920 830 145 15} selection_color 63
+          }
+          Fl_Light_Button DisplayDebugButton {
+            label Debug
+            callback {if(o->value())
 {
 DisplayDebuginFillButton->show();
 ExamineSlider->show();
@@ -1182,224 +1294,44 @@ ExamineSlider->hide();
 
 
 MVC->redraw();}
-                xywh {840 820 70 15} selection_color 63
-              }
-              Fl_Light_Button DrawVertexNumbersButton {
-                label {Draw vertex numbers}
-                callback {MVC->SetDrawVertexNumbers(o->value());}
-                xywh {1065 820 155 15} selection_color 63
-              }
-              Fl_Light_Button DrawLineNumbersButton {
-                label {Draw line numbers}
-                callback {MVC->SetDrawLineNumbers(o->value());}
-                xywh {1220 820 155 15} selection_color 63
-              }
-              Fl_Button {} {
-                label {Home all}
-                callback {MVC->Home("ALL");}
-                xywh {855 305 85 25}
-              }
-              Fl_Button {} {
-                label {-10}
-                callback {MVC->Move("X", -10);}
-                xywh {995 215 40 25}
-              }
-              Fl_Button {} {
-                label {-1}
-                callback {MVC->Move("X", -1);}
-                xywh {1040 215 40 25}
-              }
-              Fl_Button {} {
-                label {-0.1}
-                callback {MVC->Move("X", -0.1f);}
-                xywh {1085 215 40 25}
-              }
-              Fl_Button {} {
-                label {+0.1}
-                callback {MVC->Move("X", 0.1f);}
-                xywh {1175 215 40 25}
-              }
-              Fl_Button {} {
-                label {+1}
-                callback {MVC->Move("X", 1);}
-                xywh {1220 215 40 25}
-              }
-              Fl_Button {} {
-                label {+10}
-                callback {MVC->Move("X", 10);}
-                xywh {1265 215 40 25}
-              }
-              Fl_Button {} {
-                label {-100}
-                callback {MVC->Move("X", -100);}
-                xywh {950 215 40 25}
-              }
-              Fl_Button {} {
-                label {+100}
-                callback {MVC->Move("X", 100);}
-                xywh {1310 215 40 25}
-              }
-              Fl_Button {} {
-                label {-10}
-                callback {MVC->Move("Y", -10);}
-                xywh {995 245 40 25}
-              }
-              Fl_Button {} {
-                label {-1}
-                callback {MVC->Move("Y", -1);}
-                xywh {1040 245 40 25}
-              }
-              Fl_Button {} {
-                label {-0.1}
-                callback {MVC->Move("Y", -0.1f);}
-                xywh {1085 245 40 25}
-              }
-              Fl_Button {} {
-                label {+0.1}
-                callback {MVC->Move("Y", 0.1f);}
-                xywh {1175 245 40 25}
-              }
-              Fl_Button {} {
-                label {+1}
-                callback {MVC->Move("Y", 1);}
-                xywh {1220 245 40 25}
-              }
-              Fl_Button {} {
-                label {+10}
-                callback {MVC->Move("Y", 10);}
-                xywh {1265 245 40 25}
-              }
-              Fl_Button {} {
-                label {-100}
-                callback {MVC->Move("Y", -100);}
-                xywh {950 245 40 25}
-              }
-              Fl_Button {} {
-                label {+100}
-                callback {MVC->Move("Y", 100);}
-                xywh {1310 245 40 25}
-              }
-              Fl_Button {} {
-                label {-10}
-                callback {MVC->Move("Z", -10);}
-                xywh {995 275 40 25}
-              }
-              Fl_Button {} {
-                label {-1}
-                callback {MVC->Move("Z", -1);}
-                xywh {1040 275 40 25}
-              }
-              Fl_Button {} {
-                label {-0.1}
-                callback {MVC->Move("Z", -0.1f);}
-                xywh {1085 275 40 25}
-              }
-              Fl_Button {} {
-                label {+0.1}
-                callback {MVC->Move("Z", 0.1f);}
-                xywh {1175 275 40 25}
-              }
-              Fl_Button {} {
-                label {+1}
-                callback {MVC->Move("Z", 1);}
-                xywh {1220 275 40 25}
-              }
-              Fl_Button {} {
-                label {+10}
-                callback {MVC->Move("Z", 10);}
-                xywh {1265 275 40 25}
-              }
-              Fl_Button {} {
-                label {-100}
-                callback {MVC->Move("Z", -100);}
-                xywh {950 275 40 25}
-              }
-              Fl_Button {} {
-                label {+100}
-                callback {MVC->Move("Z", 100);}
-                xywh {1310 275 40 25}
-              }
-              Fl_Value_Input XposText {
-                callback {MVC->Goto("X", o->value());}
-                xywh {1130 216 40 24} maximum 500
-              }
-              Fl_Value_Input YposText {
-                callback {MVC->Goto("Y", o->value());}
-                xywh {1130 246 40 24} maximum 500
-              }
-              Fl_Value_Input ZposText {
-                callback {MVC->Goto("Z", o->value());}
-                xywh {1130 276 40 24} maximum 500
-              }
-              Fl_Button {} {
-                label {STOP !!!!}
-                callback {MVC->STOP();}
-                xywh {855 530 495 230} color 1 labelfont 1 labelsize 64 labelcolor 1
-              }
-              Fl_Value_Slider DownstreamMultiplierSlider {
-                label {Downstream speed multiplier}
-                xywh {845 490 510 25} type {Horz Knob} align 5 minimum 0.01 maximum 5 value 1 textsize 14
-              }
-            }
+            xywh {845 830 70 15} selection_color 63
+          }
+          Fl_Light_Button DrawVertexNumbersButton {
+            label {Draw vertex numbers}
+            callback {MVC->SetDrawVertexNumbers(o->value());}
+            xywh {1070 830 155 15} selection_color 63
+          }
+          Fl_Light_Button DrawLineNumbersButton {
+            label {Draw line numbers}
+            callback {MVC->SetDrawLineNumbers(o->value());}
+            xywh {1225 830 155 15} selection_color 63
+          }
+          Fl_Value_Slider ExamineSlider {
+            label Examine
+            callback {MVC->SetExamine(o->value());}
+            xywh {900 815 200 15} type Horizontal align 4 step 0.001 value 0.098 textsize 14
           }
           Fl_Group {} {
-            label Print open
-            xywh {835 65 540 45} box ENGRAVED_FRAME color 39
+            label Fan open
+            xywh {840 130 540 35} box ENGRAVED_FRAME color 39
           } {
-            Fl_Light_Button ConnectToPrinterButton {
-              label {Connect to printer}
-              callback {MVC->ConnectToPrinter(o->value());}
-              xywh {840 75 165 25} selection_color 2
+            Fl_Light_Button FanOnButton {
+              label {Fan on}
+              callback {MVC->SetFan(o->value() ? FanPowerSlider->value() : 0);}
+              xywh {845 135 85 25} selection_color 2
             }
-            Fl_Light_Button PrintButton {
-              label Print
-              callback {if(o->value())
-{
-o->label("Pause");
-MVC->Print();
-}
-else
-{
-MVC->Print();
-o->label("Print");
-}}
-              xywh {1010 75 165 25} selection_color 2
+            Fl_Value_Slider FanPowerSlider {
+              label Voltage
+              callback {FanOnButton->value(true);
+MVC->SetFan(o->value()*(255.0f/12.0f));}
+              xywh {995 135 375 25} type {Horz Knob} align 4 when 4 maximum 12 value 5 textsize 14
             }
-            Fl_Button {} {
-              label Nudge
-              callback {MVC->Continue();}
-              xywh {1180 75 165 25}
-            }
-          }
-          Fl_Group {} {
-            label Feedback open
-            xywh {835 130 540 45} box ENGRAVED_FRAME color 39
-          } {
-            Fl_Light_Button {} {
-              label Errors
-              callback {MVC->serial.SetDebugMask(DEBUG_ERRORS, (bool)o->value());}
-              xywh {845 140 165 25} value 1 selection_color 2
-            }
-            Fl_Light_Button {} {
-              label Info
-              callback {MVC->serial.SetDebugMask(DEBUG_INFO, (bool)o->value());}
-              xywh {1015 140 165 25} value 1 selection_color 2
-            }
-            Fl_Light_Button {} {
-              label Echo
-              callback {MVC->serial.SetDebugMask(DEBUG_ECHO, (bool)o->value());}
-              xywh {1185 140 165 25} value 1 selection_color 2
-            }
-          }
-          Fl_Light_Button AutoscrollButton {
-            label {Auto scroll}
-            xywh {1270 180 105 25} value 1 selection_color 2
           }
         }
       }
       Fl_Progress ProgressBar {
         label {Progress:}
-        xywh {75 5 1320 15} selection_color 63 align 4
+        xywh {75 5 755 15} selection_color 63 align 4
       }
     }
   }
@@ -1413,8 +1345,7 @@ MVC->init();
 MVC->CopySettingsToGUI();
 MVC->draw();
 MVC->redraw();
-MVC->redraw();} {selected
-    }
+MVC->redraw();} {}
   }
 } 
 
@@ -1422,6 +1353,9 @@ decl {extern GUI* gui;} {}
 
 Function {TempReadTimer(void *)} {open return_type void
 } {
-  code {MVC->serial.SendNow("M105");
-Fl::repeat_timeout(10.0f, &TempReadTimer);} {}
+  code {if(gui->TempReadingEnabledButton->value())
+{
+MVC->serial.SendNow("M105");
+Fl::repeat_timeout(MVC->gui ? MVC->ProcessControl.TempUpdateSpeed: 10.0f , &TempReadTimer);
+}} {}
 } 

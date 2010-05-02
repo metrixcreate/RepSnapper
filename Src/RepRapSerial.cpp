@@ -4,14 +4,22 @@
 
 void RepRapSerial::debugPrint(string s, bool selectLine)
 {
-	if(gui)
+	uint a=0;
+	while(a<s.length())
 	{
-		uint a=0;
-		while(a<s.length())
+		if(s[a] == '\r' || s[a] == '\n') s[a] = ' ';
+		a++;
+	}
+	time_t rawtime;
+	tm * ptm;
+	time ( &rawtime );
+	ptm = localtime ( &rawtime );
+	std::stringstream oss;
+	oss << setfill('0') << setw(2) << ptm->tm_hour << ":" << setfill('0') << setw(2) << ptm->tm_min << ":" << setfill('0') << setw(2) << ptm->tm_sec << " Send >>" << s.c_str() << "\n";
+	s=oss.str();
+
+	if(gui)
 		{
-			if(s[a] == '\r' || s[a] == '\n') s[a] = ' ';
-			a++;
-		}
 		gui->CommunationLog->add(s.c_str());
 		if(gui->AutoscrollButton->value())
 			gui->CommunationLog->bottomline(gui->CommunationLog->size());
@@ -22,22 +30,55 @@ void RepRapSerial::debugPrint(string s, bool selectLine)
 			if(gui->AutoscrollButton->value())
 				gui->ErrorLog->bottomline(gui->ErrorLog->size());
 			}
-	}
+
+		while(gui->CommunationLog->size() > MVC->ProcessControl.KeepLines)
+			gui->CommunationLog->remove(1);
+		while(gui->ErrorLog->size() > MVC->ProcessControl.KeepLines)
+			gui->ErrorLog->remove(1);
+		while(gui->Echo->size() > MVC->ProcessControl.KeepLines)
+
+			gui->Echo->remove(1);
+		}
 	else
 		printf("%s", s.c_str());
+
+	if(MVC->ProcessControl.FileLogginEnabled)
+	{
+	// is the files open?
+	if(logFile == 0)
+		{
+		// Append or new?
+		if(MVC->ProcessControl.ClearLogfilesWhenPrintStarts)
+			logFile = fopen("./RepSnapper.log", "w");
+		else
+			{
+			logFile = fopen("./RepSnapper.log", "a");
+			fseek ( logFile , 0 , SEEK_END );	// goto end of file
+			}
+		}
+	fputs ( s.c_str(), logFile );
+	}
+
 };
 void RepRapSerial::echo(string s)
 {
 
+	uint a=0;
+	while(a<s.length())
+	{
+		if(s[a] == '\r' || s[a] == '\n') s[a] = ' ';
+		a++;
+	}
+	time_t rawtime;
+	tm * ptm;
+	time ( &rawtime );
+	ptm = localtime ( &rawtime );
+	std::stringstream oss;
+	oss << setfill('0') << setw(2) << ptm->tm_hour << ":" << setfill('0') << setw(2) << ptm->tm_min << ":" << setfill('0') << setw(2) << ptm->tm_sec << " Echo >>" << s.c_str() << "\n";
+	s=oss.str();
+
 	if(gui)
 	{
-		uint a=0;
-		while(a<s.length())
-		{
-			if(s[a] == '\r' || s[a] == '\n') s[a] = ' ';
-			a++;
-		}
-		s+='\n';
 		Fl::lock();
 		gui->Echo->add(s.c_str());
 		if(gui->AutoscrollButton->value())
@@ -49,11 +90,28 @@ void RepRapSerial::echo(string s)
 	}
 	else
 		printf("%s", s.c_str());
+
+	if(MVC->ProcessControl.FileLogginEnabled)
+	{
+	// is the files open?
+	if(logFile == 0)
+		{
+		// Append or new?
+		if(MVC->ProcessControl.ClearLogfilesWhenPrintStarts)
+			logFile = fopen("./RepSnapper.log", "w");
+		else
+			{
+			logFile = fopen("./RepSnapper.log", "a");
+			fseek ( logFile , 0 , SEEK_END );	// goto end of file
+			}
+		}
+	fputs ( s.c_str(), logFile );
+	}
+
 };
 
 void RepRapSerial::StartPrint()
 {
-
 	m_iLineNr = 0;
 	m_bPrinting = true;
 	SendNextLine();
@@ -80,6 +138,7 @@ void RepRapSerial::SendNextLine()
 		m_bPrinting = false;
 		buffer.clear();
 		gui->ProgressBar->label("Print done");
+		MVC->PrintDone();
 		return;
 		}
 	if(gui)
@@ -171,7 +230,6 @@ void RepRapSerial::Connect(string port)
 
 void RepRapSerial::DisConnect()
 {
-
 	close();
 	m_bConnected = false;
 
@@ -186,7 +244,6 @@ void RepRapSerial::SetLineNr(int nr)
 
 void RepRapSerial::SetDebugMask(int mask, bool on)
 {
-
 	if(on)
 		debugMask |= mask;
 	else

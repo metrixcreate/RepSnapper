@@ -1,5 +1,5 @@
 
-Tested on ubunutu 9.04 and 9.10
+Tested on ubunutu 9.10
 
 requirements:
 
@@ -17,16 +17,11 @@ sudo apt-get install build-essential libfltk1.1 libfltk1.1-dev libglut3 libglut3
 
 compile:
 
-BOAZ:::: DON'T INCLUDE Flu_File_Chooser.cpp in the libflu build, it has some const char* problems
-
-
 cd Libraries/xml/
 make
 cd ../../Src/
 make
 
 
-
-Not implemented: 
-- Serial communication
-
+Executable will be left in the src folder. Currently there is no install
+rule.

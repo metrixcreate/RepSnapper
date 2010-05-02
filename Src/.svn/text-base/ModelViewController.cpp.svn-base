@@ -124,6 +124,7 @@ void tree_callback( Fl_Widget* w, void* )
 		printf( "node '%s' added to the tree\n", n->label() );
 		break;
 	}
+	MVC->redraw();
 }
 
 ModelViewController::~ModelViewController()
@@ -134,7 +135,6 @@ ModelViewController::ModelViewController(int x,int y,int w,int h,const char *l) 
 {
 	gui = 0;
 	zoom = 100.0f;
-
 	glClearColor (0.0f, 0.0f, 0.0f, 0.5f);							// Black Background
 	glClearDepth (1.0f);											// Depth Buffer Setup
 	glDepthFunc (GL_LEQUAL);										// The Type Of Depth Testing (Less Or Equal)
@@ -236,7 +236,6 @@ void ModelViewController::draw()
 		// enable lighting
 		glDisable ( GL_LIGHTING);
 	}
-
 //    glEnable(GL_BLEND);
 //    glBlendFunc(GL_SRC_ALPHA, GL_ONE_MINUS_SRC_ALPHA);
 	glClear(GL_COLOR_BUFFER_BIT | GL_DEPTH_BUFFER_BIT);				// Clear Screen And Depth Buffer
@@ -258,7 +257,8 @@ void ModelViewController::draw()
 
 	glLightModeli(GL_LIGHT_MODEL_LOCAL_VIEWER, 1);
 
-	ProcessControl.Draw();
+	Flu_Tree_Browser::Node *node=MVC->gui->RFP_Browser->get_selected( 1 );
+	ProcessControl.Draw(node);
 
 	/*--------------- Exit -----------------*/
 	glPopMatrix();													// NEW: Unapply Dynamic Transform
@@ -411,7 +411,6 @@ void ModelViewController::init()
 	buffer->text(ProcessControl.GCodeLayerText.c_str());
 	buffer = gui->GCodeEnd->buffer();
 	buffer->text(ProcessControl.GCodeEndText.c_str());
-	buffer = gui->NotesEditor->buffer();
 	buffer->text(ProcessControl.Notes.c_str());
 
 //	buffer = gui->CommunationsLogText->buffer();
@@ -431,7 +430,6 @@ void ModelViewController::CopySettingsToGUI()
 	buffer->text(ProcessControl.GCodeLayerText.c_str());
 	buffer = gui->GCodeEnd->buffer();
 	buffer->text(ProcessControl.GCodeEndText.c_str());
-	buffer = gui->NotesEditor->buffer();
 	buffer->text(ProcessControl.Notes.c_str());
 
 	gui->RaftEnableButton->value(ProcessControl.RaftEnable);
@@ -484,7 +482,6 @@ void ModelViewController::CopySettingsToGUI()
 	gui->InfillDistanceSlider->value(ProcessControl.InfillDistance);
 	gui->InfillRotationSlider->value(ProcessControl.InfillRotation);
 	gui->InfillRotationPrLayerSlider->value(ProcessControl.InfillRotationPrLayer);
-	gui->OptimizationSlider->value(ProcessControl.Optimization);
 	gui->ExamineSlider->value(ProcessControl.Examine);
 
 	gui->ShellOnlyButton->value(ProcessControl.ShellOnly);
@@ -492,6 +489,10 @@ void ModelViewController::CopySettingsToGUI()
 
 	gui->EnableAccelerationButton->value(ProcessControl.EnableAcceleration);
 
+	gui->FileLogginEnabledButton->value(ProcessControl.FileLogginEnabled);
+	gui->TempReadingEnabledButton->value(ProcessControl.TempReadingEnabled);
+	gui->ClearLogfilesWhenPrintStartsButton->value(ProcessControl.ClearLogfilesWhenPrintStarts);
+	
 	// GUI GUI
 	gui->DisplayEndpointsButton->value(ProcessControl.DisplayEndpoints);
 	gui->DisplayNormalsButton->value(ProcessControl.DisplayNormals);
@@ -529,18 +530,10 @@ void ModelViewController::CopySettingsToGUI()
 
 	gui->NormalLengthSlider->value(ProcessControl.NormalsLength);
 	gui->EndpointSizeSlider->value(ProcessControl.EndPointSize);
+	gui->TempUpdateSpeedSlider->value(ProcessControl.TempUpdateSpeed);
 
 	gui->DisplayGCodeButton->value(ProcessControl.DisplayGCode);
 	gui->LuminanceShowsSpeedButton->value(ProcessControl.LuminanceShowsSpeed);
-
-	gui->ApronEnableButton->value(ProcessControl.ApronEnable);
-	gui->ApronPreviewButton->value(ProcessControl.ApronPreview);
-	gui->ApronSizeSlider->value(ProcessControl.ApronSize);
-	gui->ApronHeightSlider->value(ProcessControl.ApronHeight);
-	gui->ApronCoverageXSlider->value(ProcessControl.ApronCoverageX);
-	gui->ApronCoverageYSlider->value(ProcessControl.ApronCoverageY);
-	gui->ApronDistanceToObjectSlider->value(ProcessControl.ApronDistanceToObject);
-	gui->ApronInfillDistanceSlider->value(ProcessControl.ApronInfillDistance);
 
 	gui->shrinkFastButton->value(ProcessControl.m_ShrinkQuality == SHRINK_FAST);
 	gui->shrinkNiceButton->value(ProcessControl.m_ShrinkQuality == SHRINK_NICE);
@@ -548,20 +541,35 @@ void ModelViewController::CopySettingsToGUI()
 
 void ModelViewController::Continue()
 {
+	serial.m_bPrinting = true;
 	serial.SendNextLine();
 }
 
-
+void ModelViewController::Restart()
+{
+	serial.Clear();	// resets line nr and clears buffer
+	Print();
+}
+void ModelViewController::PrintDone()
+{
+	serial.Clear();	// resets line nr and buffer
+	serial.m_bPrinting = false;
+	gui->PrintButton->label("Print");
+	gui->PrintButton->value(0);
+	gui->ContinueButton->deactivate();
+}
 void ModelViewController::Print()
 {
 	// Snack one line at a time from the Gcode view, and buffer it.
-
+/*
 	if(gui->PrintButton->value() == 0)	// Turned off print, cancel buffer and flush
 	{
-		serial.Clear();
+		m_bPrinting = false;
 		return;
 	}
-
+*/
+	serial.Clear();	// resets line nr and buffer
+	serial.m_bPrinting = false;
 	serial.SetDebugMask();
 	serial.SetLineNr(-1);	// Reset LineNr Count
 	gui->CommunationLog->clear();
@@ -589,6 +597,10 @@ void ModelViewController::Print()
 	serial.StartPrint();
 }
 
+void ModelViewController::Pause()
+{
+	serial.m_bPrinting = false;
+}
 
 void ModelViewController::SwitchHeat(bool on, float temp)
 {
@@ -612,8 +624,58 @@ void ModelViewController::SetExtruderLength(int length)
 {
 	m_iExtruderLength = length;
 }
+void ModelViewController::SetFileLogging(bool on)
+{
+	ProcessControl.FileLogginEnabled = on;
+}
+void ModelViewController::EnableTempReading(bool on)
+{
+	ProcessControl.TempReadingEnabled = on;
+	if(on)
+		Fl::add_timeout(1.0f, &TempReadTimer);
+
+}
+void ModelViewController::SetLogFileClear(bool on)
+{
+	ProcessControl.ClearLogfilesWhenPrintStarts = on;
+}
+void ModelViewController::ClearLogs()
+{
+
+}
+void ModelViewController::SwitchPower(bool on)
+{
+	if(on)
+		serial.SendNow("M80");
+	else
+		serial.SendNow("M81");
+}
+
+void ModelViewController::SetFan(int val)
+{
+	if(val != 0)
+	{
+		std::stringstream oss;
+		oss << "M106 S" << val;
+		serial.SendNow(oss.str());
+	}
+	else
+		serial.SendNow("M107");
+}
+
 void ModelViewController::RunExtruder()
 {
+	static bool extruderIsRunning = false;
+	if(ProcessControl.Use3DGcode)
+	{
+		if(extruderIsRunning)
+			serial.SendNow("M103");
+		else
+			serial.SendNow("M101");
+		extruderIsRunning = 1-extruderIsRunning;
+		return;
+	}
+
 	std::stringstream oss;
 	string command("G1 F");
 	oss << m_iExtruderSpeed;
@@ -765,7 +827,7 @@ void ModelViewController::Goto(string axis, float position)
 void ModelViewController::STOP()
 {
 	SendNow("M112");
-	serial.Clear();
+	serial.Clear(); // reset buffer
 }
 
 void ModelViewController::SetPrintMargin(string Axis, float value)
@@ -982,30 +1044,62 @@ void ModelViewController::ReadStl(string filename)
 	STL stl;
 	bool ok = ProcessControl.ReadStl(filename, stl);
 	if(ok)
-		{
-		RFO_Object *parent = SelectedParent();
-		if(parent == 0)
-		{
-			ProcessControl.rfo.Objects.push_back(RFO_Object());
-			ProcessControl.rfo.BuildBrowser(ProcessControl);
-			parent = SelectedParent();
-		}
-		assert(parent != 0);
+		AddStl(stl, filename);
+}
 
-		RFO_File r;
-		r.stl = stl;
 
-		size_t found;
-		found=filename.find_last_of("/\\");
-		r.location = filename.substr(found+1);
-		//r.filetype = "";
-		//string material;
-		r.node = 0;	//???
-		parent->files.push_back(r);
+RFO_File* ModelViewController::AddStl(STL stl, string filename)
+{
+	RFO_Object *parent = SelectedParent();
+	if(parent == 0)
+	{
+		ProcessControl.rfo.Objects.push_back(RFO_Object());
 		ProcessControl.rfo.BuildBrowser(ProcessControl);
-		}
+		parent = SelectedParent();
+	}
+	assert(parent != 0);
+
+	RFO_File r;
+	r.stl = stl;
+
+	size_t found;
+	found=filename.find_last_of("/\\");
+	r.location = filename.substr(found+1);
+	//r.filetype = "";
+	//string material;
+	r.node = 0;	//???
+	parent->files.push_back(r);
+	ProcessControl.rfo.BuildBrowser(ProcessControl);
 
 	ProcessControl.CalcBoundingBoxAndZoom();
+	redraw();
+	return &parent->files.back();
+}
+
+
+void ModelViewController::Duplicate()
+{
+	Flu_Tree_Browser::Node *node=MVC->gui->RFP_Browser->get_selected( 1 );
+	// first check files
+	for(uint o=0;o<ProcessControl.rfo.Objects.size();o++)
+	{
+		for(uint f=0;f<ProcessControl.rfo.Objects[o].files.size();f++)
+		{
+			if(ProcessControl.rfo.Objects[o].files[f].node == node)
+			{
+				// Move it, so there's room for it.
+				RFO_File* obj = AddStl(ProcessControl.rfo.Objects[o].files[f].stl, ProcessControl.rfo.Objects[o].files[f].location);
+				Vector3f p = ProcessControl.rfo.Objects[o].files[f].transform3D.transform.getTranslation();
+				Vector3f size = ProcessControl.rfo.Objects[o].files[f].stl.Max - ProcessControl.rfo.Objects[o].files[f].stl.Min;
+				p.x += size.x+5.0f;	// 5mm space
+				obj->transform3D.transform.setTranslation(p);
+				MVC->gui->RFP_Browser->set_hilighted(obj->node);
+				ProcessControl.CalcBoundingBoxAndZoom();
+				redraw();
+				return;
+			}
+		}
+	}
 }
 
 void ModelViewController::newObject()

@@ -1,9 +1,9 @@
-9
+10
 
 dir
-173
-http://www.kulitorum.com/RepSnapper/Libraries/Boost1.40/libs/math/doc/distexplorer
-http://www.kulitorum.com/RepSnapper
+191
+http://svn.kulitorum.com/RepSnapper/Libraries/Boost1.40/libs/math/doc/distexplorer
+http://svn.kulitorum.com/RepSnapper
 
 
 
@@ -12,7 +12,7 @@ http://www.kulitorum.com/RepSnapper
 repsnapper
 
 
-svn:special svn:externals svn:needs-lock
+
 
 
 
@@ -32,7 +32,7 @@ file
 
 
 
-2010-03-15T17:16:04.000000Z
+2010-03-27T01:22:33.000000Z
 e5c7ab3d535b98e334556991a06f9410
 2010-01-25T14:30:52.188453Z
 124
@@ -69,7 +69,7 @@ file
 
 
 
-2010-03-15T17:16:04.000000Z
+2010-03-27T01:22:33.000000Z
 f86e4b927d87fd7b533c1df31942e2ed
 2010-01-25T14:30:52.188453Z
 124

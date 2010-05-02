@@ -110,7 +110,7 @@ void STL::GetObjectsFromIvcon()
 	}
 }
 
-bool STL::Read(string filename)
+bool STL::Read(string filename, bool force_binary)
 {
 	triangles.clear();
 	Min.x = Min.y = Min.z = 500.0f;
@@ -123,20 +123,24 @@ bool STL::Read(string filename)
 		if(!infile.good())
 			return false;
 			
-		// Ascii ot binary?
+		// Ascii or binary?
 		long header;
 		infile.read(reinterpret_cast < char * > (&header), sizeof(long));	// Header
 		Min.x = Min.y = Min.z = 99999999.0f;
 		Max.x = Max.y = Max.z = -99999999.0f;
 
 		//Check if the header is "soli"
-		if(header == 0x696c6f73)
+		if(header == 0x696c6f73 && !force_binary)
 			{
 			infile.close();
 			FILE* file = fopen(filename.c_str(), "r");
 			int result = stla_read(file);
 			if(result)
 			{
+				// Maybe it *is* a binary file, although the header would make you think not
+				if(Read(filename, true) == true)
+					return true;
+				// if this fails, forced binary reading failed too, error
 				stringstream error;
 				error << "Error reading file: " << filename;
 				fl_alert(error.str().c_str());
@@ -364,7 +368,7 @@ void STL::draw(const ProcessController &PC, float opasity)
 			CalcCuttingPlane(z, plane, T);	// output is alot of un-connected line segments with individual vertices
 
 			float hackedZ = z;
-			while(plane.LinkSegments(hackedZ, PC.ExtrudedMaterialWidth*0.5f, PC.Optimization, PC.DisplayCuttingPlane, PC.m_ShrinkQuality, PC.ShellCount) == false)	// If segment linking fails, re-calc a new layer close to this one, and use that.
+			while(plane.LinkSegments(hackedZ, PC.ExtrudedMaterialWidth*0.5f, PC.DisplayCuttingPlane, PC.m_ShrinkQuality, PC.ShellCount) == false)	// If segment linking fails, re-calc a new layer close to this one, and use that.
 			{										// This happens when there's triangles missing in the input STL
 				hackedZ+= 0.1f;
 				plane.polygons.clear();
@@ -450,7 +454,7 @@ void STL::draw(const ProcessController &PC, float opasity)
 uint findClosestUnused(std::vector<Vector3f> lines, Vector3f point, std::vector<bool> &used)
 {
 	uint closest = -1;
-	float closestDist = 9999999999999;
+	float closestDist = 1000000;
 	
 	uint count = lines.size();
 	
@@ -680,6 +684,13 @@ void CuttingPlane::MakeGcode(const std::vector<Vector2f> &infill, GCode &code, f
 	command.where = Vector3f(0,0,z);
 	command.e = E;					// move
 	command.f = MinPrintSpeedZ;		// Use Min Z speed
+	code.commands.push_back(command);
+	command.comment = "";
+
+	command.Code = SETSPEED;
+	command.where = Vector3f(0,0,lastLayerZ);
+	command.e = E;					// move
+	command.f = MinPrintSpeedXY;		// Use Min Z speed
 	code.commands.push_back(command);
 	command.comment = "";
 
@@ -1431,7 +1442,7 @@ public:
 };
 
 
-bool CuttingPlane::LinkSegments(float z, float ShrinkValue, float Optimization, bool DisplayCuttingPlane, bool ShrinkQuality, int ShellCount)
+bool CuttingPlane::LinkSegments(float z, float ShrinkValue, bool DisplayCuttingPlane, bool ShrinkQuality, int ShellCount)
 {
 	if(vertices.size() == 0)
 		return true;
@@ -1599,7 +1610,7 @@ bool CuttingPlane::LinkSegments(float z, float ShrinkValue, float Optimization, 
 		}	// while startLine != -1
 
 	// Cleanup polygons
-	CleanupPolygons(Optimization);
+	CleanupPolygons();
 
 	if(ShrinkQuality)
 		ShrinkNice(ShrinkValue, z, DisplayCuttingPlane, true, ShellCount);
@@ -1831,132 +1842,6 @@ bool CuttingPlane::LinkSegments(float z, float ShrinkValue, float Optimization, 
   free(out.triangleattributelist);
 
 */
-uint CuttingPlane::selfIntersectAndDivideRecursive(float z, uint startPolygon, uint startVertex, vector<outline> &outlines, const Vector2f endVertex, uint &level)
-{
-	level++;	
-	outline result;
-	for(uint p=startPolygon; p<offsetPolygons.size();p++)
-	{
-		uint count = offsetPolygons[p].points.size();
-		for(uint v=startVertex; v<count;v++)
-		{
-			for(uint p2=0; p2<offsetPolygons.size();p2++)
-			{
-				uint count2 = offsetPolygons[p2].points.size();
-				for(int v2=0; v2<count2;v2++)
-				{
-					if((p==p2) && (v == v2))	// Dont check a point against itself
-						continue;
-					Vector2f P1 = offsetVertices[offsetPolygons[p].points[v]];
-					Vector2f P2 = offsetVertices[offsetPolygons[p].points[(v+1)%count]];
-					Vector2f P3 = offsetVertices[offsetPolygons[p2].points[v2]];
-					Vector2f P4 = offsetVertices[offsetPolygons[p2].points[(v2+1)%count2]];
-					InFillHit hit;
-					result.push_back(P1);
-					if(P1 != P3 && P2 != P3 && P1 != P4 && P2 != P4)
-						if(IntersectXY(P1,P2,P3,P4,hit))
-							{
-							if( (hit.p-endVertex).length() < 0.01)
-								{
-//								outlines.push_back(result);
-//								return (v+1)%count;
-								}
-							result.push_back(hit.p);
-//							v=selfIntersectAndDivideRecursive(z, p2, (v2+1)%count2, outlines, hit.p, level);
-//							outlines.push_back(result);
-//							return;
-							}
-				}
-			}
-		}
-	}	
-	outlines.push_back(result);
-	level--;
-	return startVertex;
-}
-
-void CuttingPlane::recurseSelfIntersectAndDivide(float z, vector<locator> &EndPointStack, vector<outline> &outlines, vector<locator> &visited)
-{
-	// pop an entry from the stack.
-	// Trace it till it hits itself
-	//		store a outline
-	// When finds splits, store locator on stack and recurse
-
-	while(EndPointStack.size())
-	{
-		locator start(EndPointStack.back().p, EndPointStack.back().v, EndPointStack.back().t);
-		visited.push_back(start);	// add to visited list
-		EndPointStack.pop_back();	// remove from to-do stack
-
-		// search for the start point
-
-		outline result;
-		for(uint p=start.p; p<offsetPolygons.size();p++)
-		{
-			for(uint v=start.v; v<offsetPolygons[p].points.size();v++)
-			{
-				Vector2f P1 = offsetVertices[offsetPolygons[p].points[v]];
-				Vector2f P2 = offsetVertices[offsetPolygons[p].points[(v+1)%offsetPolygons[p].points.size()]];
-
-				result.push_back(P1);	// store this point
-				for(uint p2=0; p2<offsetPolygons.size();p2++)
-				{
-					uint count2 = offsetPolygons[p2].points.size();
-					for(int v2=0; v2<count2;v2++)
-					{
-						if((p==p2) && (v == v2))	// Dont check a point against itself
-							continue;
-						Vector2f P3 = offsetVertices[offsetPolygons[p2].points[v2]];
-						Vector2f P4 = offsetVertices[offsetPolygons[p2].points[(v2+1)%offsetPolygons[p2].points.size()]];
-						InFillHit hit;
-
-						if(P1 != P3 && P2 != P3 && P1 != P4 && P2 != P4)
-						{
-							if(IntersectXY(P1,P2,P3,P4,hit))
-							{
-								bool alreadyVisited=false;
-
-								UINT i;
-								for(i=0;i<visited.size();i++)
-								{
-									if(visited[i].p == p && visited[i].v == v)
-									{
-										alreadyVisited = true;
-										break;
-									}
-								}
-								if(alreadyVisited == false)
-								{
-									EndPointStack.push_back(locator(p,v+1,hit.t));	// continue from here later on
-									p=p2;v=v2;	// continue along the intersection line
-									Vector2f P1 = offsetVertices[offsetPolygons[p].points[v]];
-									Vector2f P2 = offsetVertices[offsetPolygons[p].points[(v+1)%offsetPolygons[p].points.size()]];
-								}
-
-
-								result.push_back(hit.p);
-								// Did we hit the starting point?
-								if(start.p == p  && start.v == v) // we have a loop
-									{
-									outlines.push_back(result);
-									result.clear();
-									recurseSelfIntersectAndDivide(z, EndPointStack, outlines, visited);
-									return;
-									}
-								glPointSize(10);
-								glColor3f(1,1,1);
-								glBegin(GL_POINTS);
-								glVertex3f(hit.p.x, hit.p.y, z);
-								glEnd();
-							}
-						}
-					}
-				}
-			}
-		}
-	}
-}
-
 
 float angleBetween(Vector2f V1, Vector2f V2)
 {
@@ -2470,7 +2355,7 @@ void CuttingPlane::ShrinkNice(float distance, float z, bool DisplayCuttingPlane,
 	offsetPolygons.push_back(offsetPoly);*/
 //	selfIntersectAndDivide(z);
 
-	CleanupOffsetPolygons(0.1f);
+	CleanupOffsetPolygons();
 }
 #endif
 
@@ -2632,8 +2517,19 @@ void STL::RotateObject(Vector3f axis, float angle)
 	max.y = MAX(max.y, triangles[i].C.y);
 	max.z = MAX(max.z, triangles[i].C.z);
 	}
-	Min = min;
-	Max = max;
+
+	// Move object, so min.x,y,z = old Min.x,y,z
+	Vector3f Delta = Min-min;
+
+	for(uint i=0; i<triangles.size() ; i++)
+	{
+		triangles[i].A += Delta;
+		triangles[i].B += Delta;
+		triangles[i].C += Delta;
+	}
+
+	Min = min+Delta;
+	Max = max+Delta;
 }
 
 float Triangle::area()
@@ -2641,9 +2537,9 @@ float Triangle::area()
 	return ( ((C-A).cross(B-A)).length() );
 }
 
-void CuttingPlane::CleanupPolygons(float Optimization)
+void CuttingPlane::CleanupPolygons()
 {
-	float allowedError = Optimization;
+	float allowedError = 0.001;
 	for(int p=0;p<polygons.size();p++)
 	{
 		for(int v=0;v<polygons[p].points.size();)
@@ -2668,9 +2564,9 @@ void CuttingPlane::CleanupPolygons(float Optimization)
 	}
 }
 
-void CuttingPlane::CleanupOffsetPolygons(float Optimization)
+void CuttingPlane::CleanupOffsetPolygons()
 {
-	float allowedError = Optimization;
+	float allowedError = 0.01;
 	for(int p=0;p<offsetPolygons.size();p++)
 	{
 		for(int v=0;v<offsetPolygons[p].points.size();)
@@ -2712,10 +2608,10 @@ void STL::CenterAroundXY()
 }
 
 
-void Poly::calcHole(vector<Vector2f> &offsetVertices)
+int Poly::calcHole(vector<Vector2f> &offsetVertices)
 {
 	if(points.size() == 0)
-		return;	// hole is undefined
+		return 0;	// hole is undefined
 	Vector2f p(-6000, -6000);
 	int v=0;
 	for(int vert=0;vert<points.size();vert++)
@@ -2740,10 +2636,15 @@ void Poly::calcHole(vector<Vector2f> &offsetVertices)
 	Vector2f Va=V2-V1;
 	Vector2f Vb=V3-V1;
 	hole = Va.cross(Vb) > 0;
+
+	return v;
 }
 
 void CuttingPlane::selfIntersectAndDivide(float z)
 {
+//	selfIntersectAndDivideTest(z);
+//	return;
+
 	if(offsetPolygons.size() == 0)
 		return;
 
@@ -2835,4 +2736,58 @@ void CuttingPlane::selfIntersectAndDivide(float z)
 		}
 		offsetPolygons.push_back(pol);
 	}
+}
+
+
+void CuttingPlane::selfIntersectAndDivideTest(float z)
+{
+	if(offsetPolygons.size() == 0)
+		return;
+
+	int startVertex[100];
+
+	for(uint p=0; p<offsetPolygons.size();p++)
+		startVertex[p] = offsetPolygons[p].calcHole(offsetVertices);
+
+	// Find intersections
+
+//	vector<uint> points;			// points, indices into ..... a CuttingPlane or a GCode object
+//	bool hole;
+
+
+	bool positive = true;
+
+	for(uint p=0; p<offsetPolygons.size();p++)
+		{
+		vector<uint> result;
+//		for(int pnr=0;pnr<offsetPolygons[p].points.size();pnr++)
+			{
+				uint v;
+				for(v=startVertex[p];v<offsetPolygons[p].points.size()+startVertex[p];v++)
+				{
+					Vector2f P1 = offsetVertices[offsetPolygons[p].points[v%offsetPolygons[p].points.size()]];;
+					Vector2f P2 = offsetVertices[offsetPolygons[p].points[(v+1)%offsetPolygons[p].points.size()]];
+
+					// Intersect this line with the other lines
+					for(uint v2=startVertex[p];v2<offsetPolygons[p].points.size()+startVertex[p];v2++)
+					{
+						Vector2f P3 = offsetVertices[offsetPolygons[p].points[v2%offsetPolygons[p].points.size()]];;
+						Vector2f P4 = offsetVertices[offsetPolygons[p].points[(v2+1)%offsetPolygons[p].points.size()]];
+
+						InFillHit hit;
+						if(IntersectXY(P1,P2,P3,P4, hit) == 1) //we are in a negative area
+						{
+							if(hit.t != 0 && hit.t != 1)
+							{
+								positive = !positive;
+							}
+						}
+					}
+
+				}
+				if(positive)
+					result.push_back(v);
+			}
+		offsetPolygons[p].points = result;
+		}
 }

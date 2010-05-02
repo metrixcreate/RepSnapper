@@ -1,25 +1,25 @@
 K 25
 svn:wc:ra_dav:version-url
 V 52
-/RepSnapper/!svn/ver/171/MoreUsefulMouseCode/Release
+/RepSnapper/!svn/ver/182/MoreUsefulMouseCode/Release
 END
 04_MoreUsefulMouseCode.lib
 K 25
 svn:wc:ra_dav:version-url
 V 79
-/RepSnapper/!svn/ver/171/MoreUsefulMouseCode/Release/04_MoreUsefulMouseCode.lib
+/RepSnapper/!svn/ver/182/MoreUsefulMouseCode/Release/04_MoreUsefulMouseCode.lib
 END
 mt.dep
 K 25
 svn:wc:ra_dav:version-url
 V 59
-/RepSnapper/!svn/ver/171/MoreUsefulMouseCode/Release/mt.dep
+/RepSnapper/!svn/ver/182/MoreUsefulMouseCode/Release/mt.dep
 END
 BuildLog.htm
 K 25
 svn:wc:ra_dav:version-url
 V 65
-/RepSnapper/!svn/ver/171/MoreUsefulMouseCode/Release/BuildLog.htm
+/RepSnapper/!svn/ver/182/MoreUsefulMouseCode/Release/BuildLog.htm
 END
 04_MoreUsefulMouseCode.exe.intermediate.manifest
 K 25
@@ -31,5 +31,5 @@ END
 K 25
 svn:wc:ra_dav:version-url
 V 79
-/RepSnapper/!svn/ver/171/MoreUsefulMouseCode/Release/04_MoreUsefulMouseCode.exe
+/RepSnapper/!svn/ver/182/MoreUsefulMouseCode/Release/04_MoreUsefulMouseCode.exe
 END
